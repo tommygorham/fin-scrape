@@ -1,12 +1,54 @@
 import requests
 from bs4 import BeautifulSoup
 from collections import defaultdict
+import re
+import json
 
 def fetch_table(url, selector):
-    resp = requests.get(url)
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    }
+    resp = requests.get(url, headers=headers, timeout=10)
     resp.raise_for_status()
     soup = BeautifulSoup(resp.text, 'html.parser')
     return soup.select_one(selector)
+
+def fetch_insider_json(url):
+    """Fetch insider trading data from embedded JSON in page."""
+    import ast
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    }
+    resp = requests.get(url, headers=headers, timeout=10)
+    resp.raise_for_status()
+    
+    # Extract the data from the JavaScript variable
+    match = re.search(r'let recentInsiderTransactionsData = (\[.*?\]);', resp.text, re.DOTALL)
+    if match:
+        try:
+            # Use ast.literal_eval since data uses Python-style single quotes
+            return ast.literal_eval(match.group(1))
+        except (ValueError, SyntaxError) as e:
+            print(f"Parse error: {e}", file=__import__('sys').stderr)
+            return None
+    return None
+
+def count_insider_transactions_from_json(data):
+    """Count insider transactions from JSON data."""
+    counts = defaultdict(lambda: [0, 0])
+    
+    for item in data:
+        ticker = item.get('issuerTradingSymbol')
+        if not ticker or ticker == '-':
+            continue
+        
+        transaction_code = item.get('transactionCode', '').lower()
+        if transaction_code == 'sale':
+            counts[ticker][0] += 1
+        else:
+            counts[ticker][1] += 1
+    
+    return {k: tuple(v) for k, v in counts.items()}
 
 def parse_rows(table, columns_map):
     data = []
@@ -75,10 +117,15 @@ def congress_sale_detector(row):
 
 def insider_ticker_extractor(row):
     """Extract ticker from insider trading row"""
-    ticker_elem = row.select_one('td a')
-    return ticker_elem.text.strip() if ticker_elem else None
+    tds = row.find_all('td')
+    if len(tds) >= 2:
+        return tds[1].get_text(strip=True)
+    return None
 
 def insider_sale_detector(row):
     """Detect if insider row is a sale"""
-    action_elem = row.select_one('td:nth-of-type(3)')
-    return action_elem and action_elem.text.strip().lower() == 'sale'
+    tds = row.find_all('td')
+    if len(tds) >= 3:
+        action_text = tds[2].get_text(strip=True).lower()
+        return action_text == 'sale'
+    return False

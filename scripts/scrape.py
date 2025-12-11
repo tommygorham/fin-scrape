@@ -6,7 +6,8 @@ import argparse
 from scraper import (
     fetch_table, count_transactions,
     congress_ticker_extractor, congress_sale_detector,
-    insider_ticker_extractor, insider_sale_detector
+    insider_ticker_extractor, insider_sale_detector,
+    fetch_insider_json, count_insider_transactions_from_json
 )
 
 CONFIG = {
@@ -15,12 +16,14 @@ CONFIG = {
         'selector': 'table.table-congress.table-politician',
         'ticker_extractor': congress_ticker_extractor,
         'sale_detector': congress_sale_detector,
+        'use_json': False,
     },
     'insider': {
         'url': 'https://www.quiverquant.com/insiders/', 
-        'selector': 'table.insider-trading-table',
+        'selector': 'table#recentInsiderTransactionsTable',
         'ticker_extractor': insider_ticker_extractor,
         'sale_detector': insider_sale_detector,
+        'use_json': True,
     },
 }
 
@@ -30,16 +33,25 @@ def main():
     args = p.parse_args()
     
     cfg = CONFIG[args.source]
-    table = fetch_table(cfg['url'], cfg['selector'])
-    if not table:
-        print(f"Error: Could not find table for {args.source}")
-        return
     
-    counts = count_transactions(
-        table, 
-        cfg['ticker_extractor'], 
-        cfg['sale_detector']
-    )
+    # Use JSON extraction for insider data (page loads dynamically)
+    if cfg.get('use_json'):
+        data = fetch_insider_json(cfg['url'])
+        if not data:
+            print(f"Error: Could not fetch JSON data for {args.source}")
+            return
+        counts = count_insider_transactions_from_json(data)
+    else:
+        table = fetch_table(cfg['url'], cfg['selector'])
+        if not table:
+            print(f"Error: Could not find table for {args.source}")
+            return
+        
+        counts = count_transactions(
+            table, 
+            cfg['ticker_extractor'], 
+            cfg['sale_detector']
+        )
     
     # Add a header to indicate the source of the purchases.
     print(f"--- {args.source.capitalize()} Purchases ---")
