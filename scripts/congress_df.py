@@ -7,120 +7,87 @@ to a pandas DataFrame with key information about each transaction
 import argparse
 import pandas as pd
 import requests
-from bs4 import BeautifulSoup
-from datetime import datetime
+import re
+import ast
 
-def fetch_table(url, selector):
-    """Fetch HTML table from URL"""
+
+def fetch_congress_json():
+    """
+    Fetch congress trading data from embedded JSON in page.
+
+    Returns:
+        list: Raw JSON data or None if failed
+    """
+    url = 'https://www.quiverquant.com/congresstrading/'
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    }
+
     try:
-        resp = requests.get(url)
+        resp = requests.get(url, headers=headers, timeout=10)
         resp.raise_for_status()
-        soup = BeautifulSoup(resp.text, 'html.parser')
-        return soup.select_one(selector)
     except Exception as e:
-        print(f"Error fetching table: {e}")
+        print(f"Error fetching congress data: {e}")
         return None
 
-def extract_congress_data(table):
-    """
-    Extract data from congress trading table into structured format.
-    
-    Returns:
-        List of dictionaries containing transaction data
-    """
-    data = []
-    
-    if not table:
-        return data
-        
-    tbody = table.find('tbody')
-    if not tbody:
-        return data
-    
-    for row in tbody.find_all('tr'):
-        try:
-            cells = row.find_all('td', recursive=False)
-            if len(cells) < 5:  # Ensure we have enough cells
-                continue
-                
-            # Extract ticker
-            ticker_span = (cells[0].find('span', class_='positive') or 
-                          cells[0].find('span', class_='negative') or 
-                          cells[0].find('span'))
-            ticker = ticker_span.get_text(strip=True) if ticker_span else None
-            if ticker == '-' or not ticker:
-                continue
-                
-            # Extract transaction type
-            transaction_span = cells[1].find('span')
-            transaction = transaction_span.get_text(strip=True) if transaction_span else None
-            
-            # Extract politician name
-            politician = cells[2].get_text(strip=True)
-            
-            # Extract filing date
-            filed_date = cells[3].get_text(strip=True)
-            
-            # Extract trade date
-            trade_date = cells[4].get_text(strip=True)
-            
-            # Create data entry
-            entry = {
-                'Stock': ticker,
-                'Transaction': transaction,
-                'Politician': politician,
-                'Filed': filed_date,
-                'Traded': trade_date
-            }
-            
-            data.append(entry)
-            
-        except Exception as e:
-            print(f"Error parsing row: {e}")
-            continue
-            
-    return data
+    # Extract JSON data from page
+    # Data format: list of lists with structure:
+    # [0]=Ticker, [1]=Company, [2]=Type, [3]=Transaction, [4]=Amount, [5]=Politician,
+    # [6]=Chamber, [7]=Party, [8]=FiledDate, [9]=TradeDate, [10]=Notes, ...
+    match = re.search(r'let recentTradesData = (\[.*?\]);', resp.text, re.DOTALL)
+    if not match:
+        print("Could not find congress trades data in page")
+        return None
+
+    try:
+        return ast.literal_eval(match.group(1))
+    except (ValueError, SyntaxError) as e:
+        print(f"Parse error: {e}")
+        return None
+
 
 def get_congress_dataframe(purchases_only=False, sort_by_recent_purchases=False):
     """
     Fetch congress trading data and return as DataFrame
-    
+
     Args:
         purchases_only (bool): If True, filter out all sales transactions
         sort_by_recent_purchases (bool): If True, sort by most recent purchases first
-        
+
     Returns:
         pandas.DataFrame: Congress trading data
     """
-    url = 'https://www.quiverquant.com/congresstrading/'
-    selector = 'table.table-congress.table-politician'
-    
-    table = fetch_table(url, selector)
-    data = extract_congress_data(table)
-    
-    # Convert to DataFrame
-    df = pd.DataFrame(data)
-    
+    data = fetch_congress_json()
+
+    if not data:
+        return pd.DataFrame()
+
+    # Convert to DataFrame with named columns
+    columns = ['Stock', 'Company', 'Type', 'Transaction', 'Amount', 'Politician',
+               'Chamber', 'Party', 'Filed', 'Traded', 'Notes', 'ID',
+               'Return', 'PoliticianName', 'ImageURL', 'MemberID']
+    df = pd.DataFrame(data, columns=columns[:len(data[0])] if data else columns)
+
+    # Keep only relevant columns
+    df = df[['Stock', 'Transaction', 'Politician', 'Party', 'Chamber', 'Amount', 'Traded', 'Filed']]
+
     # Additional processing
     if not df.empty:
-        # Convert dates to datetime if needed
-        for date_col in ['Filed', 'Traded']:
-            try:
-                df[date_col] = pd.to_datetime(df[date_col], errors='coerce')
-            except:
-                pass
-        
+        # Convert dates to datetime
+        df['Traded'] = pd.to_datetime(df['Traded'], errors='coerce')
+        df['Filed'] = pd.to_datetime(df['Filed'], errors='coerce')
+
+        # Filter out invalid tickers
+        df = df[df['Stock'].notna() & (df['Stock'] != '-') & (df['Stock'] != '')]
+
         # Filter out sales if requested
         if purchases_only:
-            df = df[df['Transaction'].str.contains('Purchase', case=False, na=False)]
-        
-        # Remove the Filed column
-        df = df.drop(columns=['Filed'])
-        
+            df = df[df['Transaction'].str.lower() == 'purchase']
+
         # Sort by most recent trades first if requested
         if sort_by_recent_purchases and not df.empty:
             df = df.sort_values(by='Traded', ascending=False)
-    
+
     return df
 
 def main():
