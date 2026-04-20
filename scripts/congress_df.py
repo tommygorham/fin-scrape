@@ -126,7 +126,14 @@ def main():
     if args.output:
         df.to_csv(args.output, index=False)
         print(f"Data saved to {args.output}")
-    
+
+    if args.purchases_only:
+        try:
+            import db
+            db.insert_congress_purchases(df)
+        except Exception as e:
+            print(f"Warning: congress DB insert failed: {e}")
+
     return df
 
 if __name__ == '__main__':

@@ -1,0 +1,107 @@
+Stock,Transaction,Politician,Party,Chamber,Amount,Traded,Filed
+FSS,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-02,2026-03-09 00:00:00
+NDAQ,Purchase,April McClain Delaney,D,House,"$1,001 - $15,000",2026-02-27,2026-03-10 00:00:00
+NTAP,Purchase,John Boozman,R,Senate,"$1,001 - $15,000",2026-02-27,2026-03-06 16:10:00
+EME,Purchase,April McClain Delaney,D,House,"$1,001 - $15,000",2026-02-27,2026-03-10 00:00:00
+MEDP,Purchase,David Taylor,R,House,"$1,001 - $15,000",2026-02-26,2026-03-06 00:00:00
+MSFT,Purchase,David Taylor,R,House,"$1,001 - $15,000",2026-02-26,2026-03-06 00:00:00
+GOOGL,Purchase,David Taylor,R,House,"$1,001 - $15,000",2026-02-26,2026-03-06 00:00:00
+AVGO,Purchase,David Taylor,R,House,"$1,001 - $15,000",2026-02-26,2026-03-06 00:00:00
+AMZN,Purchase,David Taylor,R,House,"$1,001 - $15,000",2026-02-26,2026-03-06 00:00:00
+KR,Purchase,John Boozman,R,Senate,"$1,001 - $15,000",2026-02-26,2026-03-06 16:10:00
+V,Purchase,David Taylor,R,House,"$1,001 - $15,000",2026-02-26,2026-03-06 00:00:00
+TSM,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-02-26,2026-03-09 00:00:00
+LLY,Purchase,David Taylor,R,House,"$1,001 - $15,000",2026-02-26,2026-03-06 00:00:00
+UNH,Purchase,Markwayne Mullin,R,Senate,"$50,001 - $100,000",2026-02-25,2026-03-10 10:39:00
+MU,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-02-24,2026-03-09 00:00:00
+CLH,Purchase,April McClain Delaney,D,House,"$15,001 - $50,000",2026-02-23,2026-03-10 00:00:00
+SKY,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-02-23,2026-03-09 00:00:00
+ROL,Purchase,April McClain Delaney,D,House,"$1,001 - $15,000",2026-02-20,2026-03-10 00:00:00
+KMI,Purchase,Rick W. Allen,R,House,"$1,001 - $15,000",2026-02-19,2026-03-11 00:00:00
+TSM,Purchase,Rick W. Allen,R,House,"$1,001 - $15,000",2026-02-19,2026-03-11 00:00:00
+91282CLC3,Purchase,Rick W. Allen,R,House,"$50,001 - $100,000",2026-02-18,2026-03-11 00:00:00
+RARE,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-02-18,2026-03-09 00:00:00
+ROL,Purchase,April McClain Delaney,D,House,"$1,001 - $15,000",2026-02-18,2026-03-10 00:00:00
+PG,Purchase,Lloyd Doggett,D,House,"$1,001 - $15,000",2026-02-17,2026-03-05 00:00:00
+FSV,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-02-17,2026-03-09 00:00:00
+FSV,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-02-13,2026-03-09 00:00:00
+MHVYF,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-02-13,2026-03-09 00:00:00
+ARLP,Purchase,Virginia Foxx,R,House,"$1,001 - $15,000",2026-02-13,2026-03-02 00:00:00
+CHRW,Purchase,April McClain Delaney,D,House,"$15,001 - $50,000",2026-02-13,2026-03-10 00:00:00
+MSFT,Purchase,John Boozman,R,Senate,"$1,001 - $15,000",2026-02-13,2026-03-06 16:10:00
+ROL,Purchase,April McClain Delaney,D,House,"$15,001 - $50,000",2026-02-13,2026-03-10 00:00:00
+AAPL,Purchase,Cleo Fields,D,House,"$1,001 - $15,000",2026-02-12,2026-02-24 00:00:00
+LH,Purchase,April McClain Delaney,D,House,"$1,001 - $15,000",2026-02-11,2026-03-10 00:00:00
+DBA AXIOM MATH,Purchase,Kelly Morrison,D,House,"$15,001 - $50,000",2026-02-11,2026-03-02 00:00:00
+ZTS,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-02-10,2026-03-09 00:00:00
+XOM,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$50,001 - $100,000",2026-02-10,2026-03-09 00:00:00
+WMB,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-02-10,2026-03-09 00:00:00
+PFE,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-02-10,2026-03-09 00:00:00
+VRSN,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-02-10,2026-03-09 00:00:00
+TTD,Purchase,Byron Donalds,R,House,"$1,001 - $15,000",2026-02-10,2026-03-06 00:00:00
+TTD,Purchase,Byron Donalds,R,House,"$1,001 - $15,000",2026-02-10,2026-03-06 00:00:00
+TRGP,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-02-10,2026-03-09 00:00:00
+STE,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-02-10,2026-03-09 00:00:00
+NOW,Purchase,Byron Donalds,R,House,"$1,001 - $15,000",2026-02-10,2026-03-06 00:00:00
+NOW,Purchase,Byron Donalds,R,House,"$1,001 - $15,000",2026-02-10,2026-03-06 00:00:00
+VRSK,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-02-10,2026-03-09 00:00:00
+OXY,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-02-10,2026-03-09 00:00:00
+AMD,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-02-10,2026-03-09 00:00:00
+BSX,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-02-10,2026-03-09 00:00:00
+CAG,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-02-10,2026-03-09 00:00:00
+COP,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-02-10,2026-03-09 00:00:00
+CTRA,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-02-10,2026-03-09 00:00:00
+TSCO,Purchase,April McClain Delaney,D,House,"$1,001 - $15,000",2026-02-10,2026-03-10 00:00:00
+OKE,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-02-10,2026-03-09 00:00:00
+CVX,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$15,001 - $50,000",2026-02-10,2026-03-09 00:00:00
+DASH,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-02-10,2026-03-09 00:00:00
+DPZ,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-02-10,2026-03-09 00:00:00
+AMZN,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-02-10,2026-03-09 00:00:00
+EOG,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$15,001 - $50,000",2026-02-10,2026-03-09 00:00:00
+EQT,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-02-10,2026-03-09 00:00:00
+EXE,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-02-10,2026-03-09 00:00:00
+FSV,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-02-10,2026-03-09 00:00:00
+FSV,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$15,001 - $50,000",2026-02-10,2026-03-09 00:00:00
+GDDY,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-02-10,2026-03-09 00:00:00
+ILMN,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-02-10,2026-03-09 00:00:00
+KMI,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-02-10,2026-03-09 00:00:00
+KVUE,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-02-10,2026-03-09 00:00:00
+AVGO,Purchase,Shelley Moore Capito,R,Senate,"$1,001 - $15,000",2026-02-09,2026-03-04 10:06:00
+CHRW,Purchase,April McClain Delaney,D,House,"$1,001 - $15,000",2026-02-09,2026-03-10 00:00:00
+TSM,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$100,001 - $250,000",2026-02-09,2026-03-09 00:00:00
+BABA,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$50,001 - $100,000",2026-02-09,2026-03-09 00:00:00
+BRO,Purchase,April McClain Delaney,D,House,"$1,001 - $15,000",2026-02-06,2026-03-10 00:00:00
+CHRW,Purchase,April McClain Delaney,D,House,"$1,001 - $15,000",2026-02-06,2026-03-10 00:00:00
+BBAI,Purchase,Lisa C. McClain,R,House,"$15,001 - $50,000",2026-02-06,2026-03-04 00:00:00
+STE,Purchase,April McClain Delaney,D,House,"$1,001 - $15,000",2026-02-06,2026-03-10 00:00:00
+XTWO,Purchase,John Boozman,R,Senate,"$15,001 - $50,000",2026-02-06,2026-03-06 16:10:00
+CMBS,Purchase,John Boozman,R,Senate,"$1,001 - $15,000",2026-02-06,2026-03-06 16:10:00
+TLH,Purchase,John Boozman,R,Senate,"$1,001 - $15,000",2026-02-06,2026-03-06 16:10:00
+IEF,Purchase,John Boozman,R,Senate,"$1,001 - $15,000",2026-02-06,2026-03-06 16:10:00
+EMB,Purchase,John Boozman,R,Senate,"$1,001 - $15,000",2026-02-06,2026-03-06 16:10:00
+GIGB,Purchase,John Boozman,R,Senate,"$1,001 - $15,000",2026-02-06,2026-03-06 16:10:00
+UBER,Purchase,John Boozman,R,Senate,"$1,001 - $15,000",2026-02-06,2026-03-06 16:10:00
+CHRW,Purchase,April McClain Delaney,D,House,"$1,001 - $15,000",2026-02-05,2026-03-10 00:00:00
+FCFS,Purchase,Markwayne Mullin,R,Senate,"$15,001 - $50,000",2026-02-04,2026-03-02 14:06:00
+VSEC,Purchase,Markwayne Mullin,R,Senate,"$15,001 - $50,000",2026-02-04,2026-03-02 14:06:00
+MPWR,Purchase,Markwayne Mullin,R,Senate,"$15,001 - $50,000",2026-02-04,2026-03-02 14:06:00
+LRN,Purchase,Markwayne Mullin,R,Senate,"$15,001 - $50,000",2026-02-04,2026-03-02 14:06:00
+MCK,Purchase,Markwayne Mullin,R,Senate,"$15,001 - $50,000",2026-02-04,2026-03-02 14:06:00
+CRS,Purchase,Markwayne Mullin,R,Senate,"$15,001 - $50,000",2026-02-04,2026-03-02 14:06:00
+BBAI,Purchase,Lisa C. McClain,R,House,"$1,001 - $15,000",2026-02-04,2026-03-04 00:00:00
+C,Purchase,Markwayne Mullin,R,Senate,"$15,001 - $50,000",2026-02-04,2026-03-02 14:06:00
+EME,Purchase,April McClain Delaney,D,House,"$1,001 - $15,000",2026-02-04,2026-03-10 00:00:00
+LH,Purchase,April McClain Delaney,D,House,"$1,001 - $15,000",2026-02-04,2026-03-10 00:00:00
+ADBE,Purchase,Markwayne Mullin,R,Senate,"$15,001 - $50,000",2026-02-04,2026-03-02 14:06:00
+AMKR,Purchase,Markwayne Mullin,R,Senate,"$15,001 - $50,000",2026-02-04,2026-03-02 14:06:00
+APG,Purchase,Markwayne Mullin,R,Senate,"$15,001 - $50,000",2026-02-04,2026-03-02 14:06:00
+AMD,Purchase,Cleo Fields,D,House,"$50,001 - $100,000",2026-02-03,2026-02-24 00:00:00
+GOOGL,Purchase,Cleo Fields,D,House,"$100,001 - $250,000",2026-02-03,2026-02-24 00:00:00
+LRCX,Purchase,Cleo Fields,D,House,"$15,001 - $50,000",2026-02-03,2026-02-24 00:00:00
+META,Purchase,Cleo Fields,D,House,"$100,001 - $250,000",2026-02-03,2026-02-24 00:00:00
+MU,Purchase,Cleo Fields,D,House,"$100,001 - $250,000",2026-02-03,2026-02-24 00:00:00
+C,Purchase,Jonathan L. Jackson,D,House,"$15,001 - $50,000",2026-01-30,2026-02-23 00:00:00
+GEV,Purchase,Jonathan L. Jackson,D,House,"$15,001 - $50,000",2026-01-30,2026-02-23 00:00:00
+GILD,Purchase,Josh Gottheimer,D,House,"$1,001 - $15,000",2026-01-27,2026-02-26 00:00:00
+ICE,Purchase,Josh Gottheimer,D,House,"$1,001 - $15,000",2026-01-26,2026-02-26 00:00:00
+JPM,Purchase,Jonathan L. Jackson,D,House,"$1,001 - $15,000",2026-01-20,2026-02-23 00:00:00

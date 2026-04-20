@@ -1,0 +1,569 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <title>
+   Insider Trading Dashboard - Quiver Quantitative
+  </title>
+ </head>
+ <body>
+  <a class="skip-to-content" href="#main-content">
+   Skip to Main Content
+  </a>
+  <header class="header-outer">
+   <!-- use with headerPromo.js for countdown timer -->
+   <!-- <div class="header-promo">
+          <img src="/static/img/american-flag.png" alt="American Flag" class="header-promo-flag">
+
+          <div class="header-promo-inner">
+            <strong>
+              <i class="fa-solid fa-tag"></i>              
+              JULY 4TH SALE
+            </strong>
+            
+            <div class="countdown">
+              <p>50% off your first year of Quiver Premium</p>
+              <span class="countdown-timer" id="countdown-timer">...</span>
+            </div>
+
+            <div class="promo-code">
+              <p>Use Promo Code:</p>
+              <span>JULY4</span>
+            </div>
+
+            <div class="promo-link">
+              Upgrade
+            </div>
+          </div>
+
+          <img src="/static/img/american-flag.png" alt="American Flag" class="header-promo-flag">
+
+          <a href="#" class="promo-overlay-link"></a>
+        </div> -->
+   <div class="header-inner">
+    <nav>
+     <a alt="Home" class="header-quiver-logo" href="/home">
+      <img alt="Quiver Logo" class="header-quiver-logo-desktop" src="/static/img/logo.png"/>
+      <img alt="Quiver Logo" class="header-quiver-logo-mobile" src="/static/img/logo-icon.png"/>
+     </a>
+     <div class="nav-inner" id="mobileDropdown">
+      <div class="mobile-search-overlay">
+      </div>
+      <!-- main links -->
+      <ul class="nav-inner-links">
+       <li>
+        <a href="/home/" id="linkHome">
+         Home
+        </a>
+       </li>
+       <li class="nav-main-link-datasets nav-dropdown-trigger" id="dropdownTriggerDatasets">
+        <strong tabindex="0">
+         Datasets
+         <i class="fas fa-chevron-down">
+         </i>
+        </strong>
+        <div class="nav-dropdown-menu" id="navDropdownMenuDatasets" style="opacity:0;">
+         <div class="datasets-links-group-1">
+          <div class="datasets-links-outer most-popular-links-outer">
+           <div class="datasets-links-inner most-popular-links-inner">
+            <strong class="nav-popular-header">
+             <i class="fas fa-fire">
+             </i>
+             Most Popular
+            </strong>
+            <div class="datasets-links most-popular-links">
+             <ul>
+              <li>
+               <a href="/politicians/">
+                Politician Search
+               </a>
+              </li>
+              <li>
+               <a href="/congresstrading/">
+                Congress Trading
+               </a>
+              </li>
+              <li>
+               <a href="/election-fundraising/">
+                Election Fundraising
+               </a>
+              </li>
+              <!-- ... 3 repeating elements removed for brevity ... -->
+             </ul>
+            </div>
+           </div>
+          </div>
+          <div class="most-popular-links-divider">
+          </div>
+          <div class="datasets-links-outer">
+           <div class="datasets-links-inner">
+            <strong class="gov-links-header">
+             Government
+            </strong>
+            <div class="datasets-links gov-links">
+             <ul>
+              <li>
+               <a href="/bills/" id="linkDatasetLegislation">
+                Legislation Search
+                <span class="datasets-link-new">
+                 NEW
+                </span>
+               </a>
+              </li>
+              <li>
+               <a href="/government-spending/" id="linkDatasetGovSpending">
+                Government Spending
+                <span class="datasets-link-new">
+                 NEW
+                </span>
+               </a>
+              </li>
+              <li>
+               <a href="/congress-live-net-worth/" id="linkDatasetNetWorth">
+                Congress Live Net Worth
+                <span class="datasets-link-new">
+                 NEW
+                </span>
+               </a>
+              </li>
+              <!-- <li><a href="/election-donor-leaderboard/" id="linkDatasetDonorLeaderboard">Election Donor Leaderboard</a></li> -->
+              <!-- <li><a href="/fundraising-leaderboard/" id="linkDatasetFundraising">Fundraising Leaderboard</a></li> -->
+              <!-- <li><a href="../../../inflation">Inflation</a></li> -->
+              <!-- <li><a href="../../../fedrepo">Reverse Repo</a></li> -->
+              <!-- ... 9 repeating elements removed for brevity ... -->
+             </ul>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="datasets-links-group-2">
+          <div class="datasets-links-outer">
+           <div class="datasets-links-inner">
+            <strong class="ci-links-header">
+             Consumer Interest
+            </strong>
+            <div class="datasets-links ci-links">
+             <ul>
+              <li>
+               <a href="/analysts/" id="linkDatasetAnalystRatings">
+                Analyst Ratings
+                <span class="datasets-link-new">
+                 NEW
+                </span>
+               </a>
+              </li>
+              <!-- <li><a href="/scores/memestocks" id="linkDatasetMemeStocks">Meme Stock Rankings</a></li> -->
+              <li>
+               <a href="/cnbctracker/">
+                CNBC Stock Picks
+               </a>
+              </li>
+              <li>
+               <a href="/sources/appratings">
+                App Ratings
+               </a>
+              </li>
+              <!-- <li><a href="/portnoy-tracker/" id="linkDatasetPortnoy">Dave Portnoy Tracker</a></li> -->
+              <!-- <li><a href="/fearandgreed/">Fear and Greed Index</a></li> -->
+              <!-- <li><a href="/wallstreetbets/">WallStreetBets</a></li> -->
+              <!-- <li><a href="/sources/wikipedia">Wikipedia Pageviews</a></li> -->
+              <!-- <li><a href="/hiring" id="linkDatasetHiring">Hiring<span class="datasets-link-new">NEW</span></a></li> -->
+              <!-- <li><a href="../../../sources/twitter">Corporate Twitter</a></li> -->
+              <!-- <li><a href="../../../amazon" id="linkDatasetAmazon">Amazon Pricing Trends</a></li> -->
+              <!-- <li><a href="../../../crypto">r/Cryptocurrency</a></li> -->
+              <!-- ... 2 repeating elements removed for brevity ... -->
+             </ul>
+            </div>
+           </div>
+          </div>
+          <div class="datasets-links-outer">
+           <div class="datasets-links-inner">
+            <strong class="sec-links-header">
+             SEC Filings
+            </strong>
+            <div class="datasets-links sec-links">
+             <ul>
+              <li>
+               <a href="/revbreakdown/" id="linkDatasetRevBreakdown">
+                Revenue Breakdowns
+                <span class="datasets-link-new">
+                 NEW
+                </span>
+               </a>
+              </li>
+              <li>
+               <a href="/insiders/" id="linkDatasetInsiderTrading">
+                Insider Trading
+               </a>
+              </li>
+              <li>
+               <a href="/sec13f/" id="linkDatasetSec13F">
+                Institutional Holdings
+               </a>
+              </li>
+              <!-- <li><a href="../../../sources/leapday" id="linkEarningsSignals">Earnings Signals</a></li> -->
+              <!-- ... 4 repeating elements removed for brevity ... -->
+             </ul>
+            </div>
+           </div>
+          </div>
+          <!-- <div class="datasets-links-outer"> -->
+          <!-- <div class="datasets-links-inner"> -->
+          <!-- <h5 class="esg-links-header">ESG and Other</h5> -->
+          <!-- <div class="datasets-links esg-links"> -->
+          <!-- <ul> -->
+          <!-- <li><a href="/kalshi" id="linkDatasetKalshi"><span class="datasets-link-new">NEW</span>Kalshi Macro Market Odds</a></li> -->
+          <!-- <li><a href="/etfholdings" id="linkDatasetETFHoldings"><span class="datasets-link-new"></span>ETF Holdings</a></li> -->
+          <!-- <li><a href="/sources/corporateflights">Corporate Flights</a></li> -->
+          <!-- <li><a href="../../../esgscreener" id="linkDatasetESG"><span class="datasets-link-new">NEW</span>ESG Screener</a></li> -->
+          <!-- </ul> -->
+          <!-- </div> -->
+          <!-- </div> -->
+          <!-- </div> -->
+         </div>
+        </div>
+       </li>
+       <li class="nav-main-link-strategies">
+        <a href="/strategies/">
+         <img alt="Quiver Logo" src="/static/img/logo-icon.png"/>
+         Strategies
+        </a>
+       </li>
+       <!-- ... 3 repeating elements removed for brevity ... -->
+      </ul>
+      <form data-cf-modified-ff9ef31a0bfbe5fbad675d65-="" id="ticker-search-form" onsubmit="if (!window.__cfRLUnblockHandlers) return false; autoSuggestComponentHeader.autoSuggestClickSubmitForm(this);">
+       <button class="search-submit" type="submit">
+        <i class="fas fa-search search-icon">
+        </i>
+       </button>
+       <input autocomplete="off" autocorrect="off" data-cf-modified-ff9ef31a0bfbe5fbad675d65-="" id="ticker-search-form-input" oninput="if (!window.__cfRLUnblockHandlers) return false; autoSuggestComponentHeader.autoSuggestLinks(this.value)" onkeydown="if (!window.__cfRLUnblockHandlers) return false; autoSuggestComponentHeader.arrowKeyNavigation(event, this)" placeholder="Search Quiver..." type="text"/>
+       <div id="auto-suggest-links-container">
+        <div class="auto-suggest-tabs">
+         <div class="auto-suggest-tab" id="autoSuggestStocksTab">
+          Stocks
+         </div>
+         <div class="auto-suggest-tab" id="autoSuggestCongressTab">
+          Congress
+         </div>
+         <div class="auto-suggest-tab" id="autoSuggestFundsTab">
+          Funds
+         </div>
+        </div>
+        <ul id="auto-suggest-links">
+        </ul>
+        <div class="show-auto-suggest-default-view" id="auto-suggest-default-links">
+         <strong>
+          Trending Now:
+         </strong>
+         <ul>
+          <li class="default-link-stocks">
+           <div class="autosuggest-text-container">
+            <div class="ticker-image-container">
+             <img alt="" loading="lazy" onerror='this.onerror=null;this.src="https://quiverquant.com/images/placeholder_white.png"' src="https://quiverquant.com/images/nvda_new.png"/>
+            </div>
+            <span class="ticker-text input-text">
+             NVDA
+            </span>
+            <span class="company-name">
+             NVIDIA Corp
+            </span>
+           </div>
+           <input type="hidden" value="NVDA"/>
+          </li>
+          <li class="default-link-stocks">
+           <div class="autosuggest-text-container">
+            <div class="ticker-image-container">
+             <img alt="" loading="lazy" onerror='this.onerror=null;this.src="https://quiverquant.com/images/placeholder_white.png"' src="https://quiverquant.com/images/unh_new.png"/>
+            </div>
+            <span class="ticker-text input-text">
+             UNH
+            </span>
+            <span class="company-name">
+             Unitedhealth Group Inc
+            </span>
+           </div>
+           <input type="hidden" value="UNH"/>
+          </li>
+          <li class="default-link-stocks">
+           <div class="autosuggest-text-container">
+            <div class="ticker-image-container">
+             <img alt="" loading="lazy" onerror='this.onerror=null;this.src="https://quiverquant.com/images/placeholder_white.png"' src="https://quiverquant.com/images/tem_new.png"/>
+            </div>
+            <span class="ticker-text input-text">
+             TEM
+            </span>
+            <span class="company-name">
+             Tempus AI Inc. - Ordinary Shares - Class A
+            </span>
+           </div>
+           <input type="hidden" value="TEM"/>
+          </li>
+          <!-- ... 3 repeating elements removed for brevity ... -->
+         </ul>
+        </div>
+       </div>
+      </form>
+      <div class="nav-inner-account">
+       <div class="sign-in-sign-up-outer no-underline-on-hover">
+        <a class="sign-in-btn" href="/login">
+         <img alt="Quiver Logo" src="/static/img/sign-in-icon.svg"/>
+         Sign In
+        </a>
+        <a class="join-btn flex-column" href="/register/">
+         <img alt="Quiver Logo" id="join-img" src="/static/img/logo-icon.png"/>
+         <span>
+          Join Quiver
+         </span>
+        </a>
+       </div>
+      </div>
+     </div>
+     <div class="register-version" id="register-header-mobile">
+      <a class="join-btn flex-column" href="/register/">
+       <span>
+        Join Quiver
+       </span>
+      </a>
+     </div>
+     <div data-cf-modified-ff9ef31a0bfbe5fbad675d65-="" id="hamburger-icon" onclick="if (!window.__cfRLUnblockHandlers) return false; toggleMobileDropdown();" style="display:none;">
+      <div>
+       <i class="fa fa-bars">
+       </i>
+      </div>
+     </div>
+    </nav>
+   </div>
+  </header>
+  <!-- <main> -->
+  <main id="main-content">
+   <div class="page-title-outer">
+    <div class="page-title-inner">
+     <h1 class="page-title">
+      Insider Trading Dashboard
+     </h1>
+     <div class="page-title-btns">
+      <button class="insider-alerts-btn" disabled="">
+       <span>
+        +
+       </span>
+       Sign Up for Insider Trading Alerts
+      </button>
+      <div>
+       Sign Up for a
+       <a href="/pricing/">
+        Quiver Premium
+       </a>
+       subscription for access to alerts
+      </div>
+     </div>
+    </div>
+    <div class="page-subtitle">
+     <p class="update-time">
+      Last Updated: 8 minutes ago
+     </p>
+     <span>
+      -
+     </span>
+     <a class="track-x-link" href="https://x.com/InsiderRadar" target="_blank">
+      <i class="fas fa-chevron-right">
+      </i>
+      Track Major Insider Updates On X/Twitter
+     </a>
+    </div>
+    <div class="page-title-description">
+     <p>
+      Corporate insiders are required to disclose purchases or sales of their own stock within two business days of when they occur.
+        Using these disclosures, we collect data on insider trading activity, which can give hints on whether  executives are bullish or bearish on their own company.
+     </p>
+    </div>
+   </div>
+   <div>
+    <p class="form-disclaimer">
+     Search insider activity by ticker:
+    </p>
+    <form data-cf-modified-ff9ef31a0bfbe5fbad675d65-="" id="ticker-search-form-insiders" onsubmit="if (!window.__cfRLUnblockHandlers) return false; autoSuggestComponentTicker.setSearchFormAction(this);">
+     <button class="search-submit" data-cf-modified-ff9ef31a0bfbe5fbad675d65-="" onclick="if (!window.__cfRLUnblockHandlers) return false; autoSuggestComponentTicker.autoSuggestClickSubmitForm(this);">
+      <i class="fas fa-search search-icon">
+      </i>
+     </button>
+     <input autocomplete="off" autocorrect="off" data-cf-modified-ff9ef31a0bfbe5fbad675d65-="" id="ticker-search-form-input-2" oninput="if (!window.__cfRLUnblockHandlers) return false; autoSuggestComponentTicker.autoSuggestLinks(this.value);" onkeydown="if (!window.__cfRLUnblockHandlers) return false; autoSuggestComponentTicker.arrowKeyNavigation(event, this)" placeholder="Enter ticker symbol..." type="text"/>
+     <div id="auto-suggest-default-links">
+     </div>
+     <div class="auto-suggest-insiders" id="auto-suggest-links-container">
+      <ul id="auto-suggest-links">
+      </ul>
+     </div>
+    </form>
+   </div>
+   <div class="insider-item">
+    <div class="table-header table-header-insiders">
+     <div class="table-header-title">
+      <h3 class="icon-title">
+       Largest Recent Transactions
+      </h3>
+     </div>
+     <div class="table-header-tabs">
+      <div class="table-header-tab tab-active" data-cf-modified-ff9ef31a0bfbe5fbad675d65-="" id="tabInsiderGraphPurchasesAndSales" onclick="if (!window.__cfRLUnblockHandlers) return false; handleInsiderGraphTabs('purchasesAndSales')">
+       Purchases &amp; Sales
+      </div>
+      <div class="table-header-tab" data-cf-modified-ff9ef31a0bfbe5fbad675d65-="" id="tabInsiderGraphExecutiveBuys" onclick="if (!window.__cfRLUnblockHandlers) return false; handleInsiderGraphTabs('executiveBuys')">
+       Executive Buys
+      </div>
+     </div>
+    </div>
+    <div class="insider-graph-outer graph-active" id="insiderPurchasesAndSalesGraphOuter">
+     <div class="insider-viz" style="position: relative;">
+      <div>
+       <div class="plotly-graph-div" id="05444e9f-4b84-49bb-839e-0a2fa01b732c" style="height:100%; width:100%;">
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="insider-graph-outer" id="insiderExecutiveBuysGraphOuter">
+     <div class="insider-purchase-viz" style="position: relative;">
+      <div>
+       <div class="plotly-graph-div" id="50884f9b-88ed-4369-88af-49be9e66595a" style="height:100%; width:100%;">
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <br/>
+   <br/>
+   <br/>
+   <!-- ... 6 repeating elements removed for brevity ... -->
+  </main>
+  <footer class="footer-outer">
+   <div class="footer-inner">
+    <div class="footer-icons-outer">
+     <a alt="Home" href="/" id="footerLogoHomeLink">
+      <img alt="Quiver Footer Logo" class="footer-quiver-logo" src="/static/img/logo.png"/>
+      <sup class="trademark-symbol">
+       ™
+      </sup>
+     </a>
+     <div class="footer-icons-inner">
+      <div class="footer-icons-social">
+       <a aria-label="Quiver Twitter link" href="https://twitter.com/QuiverQuant">
+       </a>
+       <a aria-label="Quiver Instagram link" href="https://www.instagram.com/quiverquantitative/">
+        <i class="fab fa-instagram fa-2x">
+        </i>
+       </a>
+       <a aria-label="Quiver Tiktok link" href="https://www.tiktok.com/@quiverquant">
+        <i class="fab fa-tiktok fa-2x">
+        </i>
+       </a>
+       <!-- ... 2 repeating elements removed for brevity ... -->
+      </div>
+      <div class="footer-icons-app">
+       <a aria-label="Quiver iOS App Store link" href="https://apps.apple.com/us/app/quiver-quantitative/id1568546369">
+        <i class="fab fa-app-store-ios fa-2x">
+        </i>
+       </a>
+       <a aria-label="Quiver Google Play Store link" href="https://play.google.com/store/apps/details?id=com.cheesecake.quiverquantapp&amp;hl=en_US">
+        <i class="fab fa-google-play fa-1x">
+        </i>
+       </a>
+      </div>
+      <div class="footer-icons-google">
+       <a class="google-news-footer-img" href="https://news.google.com/publications/CAAqBwgKMOO2yQswo9LgAw" target="_blank">
+        <img alt="Google News Logo" loading="lazy" src="/static/img/google-news-dark-logo.jpg"/>
+       </a>
+      </div>
+     </div>
+    </div>
+    <div class="footer-links-outer">
+     <div class="footer-links-inner">
+      <ul>
+       <li>
+        Resources
+       </li>
+       <li class="active">
+        <a href="/">
+         Home
+        </a>
+       </li>
+       <li>
+        <a href="/tutorial/">
+         Tutorial
+        </a>
+       </li>
+       <!-- ... 3 repeating elements removed for brevity ... -->
+      </ul>
+      <ul>
+       <li>
+        Premium
+       </li>
+       <li>
+        <a href="/pricing/">
+         Pricing
+        </a>
+       </li>
+       <li>
+        <a href="/alerts/">
+         Alerts
+        </a>
+       </li>
+       <!-- ... 5 repeating elements removed for brevity ... -->
+      </ul>
+     </div>
+     <ul>
+      <li>
+       Account
+      </li>
+      <li>
+       <a class="sign-up-icon" href="/register/">
+        <img alt="Sign Up icon" loading="lazy" src="/static/img/sign-up-icon.svg"/>
+        Sign Up
+       </a>
+      </li>
+      <li>
+       <a class="sign-in-icon" href="/login/">
+        <img alt="Sign In icon" loading="lazy" src="/static/img/sign-in-icon.svg"/>
+        Sign In
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div class="footer-brokerages-outer">
+     <div class="footer-brokerages-inner">
+      <strong>
+       Brokerage Partners
+      </strong>
+      <ul>
+       <li>
+        <a class="footer-link-ibkr" href="https://www.interactivebrokers.com/mkt/?src=quiverPW1&amp;url=%2Fen%2Fwhyib%2Foverview.php" target="_blank">
+         <img alt="Interactive Brokers Link" loading="lazy" src="/static/img/interactive-brokers-inverse.svg"/>
+        </a>
+       </li>
+       <!-- <li>
+                <a href="https://click.linksynergy.com/fs-bin/click?id=%2aEKsnVe0LAg&offerid=1723279.20&type=3&subid=0" target="_blank" class="footer-link-tt">
+                  <img src="/static/img/tastytrade-logo.svg" alt="tastytrade Link">
+                </a>
+              </li> -->
+       <li>
+        <a class="footer-link-ls" href="https://hubs.ly/Q034D6qf0" target="_blank">
+         <img alt="Lightspeed Link" loading="lazy" src="/static/img/lightspeed-logo.png"/>
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <!-- ... 2 repeating elements removed for brevity ... -->
+   </div>
+   <!-- <div class="tt-disclaimer">
+        <p>
+          tastytrade, Inc. (“tastytrade”) has entered into a Marketing Agreement with Quiver Quantitative (“Marketing Agent”) whereby tastytrade pays compensation to Marketing Agent to recommend tastytrade's brokerage services.
+          The existence of this Marketing Agreement should not be deemed as an endorsement or recommendation of Marketing Agent by tastytrade and/or any of its affiliated companies.
+          Neither tastytrade nor any of its affiliated companies is responsible for the privacy practices of Marketing Agent or this website.
+          tastytrade does not warrant the accuracy or content of the products or services offered by Marketing Agent or this website.
+          Marketing Agent is independent and is not an affiliate of tastytrade.
+        </p>
+      </div> -->
+  </footer>
+  <!-- <script src="/static/js/headerPromo.js?v=1.0.0"></script> -->
+  <!-- active link -->
+  <!-- page-specfic JS files/functions (example: highlighting 'active' header link) -->
+  <!-- for strategy preview -->
+ </body>
+</html>

@@ -1,0 +1,98 @@
+Stock,Transaction,Politician,Traded
+CRM,Purchase,David TaylorHouse / R,2025-09-03
+AVNT,Purchase,"Gilbert Ray Cisneros, Jr.House / D",2025-09-02
+WFC,Purchase,Mitch McConnellSenate / R,2025-09-01
+APG,Purchase,"Gilbert Ray Cisneros, Jr.House / D",2025-08-26
+LLY,Purchase,John BoozmanSenate / R,2025-08-22
+NVDA,Purchase,John BoozmanSenate / R,2025-08-22
+ACIW,Purchase,Lisa C. McClainHouse / R,2025-08-19
+ATO,Purchase,Rick W. AllenHouse / R,2025-08-19
+RNWGX,Purchase,John BoozmanSenate / R,2025-08-14
+BL,Purchase,Lisa C. McClainHouse / R,2025-08-13
+ANET,Purchase,Lisa C. McClainHouse / R,2025-08-13
+APPF,Purchase,Lisa C. McClainHouse / R,2025-08-13
+CL,Purchase,Lisa C. McClainHouse / R,2025-08-13
+AKAM,Purchase,Lisa C. McClainHouse / R,2025-08-13
+CART,Purchase,Lisa C. McClainHouse / R,2025-08-13
+ADC,Purchase,Lisa C. McClainHouse / R,2025-08-13
+BURL,Purchase,Lisa C. McClainHouse / R,2025-08-13
+LLY,Purchase,John BoozmanSenate / R,2025-08-11
+BBIO,Purchase,"Gilbert Ray Cisneros, Jr.House / D",2025-08-08
+BBAI,Purchase,Lisa C. McClainHouse / R,2025-08-07
+AMD,Purchase,John BoozmanSenate / R,2025-08-07
+RNWGX,Purchase,John BoozmanSenate / R,2025-08-07
+CAG,Purchase,"Gilbert Ray Cisneros, Jr.House / D",2025-08-05
+CHRW,Purchase,"Gilbert Ray Cisneros, Jr.House / D",2025-08-05
+CNC,Purchase,"Gilbert Ray Cisneros, Jr.House / D",2025-08-05
+APA,Purchase,"Gilbert Ray Cisneros, Jr.House / D",2025-08-05
+BRO,Purchase,Lisa C. McClainHouse / R,2025-08-04
+BTI,Purchase,Lisa C. McClainHouse / R,2025-08-04
+BHLB,Purchase,Lisa C. McClainHouse / R,2025-08-04
+BCC,Purchase,Lisa C. McClainHouse / R,2025-08-04
+CARR,Purchase,Lisa C. McClainHouse / R,2025-08-04
+CHD,Purchase,Lisa C. McClainHouse / R,2025-08-04
+ALGN,Purchase,Lisa C. McClainHouse / R,2025-08-04
+AVB,Purchase,Lisa C. McClainHouse / R,2025-08-04
+APD,Purchase,Lisa C. McClainHouse / R,2025-08-04
+AGZ,Purchase,John BoozmanSenate / R,2025-08-01
+CMBS,Purchase,John BoozmanSenate / R,2025-08-01
+JMBS,Purchase,John BoozmanSenate / R,2025-08-01
+IEI,Purchase,John BoozmanSenate / R,2025-08-01
+IWM,Purchase,John BoozmanSenate / R,2025-08-01
+SHY,Purchase,John BoozmanSenate / R,2025-08-01
+TLH,Purchase,John BoozmanSenate / R,2025-08-01
+TLT,Purchase,John BoozmanSenate / R,2025-08-01
+VNQI,Purchase,John BoozmanSenate / R,2025-08-01
+WWSYX,Purchase,John BoozmanSenate / R,2025-08-01
+IEF,Purchase,John BoozmanSenate / R,2025-08-01
+RNWGX,Purchase,John BoozmanSenate / R,2025-08-01
+GEM,Purchase,John BoozmanSenate / R,2025-08-01
+MBB,Purchase,John BoozmanSenate / R,2025-08-01
+SCHP,Purchase,John BoozmanSenate / R,2025-08-01
+ANET,Purchase,Val T. HoyleHouse / D,2025-07-14
+BF.B,Purchase,Val T. HoyleHouse / D,2025-07-14
+AMZN,Purchase,Val T. HoyleHouse / D,2025-07-02
+BRO,Purchase,Val T. HoyleHouse / D,2025-06-26
+AVGO,Purchase,Val T. HoyleHouse / D,2025-06-06
+AMZN,Purchase,Val T. HoyleHouse / D,2025-06-06
+BAC,Purchase,Val T. HoyleHouse / D,2025-06-06
+AAPL,Purchase,Val T. HoyleHouse / D,2025-06-06
+COF,Purchase,Val T. HoyleHouse / D,2025-06-06
+BK,Purchase,Val T. HoyleHouse / D,2025-06-06
+CME,Purchase,Val T. HoyleHouse / D,2025-05-21
+COP,Purchase,Val T. HoyleHouse / D,2025-04-29
+BX,Purchase,Val T. HoyleHouse / D,2025-04-15
+AMZN,Purchase,Val T. HoyleHouse / D,2025-04-02
+AMZN,Purchase,Val T. HoyleHouse / D,2025-01-13
+ASML,Purchase,Val T. HoyleHouse / D,2024-12-27
+ANET,Purchase,Val T. HoyleHouse / D,2024-12-04
+CDNS,Purchase,Val T. HoyleHouse / D,2024-10-29
+CCK,Purchase,Val T. HoyleHouse / D,2024-10-29
+CF,Purchase,Val T. HoyleHouse / D,2024-10-29
+CNQ,Purchase,Val T. HoyleHouse / D,2024-10-29
+CCI,Purchase,Val T. HoyleHouse / D,2024-10-29
+COST,Purchase,Val T. HoyleHouse / D,2024-10-29
+CCEP,Purchase,Val T. HoyleHouse / D,2024-10-29
+CI,Purchase,Val T. HoyleHouse / D,2024-10-29
+CNSWF,Purchase,Val T. HoyleHouse / D,2024-10-29
+CNC,Purchase,Val T. HoyleHouse / D,2024-10-29
+CGEMY,Purchase,Val T. HoyleHouse / D,2024-10-29
+BMY,Purchase,Val T. HoyleHouse / D,2024-10-29
+BSX,Purchase,Val T. HoyleHouse / D,2024-10-29
+BRK.B,Purchase,Val T. HoyleHouse / D,2024-10-29
+APH,Purchase,Val T. HoyleHouse / D,2024-10-29
+APO,Purchase,Val T. HoyleHouse / D,2024-10-29
+ARES,Purchase,Val T. HoyleHouse / D,2024-10-29
+AMZN,Purchase,Val T. HoyleHouse / D,2024-10-29
+AVGO,Purchase,Val T. HoyleHouse / D,2024-10-29
+AME,Purchase,Val T. HoyleHouse / D,2024-10-29
+AZN,Purchase,Val T. HoyleHouse / D,2024-10-29
+AZO,Purchase,Val T. HoyleHouse / D,2024-10-29
+BA,Purchase,Val T. HoyleHouse / D,2024-10-29
+BAC,Purchase,Val T. HoyleHouse / D,2024-10-29
+AJG,Purchase,Val T. HoyleHouse / D,2024-10-29
+AAPL,Purchase,Val T. HoyleHouse / D,2024-10-29
+BKNG,Purchase,Val T. HoyleHouse / D,2024-10-29
+BLK,Purchase,Val T. HoyleHouse / D,2024-10-29
+ANET,Purchase,Val T. HoyleHouse / D,2024-10-29
+CPRT,Purchase,Val T. HoyleHouse / D,2024-10-29

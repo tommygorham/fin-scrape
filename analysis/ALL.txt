@@ -1,0 +1,577 @@
+2026-04-15, TSM,29
+2026-04-15, NVDA,Purchase,John Boozman,R,Senate,"$1,001 - $15,000",2026-03-19,2026-04-14 10:08:00
+2026-04-15, NFLX,Purchase,Byron Donalds,R,House,"$1,001 - $15,000",2026-03-20,2026-04-08 00:00:00
+2026-04-15, CRWD,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-13,2026-04-07 00:00:00
+2026-04-15, BETR,2
+2026-04-14, TSM,29
+2026-04-14, NFLX,Purchase,Byron Donalds,R,House,"$1,001 - $15,000",2026-03-20,2026-04-08 00:00:00
+2026-04-14, CRWD,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-13,2026-04-07 00:00:00
+2026-04-14, BETR,3
+2026-04-13, TSM,29
+2026-04-13, NFLX,Purchase,Byron Donalds,R,House,"$1,001 - $15,000",2026-03-20,2026-04-08 00:00:00
+2026-04-13, CRWD,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-13,2026-04-07 00:00:00
+2026-04-13, BETR,8
+2026-04-13, BETR,3
+2026-04-12, BETR,8
+2026-04-11, BETR,8
+2026-04-08, TSM,Purchase,Rick W. Allen,R,House,"$1,001 - $15,000",2026-02-19,2026-03-11 00:00:00
+2026-04-08, TSM,Purchase,Julia Letlow,R,House,"$1,001 - $15,000",2026-02-02,2026-03-12 00:00:00
+2026-04-08, SNDK,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-13,2026-04-07 00:00:00
+2026-04-08, PLTR,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-16,2026-04-07 00:00:00
+2026-04-08, NVDA,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-13,2026-04-07 00:00:00
+2026-04-08, NFLX, Byron Donalds,R, House,$1,001 - $15,000,2026-03-20
+2026-04-08, MU,Purchase,John Fetterman,D,Senate,"$1,001 - $15,000",2026-03-30,2026-04-03 15:29:00
+2026-04-08, MU,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-25,2026-04-07 00:00:00
+2026-04-08, CRWD,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-13,2026-04-07 00:00:00
+2026-04-08, BETR,1
+2026-04-07, TSM,Purchase,Rick W. Allen,R,House,"$1,001 - $15,000",2026-02-19,2026-03-11 00:00:00
+2026-04-07, TSM,Purchase,Julia Letlow,R,House,"$1,001 - $15,000",2026-02-02,2026-03-12 00:00:00
+2026-04-07, MU,Purchase,John Fetterman,D,Senate,"$1,001 - $15,000",2026-03-30,2026-04-03 15:29:00
+2026-04-07, CRWD, Gilbert Ray Cisneros, Jr.,D, House,$1,001 - $15,000,2026-03-13
+2026-04-07, BETR,1
+2026-04-06, TSM,Purchase,Rick W. Allen,R,House,"$1,001 - $15,000",2026-02-19,2026-03-11 00:00:00
+2026-04-06, TSM,Purchase,Julia Letlow,R,House,"$1,001 - $15,000",2026-02-02,2026-03-12 00:00:00
+2026-04-03, TSM,Purchase,Rick W. Allen,R,House,"$1,001 - $15,000",2026-02-19,2026-03-11 00:00:00
+2026-04-03, TSM,Purchase,Julia Letlow,R,House,"$1,001 - $15,000",2026-02-02,2026-03-12 00:00:00
+2026-04-03, TSM,1
+2026-04-03, NFLX,Purchase,Michael T. McCaul,R,House,"$1,001 - $15,000",2026-02-27,2026-03-10 00:00:00
+2026-04-03, NFLX,Purchase,Michael T. McCaul,R,House,"$1,001 - $15,000",2026-02-17,2026-03-10 00:00:00
+2026-04-03, NFLX,Purchase,Michael T. McCaul,R,House,"$1,001 - $15,000",2026-02-05,2026-03-10 00:00:00
+2026-04-02, TSM,Purchase,Rick W. Allen,R,House,"$1,001 - $15,000",2026-02-19,2026-03-11 00:00:00
+2026-04-02, TSM,Purchase,Julia Letlow,R,House,"$1,001 - $15,000",2026-02-02,2026-03-12 00:00:00
+2026-04-02, TSM,4
+2026-04-02, NFLX,Purchase,Michael T. McCaul,R,House,"$1,001 - $15,000",2026-02-27,2026-03-10 00:00:00
+2026-04-02, NFLX,Purchase,Michael T. McCaul,R,House,"$1,001 - $15,000",2026-02-17,2026-03-10 00:00:00
+2026-04-02, NFLX,Purchase,Michael T. McCaul,R,House,"$1,001 - $15,000",2026-02-05,2026-03-10 00:00:00
+2026-04-01, TSM,Purchase,Rick W. Allen,R,House,"$1,001 - $15,000",2026-02-19,2026-03-11 00:00:00
+2026-04-01, TSM,Purchase,Julia Letlow,R,House,"$1,001 - $15,000",2026-02-02,2026-03-12 00:00:00
+2026-04-01, TSM,4
+2026-04-01, TSM,3
+2026-04-01, NFLX,Purchase,Michael T. McCaul,R,House,"$1,001 - $15,000",2026-02-27,2026-03-10 00:00:00
+2026-04-01, NFLX,Purchase,Michael T. McCaul,R,House,"$1,001 - $15,000",2026-02-17,2026-03-10 00:00:00
+2026-04-01, NFLX,Purchase,Michael T. McCaul,R,House,"$1,001 - $15,000",2026-02-05,2026-03-10 00:00:00
+2026-03-30, TSM,Purchase,Rick W. Allen,R,House,"$1,001 - $15,000",2026-02-19,2026-03-11 00:00:00
+2026-03-30, TSM,Purchase,Julia Letlow,R,House,"$1,001 - $15,000",2026-02-02,2026-03-12 00:00:00
+2026-03-30, TSM,1
+2026-03-30, NFLX,Purchase,Michael T. McCaul,R,House,"$1,001 - $15,000",2026-02-27,2026-03-10 00:00:00
+2026-03-30, NFLX,Purchase,Michael T. McCaul,R,House,"$1,001 - $15,000",2026-02-17,2026-03-10 00:00:00
+2026-03-30, NFLX,Purchase,Michael T. McCaul,R,House,"$1,001 - $15,000",2026-02-05,2026-03-10 00:00:00
+2026-03-30, BETR,1
+2026-03-29, TSM,Purchase,Rick W. Allen,R,House,"$1,001 - $15,000",2026-02-19,2026-03-11 00:00:00
+2026-03-29, TSM,Purchase,Julia Letlow,R,House,"$1,001 - $15,000",2026-02-02,2026-03-12 00:00:00
+2026-03-29, NFLX,Purchase,Michael T. McCaul,R,House,"$1,001 - $15,000",2026-02-27,2026-03-10 00:00:00
+2026-03-29, NFLX,Purchase,Michael T. McCaul,R,House,"$1,001 - $15,000",2026-02-17,2026-03-10 00:00:00
+2026-03-29, NFLX,Purchase,Michael T. McCaul,R,House,"$1,001 - $15,000",2026-02-05,2026-03-10 00:00:00
+2026-03-29, BETR,1
+2026-03-27, TSM,Purchase,Rick W. Allen,R,House,"$1,001 - $15,000",2026-02-19,2026-03-11 00:00:00
+2026-03-27, TSM,Purchase,Julia Letlow,R,House,"$1,001 - $15,000",2026-02-02,2026-03-12 00:00:00
+2026-03-27, NFLX,Purchase,Michael T. McCaul,R,House,"$1,001 - $15,000",2026-02-27,2026-03-10 00:00:00
+2026-03-27, NFLX,Purchase,Michael T. McCaul,R,House,"$1,001 - $15,000",2026-02-17,2026-03-10 00:00:00
+2026-03-27, NFLX,Purchase,Michael T. McCaul,R,House,"$1,001 - $15,000",2026-02-05,2026-03-10 00:00:00
+2026-03-27, BETR,6
+2026-03-26, TSM,Purchase,Rick W. Allen,R,House,"$1,001 - $15,000",2026-02-19,2026-03-11 00:00:00
+2026-03-26, TSM,Purchase,Julia Letlow,R,House,"$1,001 - $15,000",2026-02-02,2026-03-12 00:00:00
+2026-03-26, TSM,1
+2026-03-26, NFLX,Purchase,Michael T. McCaul,R,House,"$1,001 - $15,000",2026-02-27,2026-03-10 00:00:00
+2026-03-26, NFLX,Purchase,Michael T. McCaul,R,House,"$1,001 - $15,000",2026-02-17,2026-03-10 00:00:00
+2026-03-26, NFLX,Purchase,Michael T. McCaul,R,House,"$1,001 - $15,000",2026-02-05,2026-03-10 00:00:00
+2026-03-26, BETR,7
+2026-03-25, TSM,Purchase,Rick W. Allen,R,House,"$1,001 - $15,000",2026-02-19,2026-03-11 00:00:00
+2026-03-25, TSM,Purchase,Julia Letlow,R,House,"$1,001 - $15,000",2026-02-02,2026-03-12 00:00:00
+2026-03-25, TSM,1
+2026-03-25, NFLX,Purchase,Michael T. McCaul,R,House,"$1,001 - $15,000",2026-02-27,2026-03-10 00:00:00
+2026-03-25, NFLX,Purchase,Michael T. McCaul,R,House,"$1,001 - $15,000",2026-02-17,2026-03-10 00:00:00
+2026-03-25, NFLX,Purchase,Michael T. McCaul,R,House,"$1,001 - $15,000",2026-02-05,2026-03-10 00:00:00
+2026-03-25, BETR,6
+2026-03-24, TSM,Purchase,Rick W. Allen,R,House,"$1,001 - $15,000",2026-02-19,2026-03-11 00:00:00
+2026-03-24, TSM,Purchase,Julia Letlow,R,House,"$1,001 - $15,000",2026-02-02,2026-03-12 00:00:00
+2026-03-24, TSM,1
+2026-03-24, NFLX,Purchase,Michael T. McCaul,R,House,"$1,001 - $15,000",2026-02-27,2026-03-10 00:00:00
+2026-03-24, NFLX,Purchase,Michael T. McCaul,R,House,"$1,001 - $15,000",2026-02-17,2026-03-10 00:00:00
+2026-03-24, NFLX,Purchase,Michael T. McCaul,R,House,"$1,001 - $15,000",2026-02-05,2026-03-10 00:00:00
+2026-03-24, BETR,2
+2026-03-23, TSM,Purchase,Rick W. Allen,R,House,"$1,001 - $15,000",2026-02-19,2026-03-11 00:00:00
+2026-03-23, TSM,Purchase,Julia Letlow,R,House,"$1,001 - $15,000",2026-02-02,2026-03-12 00:00:00
+2026-03-23, NFLX,Purchase,Michael T. McCaul,R,House,"$1,001 - $15,000",2026-02-27,2026-03-10 00:00:00
+2026-03-23, NFLX,Purchase,Michael T. McCaul,R,House,"$1,001 - $15,000",2026-02-17,2026-03-10 00:00:00
+2026-03-23, NFLX,Purchase,Michael T. McCaul,R,House,"$1,001 - $15,000",2026-02-05,2026-03-10 00:00:00
+2026-03-23, BETR,1
+2026-03-22, TSM,Purchase,Rick W. Allen,R,House,"$1,001 - $15,000",2026-02-19,2026-03-11 00:00:00
+2026-03-22, TSM,Purchase,Julia Letlow,R,House,"$1,001 - $15,000",2026-02-02,2026-03-12 00:00:00
+2026-03-22, NFLX,Purchase,Michael T. McCaul,R,House,"$1,001 - $15,000",2026-02-27,2026-03-10 00:00:00
+2026-03-22, NFLX,Purchase,Michael T. McCaul,R,House,"$1,001 - $15,000",2026-02-17,2026-03-10 00:00:00
+2026-03-22, NFLX,Purchase,Michael T. McCaul,R,House,"$1,001 - $15,000",2026-02-05,2026-03-10 00:00:00
+2026-03-22, BETR,1
+2026-03-21, TSM,Purchase,Rick W. Allen,R,House,"$1,001 - $15,000",2026-02-19,2026-03-11 00:00:00
+2026-03-21, TSM,Purchase,Julia Letlow,R,House,"$1,001 - $15,000",2026-02-02,2026-03-12 00:00:00
+2026-03-21, NFLX,Purchase,Michael T. McCaul,R,House,"$1,001 - $15,000",2026-02-27,2026-03-10 00:00:00
+2026-03-21, NFLX,Purchase,Michael T. McCaul,R,House,"$1,001 - $15,000",2026-02-17,2026-03-10 00:00:00
+2026-03-21, NFLX,Purchase,Michael T. McCaul,R,House,"$1,001 - $15,000",2026-02-05,2026-03-10 00:00:00
+2026-03-21, BETR,1
+2026-03-20, TSM,Purchase,Rick W. Allen,R,House,"$1,001 - $15,000",2026-02-19,2026-03-11 00:00:00
+2026-03-20, TSM,Purchase,Julia Letlow,R,House,"$1,001 - $15,000",2026-02-02,2026-03-12 00:00:00
+2026-03-20, NFLX,Purchase,Michael T. McCaul,R,House,"$1,001 - $15,000",2026-02-27,2026-03-10 00:00:00
+2026-03-20, NFLX,Purchase,Michael T. McCaul,R,House,"$1,001 - $15,000",2026-02-17,2026-03-10 00:00:00
+2026-03-20, NFLX,Purchase,Michael T. McCaul,R,House,"$1,001 - $15,000",2026-02-05,2026-03-10 00:00:00
+2026-03-20, BETR,1
+2026-03-19, TSM,Purchase,Rick W. Allen,R,House,"$1,001 - $15,000",2026-02-19,2026-03-11 00:00:00
+2026-03-19, TSM,Purchase,Julia Letlow,R,House,"$1,001 - $15,000",2026-02-02,2026-03-12 00:00:00
+2026-03-19, NFLX,Purchase,Michael T. McCaul,R,House,"$1,001 - $15,000",2026-02-27,2026-03-10 00:00:00
+2026-03-19, NFLX,Purchase,Michael T. McCaul,R,House,"$1,001 - $15,000",2026-02-17,2026-03-10 00:00:00
+2026-03-19, NFLX,Purchase,Michael T. McCaul,R,House,"$1,001 - $15,000",2026-02-05,2026-03-10 00:00:00
+2026-03-19, BETR,1
+2026-03-18, TSM,Purchase,Rick W. Allen,R,House,"$1,001 - $15,000",2026-02-19,2026-03-11 00:00:00
+2026-03-18, TSM,Purchase,Julia Letlow,R,House,"$1,001 - $15,000",2026-02-02,2026-03-12 00:00:00
+2026-03-18, NFLX,Purchase,Michael T. McCaul,R,House,"$1,001 - $15,000",2026-02-27,2026-03-10 00:00:00
+2026-03-18, NFLX,Purchase,Michael T. McCaul,R,House,"$1,001 - $15,000",2026-02-17,2026-03-10 00:00:00
+2026-03-18, NFLX,Purchase,Michael T. McCaul,R,House,"$1,001 - $15,000",2026-02-05,2026-03-10 00:00:00
+2026-03-18, BETR,1
+2026-03-18, ADBE,Purchase,Ro Khanna,D,House,"$15,001 - $50,000",2026-02-24,2026-03-09 00:00:00
+2026-03-18, ADBE,Purchase,Ro Khanna,D,House,"$15,001 - $50,000",2026-02-17,2026-03-09 00:00:00
+2026-03-17, TSM,Purchase,Rick W. Allen,R,House,"$1,001 - $15,000",2026-02-19,2026-03-11 00:00:00
+2026-03-17, TSM,Purchase,Julia Letlow,R,House,"$1,001 - $15,000",2026-02-02,2026-03-12 00:00:00
+2026-03-17, NFLX,Purchase,Michael T. McCaul,R,House,"$1,001 - $15,000",2026-02-27,2026-03-10 00:00:00
+2026-03-17, NFLX,Purchase,Michael T. McCaul,R,House,"$1,001 - $15,000",2026-02-17,2026-03-10 00:00:00
+2026-03-17, NFLX,Purchase,Michael T. McCaul,R,House,"$1,001 - $15,000",2026-02-05,2026-03-10 00:00:00
+2026-03-17, BETR,2
+2026-03-17, BETR,1
+2026-03-17, ADBE,Purchase,Ro Khanna,D,House,"$15,001 - $50,000",2026-02-24,2026-03-09 00:00:00
+2026-03-17, ADBE,Purchase,Ro Khanna,D,House,"$15,001 - $50,000",2026-02-17,2026-03-09 00:00:00
+2026-03-16, TSM,Purchase,Rick W. Allen,R,House,"$1,001 - $15,000",2026-02-19,2026-03-11 00:00:00
+2026-03-16, TSM,Purchase,Julia Letlow,R,House,"$1,001 - $15,000",2026-02-02,2026-03-12 00:00:00
+2026-03-16, NFLX,Purchase,Michael T. McCaul,R,House,"$1,001 - $15,000",2026-02-27,2026-03-10 00:00:00
+2026-03-16, NFLX,Purchase,Michael T. McCaul,R,House,"$1,001 - $15,000",2026-02-17,2026-03-10 00:00:00
+2026-03-16, NFLX,Purchase,Michael T. McCaul,R,House,"$1,001 - $15,000",2026-02-05,2026-03-10 00:00:00
+2026-03-16, BETR,1
+2026-03-16, ADBE,Purchase,Ro Khanna,D,House,"$15,001 - $50,000",2026-02-24,2026-03-09 00:00:00
+2026-03-16, ADBE,Purchase,Ro Khanna,D,House,"$15,001 - $50,000",2026-02-17,2026-03-09 00:00:00
+2026-03-14, TSM,Purchase,Rick W. Allen,R,House,"$1,001 - $15,000",2026-02-19,2026-03-11 00:00:00
+2026-03-14, TSM,Purchase,Julia Letlow,R,House,"$1,001 - $15,000",2026-02-02,2026-03-12 00:00:00
+2026-03-14, NFLX,Purchase,Michael T. McCaul,R,House,"$1,001 - $15,000",2026-02-27,2026-03-10 00:00:00
+2026-03-14, NFLX,Purchase,Michael T. McCaul,R,House,"$1,001 - $15,000",2026-02-17,2026-03-10 00:00:00
+2026-03-14, NFLX,Purchase,Michael T. McCaul,R,House,"$1,001 - $15,000",2026-02-05,2026-03-10 00:00:00
+2026-03-14, BETR,1
+2026-03-14, ADBE,Purchase,Ro Khanna,D,House,"$15,001 - $50,000",2026-02-24,2026-03-09 00:00:00
+2026-03-14, ADBE,Purchase,Ro Khanna,D,House,"$15,001 - $50,000",2026-02-17,2026-03-09 00:00:00
+2026-03-13, TSM,Purchase,Rick W. Allen,R,House,"$1,001 - $15,000",2026-02-19,2026-03-11 00:00:00
+2026-03-13, TSM,Purchase,Julia Letlow,R,House,"$1,001 - $15,000",2026-02-02,2026-03-12 00:00:00
+2026-03-13, NFLX,Purchase,Michael T. McCaul,R,House,"$1,001 - $15,000",2026-02-27,2026-03-10 00:00:00
+2026-03-13, NFLX,Purchase,Michael T. McCaul,R,House,"$1,001 - $15,000",2026-02-17,2026-03-10 00:00:00
+2026-03-13, NFLX,Purchase,Michael T. McCaul,R,House,"$1,001 - $15,000",2026-02-05,2026-03-10 00:00:00
+2026-03-13, BETR,2
+2026-03-13, ADBE,Purchase,Ro Khanna,D,House,"$15,001 - $50,000",2026-02-24,2026-03-09 00:00:00
+2026-03-13, ADBE,Purchase,Ro Khanna,D,House,"$15,001 - $50,000",2026-02-17,2026-03-09 00:00:00
+2026-03-12, UBER,Purchase,John Boozman,R,Senate,"$1,001 - $15,000",2026-02-06,2026-03-06 16:10:00
+2026-03-12, TSM,Purchase,Rick W. Allen,R,House,"$1,001 - $15,000",2026-02-19,2026-03-11 00:00:00
+2026-03-12, TSM,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$100,001 - $250,000",2026-02-09,2026-03-09 00:00:00
+2026-03-12, TSM,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-02-26,2026-03-09 00:00:00
+2026-03-12, NFLX,Purchase,Michael T. McCaul,R,House,"$1,001 - $15,000",2026-02-27,2026-03-10 00:00:00
+2026-03-12, NFLX,Purchase,Michael T. McCaul,R,House,"$1,001 - $15,000",2026-02-17,2026-03-10 00:00:00
+2026-03-12, NFLX,Purchase,Michael T. McCaul,R,House,"$1,001 - $15,000",2026-02-05,2026-03-10 00:00:00
+2026-03-12, MU,Purchase,Cleo Fields,D,House,"$100,001 - $250,000",2026-02-03,2026-02-24 00:00:00
+2026-03-12, MU,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-02-24,2026-03-09 00:00:00
+2026-03-12, BETR,2
+2026-03-12, ADBE,Purchase,Ro Khanna,D,House,"$15,001 - $50,000",2026-02-24,2026-03-09 00:00:00
+2026-03-12, ADBE,Purchase,Ro Khanna,D,House,"$15,001 - $50,000",2026-02-17,2026-03-09 00:00:00
+2026-03-12, ADBE,Purchase,Markwayne Mullin,R,Senate,"$15,001 - $50,000",2026-02-04,2026-03-02 14:06:00
+2026-03-11, UBER,Purchase,John Boozman,R,Senate,"$1,001 - $15,000",2026-02-06,2026-03-06 16:10:00
+2026-03-11, TSM,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$100,001 - $250,000",2026-02-09,2026-03-09 00:00:00
+2026-03-11, TSM,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-02-26,2026-03-09 00:00:00
+2026-03-11, MU,Purchase,Cleo Fields,D,House,"$100,001 - $250,000",2026-02-03,2026-02-24 00:00:00
+2026-03-11, MU,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-02-24,2026-03-09 00:00:00
+2026-03-11, ADBE,Purchase,Markwayne Mullin,R,Senate,"$15,001 - $50,000",2026-02-04,2026-03-02 14:06:00
+2026-03-10, UBER,Purchase,John Boozman,R,Senate,"$1,001 - $15,000",2026-02-06,2026-03-06 16:10:00
+2026-03-10, TSM,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$100,001 - $250,000",2026-02-09,2026-03-09 00:00:00
+2026-03-10, TSM,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-02-26,2026-03-09 00:00:00
+2026-03-10, NFLX,Purchase,John Boozman,R,Senate,"$1,001 - $15,000",2026-01-08,2026-02-15 14:32:00
+2026-03-10, MU,Purchase,Cleo Fields,D,House,"$100,001 - $250,000",2026-02-03,2026-02-24 00:00:00
+2026-03-10, MU,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-02-24,2026-03-09 00:00:00
+2026-03-10, BE,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-30,2026-02-13 00:00:00
+2026-03-10, ADBE,Purchase,Markwayne Mullin,R,Senate,"$15,001 - $50,000",2026-02-04,2026-03-02 14:06:00
+2026-03-09, UBER,Purchase,John Boozman,R,Senate,"$1,001 - $15,000",2026-02-06,2026-03-06 16:10:00
+2026-03-09, NFLX,Purchase,John Boozman,R,Senate,"$1,001 - $15,000",2026-01-08,2026-02-15 14:32:00
+2026-03-09, MU,Purchase,Cleo Fields,D,House,"$100,001 - $250,000",2026-02-03,2026-02-24 00:00:00
+2026-03-09, BE,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-30,2026-02-13 00:00:00
+2026-03-09, ADBE,Purchase,Markwayne Mullin,R,Senate,"$15,001 - $50,000",2026-02-04,2026-03-02 14:06:00
+2026-03-08, UBER,Purchase,John Boozman,R,Senate,"$1,001 - $15,000",2026-02-06,2026-03-06 16:10:00
+2026-03-08, NFLX,Purchase,John Boozman,R,Senate,"$1,001 - $15,000",2026-01-08,2026-02-15 14:32:00
+2026-03-08, MU,Purchase,Cleo Fields,D,House,"$100,001 - $250,000",2026-02-03,2026-02-24 00:00:00
+2026-03-08, BE,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-30,2026-02-13 00:00:00
+2026-03-08, ADBE,Purchase,Markwayne Mullin,R,Senate,"$15,001 - $50,000",2026-02-04,2026-03-02 14:06:00
+2026-03-06, UBER,Purchase,John Boozman,R,Senate,"$1,001 - $15,000",2026-02-06,2026-03-06 16:10:00
+2026-03-06, SNDK,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-09,2026-02-13 00:00:00
+2026-03-06, PLTR,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-09,2026-02-13 00:00:00
+2026-03-06, NVDA,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-30,2026-02-13 00:00:00
+2026-03-06, NFLX,Purchase,John Boozman,R,Senate,"$1,001 - $15,000",2026-01-08,2026-02-15 14:32:00
+2026-03-06, MU,Purchase,Cleo Fields,D,House,"$100,001 - $250,000",2026-02-03,2026-02-24 00:00:00
+2026-03-06, BE,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-30,2026-02-13 00:00:00
+2026-03-06, ADBE,Purchase,Markwayne Mullin,R,Senate,"$15,001 - $50,000",2026-02-04,2026-03-02 14:06:00
+2026-03-05, SNDK,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-09,2026-02-13 00:00:00
+2026-03-05, PLTR,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-09,2026-02-13 00:00:00
+2026-03-05, NVDA,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-30,2026-02-13 00:00:00
+2026-03-05, NFLX,Purchase,John Boozman,R,Senate,"$1,001 - $15,000",2026-01-08,2026-02-15 14:32:00
+2026-03-05, MU,Purchase,Cleo Fields,D,House,"$100,001 - $250,000",2026-02-03,2026-02-24 00:00:00
+2026-03-05, BE,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-30,2026-02-13 00:00:00
+2026-03-05, ADBE,Purchase,Markwayne Mullin,R,Senate,"$15,001 - $50,000",2026-02-04,2026-03-02 14:06:00
+2026-03-04, TSM,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-30,2026-02-13 00:00:00
+2026-03-04, SNDK,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-09,2026-02-13 00:00:00
+2026-03-04, PLTR,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-09,2026-02-13 00:00:00
+2026-03-04, NVDA,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-30,2026-02-13 00:00:00
+2026-03-04, NFLX,Purchase,John Boozman,R,Senate,"$1,001 - $15,000",2026-01-08,2026-02-15 14:32:00
+2026-03-04, MU,Purchase,Cleo Fields,D,House,"$100,001 - $250,000",2026-02-03,2026-02-24 00:00:00
+2026-03-04, BE,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-30,2026-02-13 00:00:00
+2026-03-04, ADBE,Purchase,Markwayne Mullin,R,Senate,"$15,001 - $50,000",2026-02-04,2026-03-02 14:06:00
+2026-03-03, TSM,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-30,2026-02-13 00:00:00
+2026-03-03, SNDK,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-09,2026-02-13 00:00:00
+2026-03-03, PLTR,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-09,2026-02-13 00:00:00
+2026-03-03, NVDA,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-30,2026-02-13 00:00:00
+2026-03-03, NFLX,Purchase,John Boozman,R,Senate,"$1,001 - $15,000",2026-01-08,2026-02-15 14:32:00
+2026-03-03, MU,Purchase,Cleo Fields,D,House,"$100,001 - $250,000",2026-02-03,2026-02-24 00:00:00
+2026-03-03, BE,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-30,2026-02-13 00:00:00
+2026-03-03, ADBE,Purchase,Markwayne Mullin,R,Senate,"$15,001 - $50,000",2026-02-04,2026-03-02 14:06:00
+2026-03-02, TSM,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-30,2026-02-13 00:00:00
+2026-03-02, SNDK,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-09,2026-02-13 00:00:00
+2026-03-02, PLTR,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-09,2026-02-13 00:00:00
+2026-03-02, NVDA,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-30,2026-02-13 00:00:00
+2026-03-02, NFLX,Purchase,John Boozman,R,Senate,"$1,001 - $15,000",2026-01-08,2026-02-15 14:32:00
+2026-03-02, MU,Purchase,Cleo Fields,D,House,"$100,001 - $250,000",2026-02-03,2026-02-24 00:00:00
+2026-03-02, BE,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-30,2026-02-13 00:00:00
+2026-03-01, TSM,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-30,2026-02-13 00:00:00
+2026-03-01, SNDK,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-09,2026-02-13 00:00:00
+2026-03-01, PLTR,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-09,2026-02-13 00:00:00
+2026-03-01, NVDA,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-30,2026-02-13 00:00:00
+2026-03-01, NFLX,Purchase,John Boozman,R,Senate,"$1,001 - $15,000",2026-01-08,2026-02-15 14:32:00
+2026-03-01, MU,Purchase,Cleo Fields,D,House,"$100,001 - $250,000",2026-02-03,2026-02-24 00:00:00
+2026-03-01, BE,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-30,2026-02-13 00:00:00
+2026-02-28, TSM,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-30,2026-02-13 00:00:00
+2026-02-28, SNDK,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-09,2026-02-13 00:00:00
+2026-02-28, PLTR,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-09,2026-02-13 00:00:00
+2026-02-28, NVDA,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-30,2026-02-13 00:00:00
+2026-02-28, NFLX,Purchase,John Boozman,R,Senate,"$1,001 - $15,000",2026-01-08,2026-02-15 14:32:00
+2026-02-28, MU,Purchase,Cleo Fields,D,House,"$100,001 - $250,000",2026-02-03,2026-02-24 00:00:00
+2026-02-28, BE,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-30,2026-02-13 00:00:00
+2026-02-27, TSM,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-30,2026-02-13 00:00:00
+2026-02-27, SNDK,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-09,2026-02-13 00:00:00
+2026-02-27, PLTR,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-09,2026-02-13 00:00:00
+2026-02-27, NVDA,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-30,2026-02-13 00:00:00
+2026-02-27, NFLX,Purchase,John Boozman,R,Senate,"$1,001 - $15,000",2026-01-08,2026-02-15 14:32:00
+2026-02-27, MU,Purchase,Cleo Fields,D,House,"$100,001 - $250,000",2026-02-03,2026-02-24 00:00:00
+2026-02-27, BE,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-30,2026-02-13 00:00:00
+2026-02-26, UBER,2
+2026-02-26, TSM,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-30,2026-02-13 00:00:00
+2026-02-26, SNDK,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-09,2026-02-13 00:00:00
+2026-02-26, PLTR,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-09,2026-02-13 00:00:00
+2026-02-26, NVDA,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-30,2026-02-13 00:00:00
+2026-02-26, NFLX,Purchase,Michael T. McCaul,R,House,"$15,001 - $50,000",2026-01-30,2026-02-11 00:00:00
+2026-02-26, NFLX,Purchase,John Boozman,R,Senate,"$1,001 - $15,000",2026-01-08,2026-02-15 14:32:00
+2026-02-26, MU,Purchase,Cleo Fields,D,House,"$100,001 - $250,000",2026-02-03,2026-02-24 00:00:00
+2026-02-26, BE,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-30,2026-02-13 00:00:00
+2026-02-25, UBER,2
+2026-02-25, TSM,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-30,2026-02-13 00:00:00
+2026-02-25, SNDK,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-09,2026-02-13 00:00:00
+2026-02-25, PLTR,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-09,2026-02-13 00:00:00
+2026-02-25, NVDA,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-30,2026-02-13 00:00:00
+2026-02-25, NFLX,Purchase,Michael T. McCaul,R,House,"$15,001 - $50,000",2026-01-30,2026-02-11 00:00:00
+2026-02-25, NFLX,Purchase,John Boozman,R,Senate,"$1,001 - $15,000",2026-01-08,2026-02-15 14:32:00
+2026-02-25, MU,Purchase,Cleo Fields,D,House,"$100,001 - $250,000",2026-02-03,2026-02-24 00:00:00
+2026-02-25, BE,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-30,2026-02-13 00:00:00
+2026-02-24, UBER,2
+2026-02-24, TSM,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-30,2026-02-13 00:00:00
+2026-02-24, SNDK,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-09,2026-02-13 00:00:00
+2026-02-24, PLTR,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-09,2026-02-13 00:00:00
+2026-02-24, NVDA,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-30,2026-02-13 00:00:00
+2026-02-24, NFLX,Purchase,Michael T. McCaul,R,House,"$15,001 - $50,000",2026-01-30,2026-02-11 00:00:00
+2026-02-24, NFLX,Purchase,John Boozman,R,Senate,"$1,001 - $15,000",2026-01-08,2026-02-15 14:32:00
+2026-02-24, BE,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-30,2026-02-13 00:00:00
+2026-02-23, TSM,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-30,2026-02-13 00:00:00
+2026-02-23, SNDK,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-09,2026-02-13 00:00:00
+2026-02-23, PLTR,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-09,2026-02-13 00:00:00
+2026-02-23, NVDA,Purchase,John McGuire,R,House,"$1,001 - $15,000",2026-01-30,2026-02-10 00:00:00
+2026-02-23, NVDA,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-30,2026-02-13 00:00:00
+2026-02-23, NFLX,Purchase,Michael T. McCaul,R,House,"$15,001 - $50,000",2026-01-30,2026-02-11 00:00:00
+2026-02-23, NFLX,Purchase,John Boozman,R,Senate,"$1,001 - $15,000",2026-01-08,2026-02-15 14:32:00
+2026-02-23, BE,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-30,2026-02-13 00:00:00
+2026-02-21, UBER,Purchase,John W. Hickenlooper,D,Senate,"$100,001 - $250,000",2026-01-14,2026-02-06 15:19:00
+2026-02-21, TSM,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-30,2026-02-13 00:00:00
+2026-02-21, SNDK,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-09,2026-02-13 00:00:00
+2026-02-21, PLTR,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-09,2026-02-13 00:00:00
+2026-02-21, NVDA,Purchase,John McGuire,R,House,"$1,001 - $15,000",2026-01-30,2026-02-10 00:00:00
+2026-02-21, NVDA,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-30,2026-02-13 00:00:00
+2026-02-21, NFLX,Purchase,Michael T. McCaul,R,House,"$15,001 - $50,000",2026-01-30,2026-02-11 00:00:00
+2026-02-21, NFLX,Purchase,John Boozman,R,Senate,"$1,001 - $15,000",2026-01-08,2026-02-15 14:32:00
+2026-02-21, BE,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-30,2026-02-13 00:00:00
+2026-02-20, UBER,Purchase,John W. Hickenlooper,D,Senate,"$100,001 - $250,000",2026-01-14,2026-02-06 15:19:00
+2026-02-20, TSM,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-30,2026-02-13 00:00:00
+2026-02-20, SNDK,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-09,2026-02-13 00:00:00
+2026-02-20, PLTR,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-09,2026-02-13 00:00:00
+2026-02-20, NVDA,Purchase,John McGuire,R,House,"$1,001 - $15,000",2026-01-30,2026-02-10 00:00:00
+2026-02-20, NVDA,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-30,2026-02-13 00:00:00
+2026-02-20, NFLX,Purchase,Michael T. McCaul,R,House,"$15,001 - $50,000",2026-01-30,2026-02-11 00:00:00
+2026-02-20, NFLX,Purchase,John Boozman,R,Senate,"$1,001 - $15,000",2026-01-08,2026-02-15 14:32:00
+2026-02-20, BE,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-30,2026-02-13 00:00:00
+2026-02-19, UBER,Purchase,John W. Hickenlooper,D,Senate,"$100,001 - $250,000",2026-01-14,2026-02-06 15:19:00
+2026-02-19, TSM,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-30,2026-02-13 00:00:00
+2026-02-19, SNDK,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-09,2026-02-13 00:00:00
+2026-02-19, PLTR,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-09,2026-02-13 00:00:00
+2026-02-19, NVDA,Purchase,John McGuire,R,House,"$1,001 - $15,000",2026-01-30,2026-02-10 00:00:00
+2026-02-19, NVDA,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-30,2026-02-13 00:00:00
+2026-02-19, NFLX,Purchase,Michael T. McCaul,R,House,"$15,001 - $50,000",2026-01-30,2026-02-11 00:00:00
+2026-02-19, NFLX,Purchase,John Boozman,R,Senate,"$1,001 - $15,000",2026-01-08,2026-02-15 14:32:00
+2026-02-19, BE,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-30,2026-02-13 00:00:00
+2026-02-17, UBER,Purchase,John W. Hickenlooper,D,Senate,"$100,001 - $250,000",2026-01-14,2026-02-06 15:19:00
+2026-02-17, TSM,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-30,2026-02-13 00:00:00
+2026-02-17, SNDK,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-09,2026-02-13 00:00:00
+2026-02-17, PLTR,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-09,2026-02-13 00:00:00
+2026-02-17, NVDA,Purchase,John McGuire,R,House,"$1,001 - $15,000",2026-01-30,2026-02-10 00:00:00
+2026-02-17, NVDA,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-30,2026-02-13 00:00:00
+2026-02-17, NFLX,Purchase,Michael T. McCaul,R,House,"$15,001 - $50,000",2026-01-30,2026-02-11 00:00:00
+2026-02-17, NFLX,Purchase,John Boozman,R,Senate,"$1,001 - $15,000",2026-01-08,2026-02-15 14:32:00
+2026-02-17, BE,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-30,2026-02-13 00:00:00
+2026-02-16, UBER,Purchase,John W. Hickenlooper,D,Senate,"$100,001 - $250,000",2026-01-14,2026-02-06 15:19:00
+2026-02-16, TSM,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-30,2026-02-13 00:00:00
+2026-02-16, SNDK,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-09,2026-02-13 00:00:00
+2026-02-16, PLTR,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-09,2026-02-13 00:00:00
+2026-02-16, NVDA,Purchase,John McGuire,R,House,"$1,001 - $15,000",2026-01-30,2026-02-10 00:00:00
+2026-02-16, NVDA,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-30,2026-02-13 00:00:00
+2026-02-16, NFLX,Purchase,Michael T. McCaul,R,House,"$15,001 - $50,000",2026-01-30,2026-02-11 00:00:00
+2026-02-16, NFLX,Purchase,John Boozman,R,Senate,"$1,001 - $15,000",2026-01-08,2026-02-15 14:32:00
+2026-02-16, BE,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-30,2026-02-13 00:00:00
+2026-02-15, UBER,Purchase,John W. Hickenlooper,D,Senate,"$100,001 - $250,000",2026-01-14,2026-02-06 15:19:00
+2026-02-15, NVDA,Purchase,John McGuire,R,House,"$1,001 - $15,000",2026-01-30,2026-02-10 00:00:00
+2026-02-15, NFLX,Purchase,Michael T. McCaul,R,House,"$15,001 - $50,000",2026-01-30,2026-02-11 00:00:00
+2026-02-15, NFLX,Purchase,John Boozman,R,Senate,"$1,001 - $15,000",2026-01-08,2026-02-15 14:32:00
+2026-02-15, CRWD,Purchase,Ro Khanna,D,House,"$1,001 - $15,000",2026-01-29,2026-02-06 00:00:00
+2026-02-15, BEN,Purchase,Ro Khanna,D,House,"$1,001 - $15,000",2026-01-29,2026-02-06 00:00:00
+2026-02-13, UBER,Purchase,John W. Hickenlooper,D,Senate,"$100,001 - $250,000",2026-01-14,2026-02-06 15:19:00
+2026-02-13, NVDA,Purchase,John McGuire,R,House,"$1,001 - $15,000",2026-01-30,2026-02-10 00:00:00
+2026-02-13, NFLX,Purchase,Michael T. McCaul,R,House,"$15,001 - $50,000",2026-01-30,2026-02-11 00:00:00
+2026-02-13, CRWD,Purchase,Ro Khanna,D,House,"$1,001 - $15,000",2026-01-29,2026-02-06 00:00:00
+2026-02-13, BEN,Purchase,Ro Khanna,D,House,"$1,001 - $15,000",2026-01-29,2026-02-06 00:00:00
+2026-02-12, UBER,Purchase,John W. Hickenlooper,D,Senate,"$100,001 - $250,000",2026-01-14,2026-02-06 15:19:00
+2026-02-12, NVDA,Purchase,John McGuire,R,House,"$1,001 - $15,000",2026-01-30,2026-02-10 00:00:00
+2026-02-12, CRWD,Purchase,Ro Khanna,D,House,"$1,001 - $15,000",2026-01-29,2026-02-06 00:00:00
+2026-02-12, BEN,Purchase,Ro Khanna,D,House,"$1,001 - $15,000",2026-01-29,2026-02-06 00:00:00
+2026-02-10, UBER,Purchase,John W. Hickenlooper,D,Senate,"$100,001 - $250,000",2026-01-14,2026-02-06 15:19:00
+2026-02-10, TSM,Purchase,Cleo Fields,D,House,"$1,001 - $15,000",2026-01-08,2026-02-03 00:00:00
+2026-02-10, NVDA,Purchase,Nancy Pelosi,D,House,"$250,001 - $500,000",2026-01-16,2026-01-23 00:00:00
+2026-02-10, NVDA,Purchase,Nancy Pelosi,D,House,"$100,001 - $250,000",2025-12-30,2026-01-23 00:00:00
+2026-02-10, NVDA,Purchase,Markwayne Mullin,R,Senate,"$100,001 - $250,000",2025-12-29,2026-01-16 15:03:00
+2026-02-10, NVDA,Purchase,Katie Boyd Britt,R,Senate,"$1,001 - $15,000",2025-04-30,2026-01-26 17:46:00
+2026-02-10, NVDA,Purchase,Katie Boyd Britt,R,Senate,"$1,001 - $15,000",2025-04-14,2026-01-26 17:46:00
+2026-02-10, NFLX,Purchase,Cleo Fields,D,House,"$50,001 - $100,000",2026-01-20,2026-02-03 00:00:00
+2026-02-10, IREN,Purchase,Dale W. Strong,R,House,"$1,001 - $15,000",2026-01-28,2026-01-28 00:00:00
+2026-02-10, IREN,Purchase,Cleo Fields,D,House,"$50,001 - $100,000",2026-01-20,2026-02-03 00:00:00
+2026-02-10, ADBE,Purchase,Markwayne Mullin,R,Senate,"$15,001 - $50,000",2026-01-05,2026-02-04 16:58:00
+2026-02-09, UBER,Purchase,John W. Hickenlooper,D,Senate,"$100,001 - $250,000",2026-01-14,2026-02-06 15:19:00
+2026-02-09, TSM,Purchase,Cleo Fields,D,House,"$1,001 - $15,000",2026-01-08,2026-02-03 00:00:00
+2026-02-09, NVDA,Purchase,Nancy Pelosi,D,House,"$250,001 - $500,000",2026-01-16,2026-01-23 00:00:00
+2026-02-09, NVDA,Purchase,Nancy Pelosi,D,House,"$100,001 - $250,000",2025-12-30,2026-01-23 00:00:00
+2026-02-09, NVDA,Purchase,Markwayne Mullin,R,Senate,"$100,001 - $250,000",2025-12-29,2026-01-16 15:03:00
+2026-02-09, NVDA,Purchase,Katie Boyd Britt,R,Senate,"$1,001 - $15,000",2025-04-30,2026-01-26 17:46:00
+2026-02-09, NVDA,Purchase,Katie Boyd Britt,R,Senate,"$1,001 - $15,000",2025-04-14,2026-01-26 17:46:00
+2026-02-09, NFLX,Purchase,Cleo Fields,D,House,"$50,001 - $100,000",2026-01-20,2026-02-03 00:00:00
+2026-02-09, IREN,Purchase,Dale W. Strong,R,House,"$1,001 - $15,000",2026-01-28,2026-01-28 00:00:00
+2026-02-09, IREN,Purchase,Cleo Fields,D,House,"$50,001 - $100,000",2026-01-20,2026-02-03 00:00:00
+2026-02-09, ADBE,Purchase,Markwayne Mullin,R,Senate,"$15,001 - $50,000",2026-01-05,2026-02-04 16:58:00
+2026-02-08, UBER,Purchase,John W. Hickenlooper,D,Senate,"$100,001 - $250,000",2026-01-14,2026-02-06 15:19:00
+2026-02-08, TSM,Purchase,Cleo Fields,D,House,"$1,001 - $15,000",2026-01-08,2026-02-03 00:00:00
+2026-02-08, NVDA,Purchase,Nancy Pelosi,D,House,"$250,001 - $500,000",2026-01-16,2026-01-23 00:00:00
+2026-02-08, NVDA,Purchase,Nancy Pelosi,D,House,"$100,001 - $250,000",2025-12-30,2026-01-23 00:00:00
+2026-02-08, NVDA,Purchase,Markwayne Mullin,R,Senate,"$100,001 - $250,000",2025-12-29,2026-01-16 15:03:00
+2026-02-08, NVDA,Purchase,Katie Boyd Britt,R,Senate,"$1,001 - $15,000",2025-04-30,2026-01-26 17:46:00
+2026-02-08, NVDA,Purchase,Katie Boyd Britt,R,Senate,"$1,001 - $15,000",2025-04-14,2026-01-26 17:46:00
+2026-02-08, NFLX,Purchase,Cleo Fields,D,House,"$50,001 - $100,000",2026-01-20,2026-02-03 00:00:00
+2026-02-08, IREN,Purchase,Dale W. Strong,R,House,"$1,001 - $15,000",2026-01-28,2026-01-28 00:00:00
+2026-02-08, IREN,Purchase,Cleo Fields,D,House,"$50,001 - $100,000",2026-01-20,2026-02-03 00:00:00
+2026-02-08, ADBE,Purchase,Markwayne Mullin,R,Senate,"$15,001 - $50,000",2026-01-05,2026-02-04 16:58:00
+2026-02-07, UBER,Purchase,John W. Hickenlooper,D,Senate,"$100,001 - $250,000",2026-01-14,2026-02-06 15:19:00
+2026-02-07, TSM,Purchase,Cleo Fields,D,House,"$1,001 - $15,000",2026-01-08,2026-02-03 00:00:00
+2026-02-07, NVDA,Purchase,Nancy Pelosi,D,House,"$250,001 - $500,000",2026-01-16,2026-01-23 00:00:00
+2026-02-07, NVDA,Purchase,Nancy Pelosi,D,House,"$100,001 - $250,000",2025-12-30,2026-01-23 00:00:00
+2026-02-07, NVDA,Purchase,Markwayne Mullin,R,Senate,"$100,001 - $250,000",2025-12-29,2026-01-16 15:03:00
+2026-02-07, NVDA,Purchase,Katie Boyd Britt,R,Senate,"$1,001 - $15,000",2025-04-30,2026-01-26 17:46:00
+2026-02-07, NVDA,Purchase,Katie Boyd Britt,R,Senate,"$1,001 - $15,000",2025-04-14,2026-01-26 17:46:00
+2026-02-07, NFLX,Purchase,Cleo Fields,D,House,"$50,001 - $100,000",2026-01-20,2026-02-03 00:00:00
+2026-02-07, IREN,Purchase,Dale W. Strong,R,House,"$1,001 - $15,000",2026-01-28,2026-01-28 00:00:00
+2026-02-07, IREN,Purchase,Cleo Fields,D,House,"$50,001 - $100,000",2026-01-20,2026-02-03 00:00:00
+2026-02-07, ADBE,Purchase,Markwayne Mullin,R,Senate,"$15,001 - $50,000",2026-01-05,2026-02-04 16:58:00
+2026-02-06, TSM,Purchase,Cleo Fields,D,House,"$1,001 - $15,000",2026-01-08,2026-02-03 00:00:00
+2026-02-06, NVDA,Purchase,Nancy Pelosi,D,House,"$250,001 - $500,000",2026-01-16,2026-01-23 00:00:00
+2026-02-06, NVDA,Purchase,Nancy Pelosi,D,House,"$100,001 - $250,000",2025-12-30,2026-01-23 00:00:00
+2026-02-06, NVDA,Purchase,Markwayne Mullin,R,Senate,"$100,001 - $250,000",2025-12-29,2026-01-16 15:03:00
+2026-02-06, NVDA,Purchase,Katie Boyd Britt,R,Senate,"$1,001 - $15,000",2025-04-30,2026-01-26 17:46:00
+2026-02-06, NVDA,Purchase,Katie Boyd Britt,R,Senate,"$1,001 - $15,000",2025-04-14,2026-01-26 17:46:00
+2026-02-06, NFLX,Purchase,Cleo Fields,D,House,"$50,001 - $100,000",2026-01-20,2026-02-03 00:00:00
+2026-02-06, MUZE,1
+2026-02-06, IREN,Purchase,Dale W. Strong,R,House,"$1,001 - $15,000",2026-01-28,2026-01-28 00:00:00
+2026-02-06, IREN,Purchase,Cleo Fields,D,House,"$50,001 - $100,000",2026-01-20,2026-02-03 00:00:00
+2026-02-06, ADBE,Purchase,Markwayne Mullin,R,Senate,"$15,001 - $50,000",2026-01-05,2026-02-04 16:58:00
+2026-02-05, TSM,Purchase,Cleo Fields,D,House,"$1,001 - $15,000",2026-01-08,2026-02-03 00:00:00
+2026-02-05, NVDA,Purchase,Nancy Pelosi,D,House,"$250,001 - $500,000",2026-01-16,2026-01-23 00:00:00
+2026-02-05, NVDA,Purchase,Nancy Pelosi,D,House,"$100,001 - $250,000",2025-12-30,2026-01-23 00:00:00
+2026-02-05, NVDA,Purchase,Markwayne Mullin,R,Senate,"$100,001 - $250,000",2025-12-29,2026-01-16 15:03:00
+2026-02-05, NVDA,Purchase,Katie Boyd Britt,R,Senate,"$1,001 - $15,000",2025-04-30,2026-01-26 17:46:00
+2026-02-05, NVDA,Purchase,Katie Boyd Britt,R,Senate,"$1,001 - $15,000",2025-04-14,2026-01-26 17:46:00
+2026-02-05, NFLX,Purchase,Cleo Fields,D,House,"$50,001 - $100,000",2026-01-20,2026-02-03 00:00:00
+2026-02-05, MUZE,1
+2026-02-05, IREN,Purchase,Dale W. Strong,R,House,"$1,001 - $15,000",2026-01-28,2026-01-28 00:00:00
+2026-02-05, IREN,Purchase,Cleo Fields,D,House,"$50,001 - $100,000",2026-01-20,2026-02-03 00:00:00
+2026-02-05, ADBE,Purchase,Markwayne Mullin,R,Senate,"$15,001 - $50,000",2026-01-05,2026-02-04 16:58:00
+2026-02-04, TSM,Purchase,Cleo Fields,D,House,"$1,001 - $15,000",2026-01-08,2026-02-03 00:00:00
+2026-02-04, TMUS,Purchase,Dan Newhouse,R,House,"$1,001 - $15,000",2025-12-11,2026-01-15 00:00:00
+2026-02-04, NVDA,Purchase,Nancy Pelosi,D,House,"$250,001 - $500,000",2026-01-16,2026-01-23 00:00:00
+2026-02-04, NVDA,Purchase,Nancy Pelosi,D,House,"$100,001 - $250,000",2025-12-30,2026-01-23 00:00:00
+2026-02-04, NVDA,Purchase,Markwayne Mullin,R,Senate,"$100,001 - $250,000",2025-12-29,2026-01-16 15:03:00
+2026-02-04, NVDA,Purchase,Katie Boyd Britt,R,Senate,"$1,001 - $15,000",2025-04-30,2026-01-26 17:46:00
+2026-02-04, NVDA,Purchase,Katie Boyd Britt,R,Senate,"$1,001 - $15,000",2025-04-14,2026-01-26 17:46:00
+2026-02-04, NFLX,Purchase,Cleo Fields,D,House,"$50,001 - $100,000",2026-01-20,2026-02-03 00:00:00
+2026-02-04, MUZE,1
+2026-02-04, IREN,Purchase,Dale W. Strong,R,House,"$1,001 - $15,000",2026-01-28,2026-01-28 00:00:00
+2026-02-04, IREN,Purchase,Cleo Fields,D,House,"$50,001 - $100,000",2026-01-20,2026-02-03 00:00:00
+2026-02-04, ADBE,Purchase,Markwayne Mullin,R,Senate,"$15,001 - $50,000",2026-01-05,2026-02-04 16:58:00
+2026-02-03, TMUS,Purchase,Dan Newhouse,R,House,"$1,001 - $15,000",2025-12-11,2026-01-15 00:00:00
+2026-02-03, NVDA,Purchase,Nancy Pelosi,D,House,"$250,001 - $500,000",2026-01-16,2026-01-23 00:00:00
+2026-02-03, NVDA,Purchase,Nancy Pelosi,D,House,"$100,001 - $250,000",2025-12-30,2026-01-23 00:00:00
+2026-02-03, NVDA,Purchase,Markwayne Mullin,R,Senate,"$100,001 - $250,000",2025-12-29,2026-01-16 15:03:00
+2026-02-03, NVDA,Purchase,Katie Boyd Britt,R,Senate,"$1,001 - $15,000",2025-04-30,2026-01-26 17:46:00
+2026-02-03, NVDA,Purchase,Katie Boyd Britt,R,Senate,"$1,001 - $15,000",2025-04-14,2026-01-26 17:46:00
+2026-02-03, IREN,Purchase,Dale W. Strong,R,House,"$1,001 - $15,000",2026-01-28,2026-01-28 00:00:00
+2026-02-02, TMUS,Purchase,Dan Newhouse,R,House,"$1,001 - $15,000",2025-12-11,2026-01-15 00:00:00
+2026-02-02, NVDA,Purchase,Nancy Pelosi,D,House,"$250,001 - $500,000",2026-01-16,2026-01-23 00:00:00
+2026-02-02, NVDA,Purchase,Nancy Pelosi,D,House,"$100,001 - $250,000",2025-12-30,2026-01-23 00:00:00
+2026-02-02, NVDA,Purchase,Markwayne Mullin,R,Senate,"$100,001 - $250,000",2025-12-29,2026-01-16 15:03:00
+2026-02-02, NVDA,Purchase,Katie Boyd Britt,R,Senate,"$1,001 - $15,000",2025-04-30,2026-01-26 17:46:00
+2026-02-02, NVDA,Purchase,Katie Boyd Britt,R,Senate,"$1,001 - $15,000",2025-04-14,2026-01-26 17:46:00
+2026-02-02, IREN,Purchase,Dale W. Strong,R,House,"$1,001 - $15,000",2026-01-28,2026-01-28 00:00:00
+2026-02-01, TMUS,Purchase,Dan Newhouse,R,House,"$1,001 - $15,000",2025-12-11,2026-01-15 00:00:00
+2026-02-01, NVDA,Purchase,Nancy Pelosi,D,House,"$250,001 - $500,000",2026-01-16,2026-01-23 00:00:00
+2026-02-01, NVDA,Purchase,Nancy Pelosi,D,House,"$100,001 - $250,000",2025-12-30,2026-01-23 00:00:00
+2026-02-01, NVDA,Purchase,Markwayne Mullin,R,Senate,"$100,001 - $250,000",2025-12-29,2026-01-16 15:03:00
+2026-02-01, NVDA,Purchase,Katie Boyd Britt,R,Senate,"$1,001 - $15,000",2025-04-30,2026-01-26 17:46:00
+2026-02-01, NVDA,Purchase,Katie Boyd Britt,R,Senate,"$1,001 - $15,000",2025-04-14,2026-01-26 17:46:00
+2026-02-01, IREN,Purchase,Dale W. Strong,R,House,"$1,001 - $15,000",2026-01-28,2026-01-28 00:00:00
+2026-01-30, TMUS,Purchase,Dan Newhouse,R,House,"$1,001 - $15,000",2025-12-11,2026-01-15 00:00:00
+2026-01-30, NVDA,Purchase,Nancy Pelosi,D,House,"$250,001 - $500,000",2026-01-16,2026-01-23 00:00:00
+2026-01-30, NVDA,Purchase,Nancy Pelosi,D,House,"$100,001 - $250,000",2025-12-30,2026-01-23 00:00:00
+2026-01-30, NVDA,Purchase,Markwayne Mullin,R,Senate,"$100,001 - $250,000",2025-12-29,2026-01-16 15:03:00
+2026-01-30, NVDA,Purchase,Katie Boyd Britt,R,Senate,"$1,001 - $15,000",2025-04-30,2026-01-26 17:46:00
+2026-01-30, NVDA,Purchase,Katie Boyd Britt,R,Senate,"$1,001 - $15,000",2025-04-14,2026-01-26 17:46:00
+2026-01-30, IREN,Purchase,Dale W. Strong,R,House,"$1,001 - $15,000",2026-01-28,2026-01-28 00:00:00
+2026-01-29, TMUS,Purchase,Dan Newhouse,R,House,"$1,001 - $15,000",2025-12-11,2026-01-15 00:00:00
+2026-01-29, NVDA,Purchase,Nancy Pelosi,D,House,"$250,001 - $500,000",2026-01-16,2026-01-23 00:00:00
+2026-01-29, NVDA,Purchase,Nancy Pelosi,D,House,"$100,001 - $250,000",2025-12-30,2026-01-23 00:00:00
+2026-01-29, NVDA,Purchase,Markwayne Mullin,R,Senate,"$100,001 - $250,000",2025-12-29,2026-01-16 15:03:00
+2026-01-29, NVDA,Purchase,Katie Boyd Britt,R,Senate,"$1,001 - $15,000",2025-04-30,2026-01-26 17:46:00
+2026-01-29, NVDA,Purchase,Katie Boyd Britt,R,Senate,"$1,001 - $15,000",2025-04-14,2026-01-26 17:46:00
+2026-01-29, IREN,Purchase,Dale W. Strong,R,House,"$1,001 - $15,000",2026-01-28,2026-01-28 00:00:00
+2026-01-28, TMUS,Purchase,Dan Newhouse,R,House,"$1,001 - $15,000",2025-12-11,2026-01-15 00:00:00
+2026-01-28, NVDA,Purchase,Nancy Pelosi,D,House,"$250,001 - $500,000",2026-01-16,2026-01-23 00:00:00
+2026-01-28, NVDA,Purchase,Nancy Pelosi,D,House,"$100,001 - $250,000",2025-12-30,2026-01-23 00:00:00
+2026-01-28, NVDA,Purchase,Markwayne Mullin,R,Senate,"$100,001 - $250,000",2025-12-29,2026-01-16 15:03:00
+2026-01-28, NVDA,Purchase,Katie Boyd Britt,R,Senate,"$1,001 - $15,000",2025-04-30,2026-01-26 17:46:00
+2026-01-28, NVDA,Purchase,Katie Boyd Britt,R,Senate,"$1,001 - $15,000",2025-04-14,2026-01-26 17:46:00
+2026-01-28, CMU,1
+2026-01-27, TMUS,Purchase,Dan Newhouse,R,House,"$1,001 - $15,000",2025-12-11,2026-01-15 00:00:00
+2026-01-27, NVDA,Purchase,Nancy Pelosi,D,House,"$250,001 - $500,000",2026-01-16,2026-01-23 00:00:00
+2026-01-27, NVDA,Purchase,Nancy Pelosi,D,House,"$100,001 - $250,000",2025-12-30,2026-01-23 00:00:00
+2026-01-27, NVDA,Purchase,Markwayne Mullin,R,Senate,"$100,001 - $250,000",2025-12-29,2026-01-16 15:03:00
+2026-01-27, NVDA,Purchase,Katie Boyd Britt,R,Senate,"$1,001 - $15,000",2025-04-30,2026-01-26 17:46:00
+2026-01-27, NVDA,Purchase,Katie Boyd Britt,R,Senate,"$1,001 - $15,000",2025-04-14,2026-01-26 17:46:00
+2026-01-27, CMU,1
+2026-01-26, TMUS,Purchase,Dan Newhouse,R,House,"$1,001 - $15,000",2025-12-11,2026-01-15 00:00:00
+2026-01-26, NVDA,Purchase,Nancy Pelosi,D,House,"$250,001 - $500,000",2026-01-16,2026-01-23 00:00:00
+2026-01-26, NVDA,Purchase,Nancy Pelosi,D,House,"$100,001 - $250,000",2025-12-30,2026-01-23 00:00:00
+2026-01-26, NVDA,Purchase,Markwayne Mullin,R,Senate,"$100,001 - $250,000",2025-12-29,2026-01-16 15:03:00
+2026-01-26, CMU,1
+2026-01-24, CMU,1
+2026-01-23, CMU,1
+2026-01-22, CMU,1
+2026-01-21, MU,3
+2026-01-21, MU,1
+2026-01-20, MU,3
+2026-01-16, MU,3
+2026-01-06, BETR,1
+2026-01-05, BETR,1
+2025-12-29, NVDA, Markwayne Mullin Senate / R
+2025-12-22, PLTR, Jonathan L. Jackson House / D
+2025-12-20, NFLX,3
+2025-12-19, UBER, Gilbert Ray Cisneros, Jr. House / D
+2025-12-19, NFLX,3
+2025-12-18, NFLX,3
+2025-12-11, TMUS, Dan Newhouse House / R
+2025-12-09, IREN, Cleo Fields House / D
+2025-12-03, NFLX, Cleo Fields House / D
+2025-11-21, NVDA, Dwight Evans House / D
+2025-11-20, NFLX, Cleo Fields House / D
+2025-11-18, PLTR, Gilbert Ray Cisneros, Jr. House / D
+2025-11-18, NVDA, Gilbert Ray Cisneros, Jr. House / D
+2025-11-18, NFLX, Gilbert Ray Cisneros, Jr. House / D
+2025-11-18, BE, Gilbert Ray Cisneros, Jr. House / D
+2025-11-12, ADBE, Ro Khanna House / D
+2025-11-10, TMUS,1
+2025-11-10, BETA,7
+2025-11-10, BETA,3
+2025-11-09, BETA,7
+2025-11-07, PLTR, Gilbert Ray Cisneros, Jr. House / D
+2025-11-03, NFLX, Cleo Fields House / D
+2025-11-03, ADBE, Ro Khanna House / D
+2025-10-31, NFLX, Cleo Fields House / D
+2025-10-30, NVDA, Cleo Fields House / D
+2025-10-24, NFLX, Marjorie Taylor Greene House / R
+2025-10-23, TSM, Cleo Fields House / D
+2025-10-21, UBER,1
+2025-10-17, UBER, Gilbert Ray Cisneros, Jr. House / D
+2025-10-17, NVDA, Gilbert Ray Cisneros, Jr. House / D
+2025-10-17, NFLX, Gilbert Ray Cisneros, Jr. House / D
+2025-10-17, BE, Gilbert Ray Cisneros, Jr. House / D
+2025-10-15, ADBE, Marjorie Taylor Greene House / R
+2025-10-10, TSM, Jared Moskowitz House / D
+2025-10-10, PLTR, Cleo Fields House / D
+2025-10-10, IREN, Cleo Fields House / D
+2025-10-09, PLTR, Gilbert Ray Cisneros, Jr. House / D
+2025-09-30, PLTR — Palantir Technologies Inc.
+2025-09-30, NVDA — NVIDIA Corporation
+2025-09-30, MU — Micron Technology Inc.
+2025-09-26, BE, Gilbert Ray Cisneros, Jr. House / D
+2025-09-11, TSM,6
+2025-09-11, NVDA,11
+2025-09-11, CRWD, Marjorie Taylor Greene House / R
+2025-09-11, ADBE, Marjorie Taylor Greene House / R
+2025-09-10, UBER, Cleo Fields House / D
+2025-09-10, TSM,6
+2025-09-10, NVDA,11
+2025-09-10, LVMUY, Val T. Hoyle House / D
+2025-09-09, TSM,6
+2025-09-09, NVDA,11
+2025-09-08, TSM,6
+2025-09-08, NVDA,11
+2025-09-07, TSM,6
+2025-09-07, NVDA,11
+2025-09-06, TSM,6
+2025-09-06, NVDA,11
+2025-09-05, TSM,6
+2025-09-05, NVDA,11
+2025-09-04, TSM,6
+2025-09-04, NVDA,11
+2025-09-04, ADBE, John Boozman Senate / R
+2025-09-03, TMUS,3
+2025-09-03, NVDA, Cleo Fields House / D
+2025-09-02, TMUS,3
+2025-09-02, BEEP,2
+2025-09-01, TMUS,3
+2025-08-22, NVDA, John Boozman Senate / R
+2025-08-22, NVDA, Cleo Fields House / D
+2025-08-20, NVDA, Cleo Fields House / D
+2025-08-15, TSM, Cleo Fields House / D
+2025-08-15, NVDA, Cleo Fields House / D
+2025-08-13, TSM, Cleo Fields House / D
+2025-08-13, PLTR, Cleo Fields House / D
+2025-08-13, NVDA, Cleo Fields House / D
+2025-08-06, NVDA, Cleo Fields House / D
+2025-08-01, TSM, Cleo Fields House / D
+2025-08-01, NVDA, Cleo Fields House / D
+2025-04-23, TMUS, Jonathan L. Jackson House / D
+2025-03-24, TMUS, Jonathan L. Jackson House / D
+2025-03-03, TMUS, Jonathan L. Jackson House / D
+2025-01-24, ADBE, Julia Letlow House / R
+2023-03-15, BEXIX, Richard McCormick House / R

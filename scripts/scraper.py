@@ -36,19 +36,53 @@ def fetch_insider_json(url):
 def count_insider_transactions_from_json(data):
     """Count insider transactions from JSON data."""
     counts = defaultdict(lambda: [0, 0])
-    
+
     for item in data:
         ticker = item.get('issuerTradingSymbol')
         if not ticker or ticker == '-':
             continue
-        
+
         transaction_code = item.get('transactionCode', '').lower()
         if transaction_code == 'sale':
             counts[ticker][0] += 1
         else:
             counts[ticker][1] += 1
-    
+
     return {k: tuple(v) for k, v in counts.items()}
+
+def aggregate_insider_values_from_json(data):
+    """Aggregate dollar volume (shares x price) by ticker.
+
+    Returns dict: ticker -> dict with purchase_count, purchase_value,
+    sale_count, sale_value (values are floats in USD).
+    """
+    agg = defaultdict(lambda: {
+        'purchase_count': 0, 'purchase_value': 0.0,
+        'sale_count': 0, 'sale_value': 0.0,
+    })
+
+    for item in data:
+        ticker = item.get('issuerTradingSymbol')
+        if not ticker or ticker == '-':
+            continue
+
+        value = item.get('transactionValue')
+        if not isinstance(value, (int, float)):
+            shares = item.get('transactionShares')
+            price = item.get('transactionPricePerShare')
+            if isinstance(shares, (int, float)) and isinstance(price, (int, float)):
+                value = shares * price
+            else:
+                continue
+
+        if item.get('transactionCode', '').lower() == 'sale':
+            agg[ticker]['sale_count'] += 1
+            agg[ticker]['sale_value'] += value
+        else:
+            agg[ticker]['purchase_count'] += 1
+            agg[ticker]['purchase_value'] += value
+
+    return dict(agg)
 
 def parse_rows(table, columns_map):
     data = []

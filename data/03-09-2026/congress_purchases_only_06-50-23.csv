@@ -1,0 +1,124 @@
+Stock,Transaction,Politician,Party,Chamber,Amount,Traded,Filed
+NTAP,Purchase,John Boozman,R,Senate,"$1,001 - $15,000",2026-02-27,2026-03-06 16:10:00
+AMZN,Purchase,David Taylor,R,House,"$1,001 - $15,000",2026-02-26,2026-03-06 00:00:00
+V,Purchase,David Taylor,R,House,"$1,001 - $15,000",2026-02-26,2026-03-06 00:00:00
+MSFT,Purchase,David Taylor,R,House,"$1,001 - $15,000",2026-02-26,2026-03-06 00:00:00
+KR,Purchase,John Boozman,R,Senate,"$1,001 - $15,000",2026-02-26,2026-03-06 16:10:00
+MEDP,Purchase,David Taylor,R,House,"$1,001 - $15,000",2026-02-26,2026-03-06 00:00:00
+LLY,Purchase,David Taylor,R,House,"$1,001 - $15,000",2026-02-26,2026-03-06 00:00:00
+GOOGL,Purchase,David Taylor,R,House,"$1,001 - $15,000",2026-02-26,2026-03-06 00:00:00
+AVGO,Purchase,David Taylor,R,House,"$1,001 - $15,000",2026-02-26,2026-03-06 00:00:00
+PG,Purchase,Lloyd Doggett,D,House,"$1,001 - $15,000",2026-02-17,2026-03-05 00:00:00
+ARLP,Purchase,Virginia Foxx,R,House,"$1,001 - $15,000",2026-02-13,2026-03-02 00:00:00
+MSFT,Purchase,John Boozman,R,Senate,"$1,001 - $15,000",2026-02-13,2026-03-06 16:10:00
+DNUT,Purchase,Tim Moore,R,House,"$1,001 - $15,000",2026-02-12,2026-02-20 00:00:00
+AAPL,Purchase,Cleo Fields,D,House,"$1,001 - $15,000",2026-02-12,2026-02-24 00:00:00
+DBA AXIOM MATH,Purchase,Kelly Morrison,D,House,"$15,001 - $50,000",2026-02-11,2026-03-02 00:00:00
+SMPL,Purchase,Tim Moore,R,House,"$15,001 - $50,000",2026-02-11,2026-02-20 00:00:00
+PGR,Purchase,David Taylor,R,House,"$1,001 - $15,000",2026-02-10,2026-02-20 00:00:00
+TTD,Purchase,Byron Donalds,R,House,"$1,001 - $15,000",2026-02-10,2026-03-06 00:00:00
+TTD,Purchase,Byron Donalds,R,House,"$1,001 - $15,000",2026-02-10,2026-03-06 00:00:00
+NOW,Purchase,Byron Donalds,R,House,"$1,001 - $15,000",2026-02-10,2026-03-06 00:00:00
+NOW,Purchase,Byron Donalds,R,House,"$1,001 - $15,000",2026-02-10,2026-03-06 00:00:00
+MSFT,Purchase,David Taylor,R,House,"$1,001 - $15,000",2026-02-09,2026-02-20 00:00:00
+AVGO,Purchase,Shelley Moore Capito,R,Senate,"$1,001 - $15,000",2026-02-09,2026-03-04 10:06:00
+AMZN,Purchase,David Taylor,R,House,"$1,001 - $15,000",2026-02-09,2026-02-20 00:00:00
+CRM,Purchase,David Taylor,R,House,"$1,001 - $15,000",2026-02-09,2026-02-20 00:00:00
+V,Purchase,David Taylor,R,House,"$1,001 - $15,000",2026-02-09,2026-02-20 00:00:00
+PG,Purchase,David Taylor,R,House,"$1,001 - $15,000",2026-02-09,2026-02-20 00:00:00
+GIGB,Purchase,John Boozman,R,Senate,"$1,001 - $15,000",2026-02-06,2026-03-06 16:10:00
+IEF,Purchase,John Boozman,R,Senate,"$1,001 - $15,000",2026-02-06,2026-03-06 16:10:00
+TLH,Purchase,John Boozman,R,Senate,"$1,001 - $15,000",2026-02-06,2026-03-06 16:10:00
+UBER,Purchase,John Boozman,R,Senate,"$1,001 - $15,000",2026-02-06,2026-03-06 16:10:00
+EMB,Purchase,John Boozman,R,Senate,"$1,001 - $15,000",2026-02-06,2026-03-06 16:10:00
+BBAI,Purchase,Lisa C. McClain,R,House,"$15,001 - $50,000",2026-02-06,2026-03-04 00:00:00
+XTWO,Purchase,John Boozman,R,Senate,"$15,001 - $50,000",2026-02-06,2026-03-06 16:10:00
+CMBS,Purchase,John Boozman,R,Senate,"$1,001 - $15,000",2026-02-06,2026-03-06 16:10:00
+GNPX,Purchase,Tim Moore,R,House,"$1,001 - $15,000",2026-02-05,2026-02-20 00:00:00
+VSEC,Purchase,Markwayne Mullin,R,Senate,"$15,001 - $50,000",2026-02-04,2026-03-02 14:06:00
+LRN,Purchase,Markwayne Mullin,R,Senate,"$15,001 - $50,000",2026-02-04,2026-03-02 14:06:00
+AMKR,Purchase,Markwayne Mullin,R,Senate,"$15,001 - $50,000",2026-02-04,2026-03-02 14:06:00
+APG,Purchase,Markwayne Mullin,R,Senate,"$15,001 - $50,000",2026-02-04,2026-03-02 14:06:00
+C,Purchase,Markwayne Mullin,R,Senate,"$15,001 - $50,000",2026-02-04,2026-03-02 14:06:00
+CRS,Purchase,Markwayne Mullin,R,Senate,"$15,001 - $50,000",2026-02-04,2026-03-02 14:06:00
+FCFS,Purchase,Markwayne Mullin,R,Senate,"$15,001 - $50,000",2026-02-04,2026-03-02 14:06:00
+ADBE,Purchase,Markwayne Mullin,R,Senate,"$15,001 - $50,000",2026-02-04,2026-03-02 14:06:00
+MCK,Purchase,Markwayne Mullin,R,Senate,"$15,001 - $50,000",2026-02-04,2026-03-02 14:06:00
+MPWR,Purchase,Markwayne Mullin,R,Senate,"$15,001 - $50,000",2026-02-04,2026-03-02 14:06:00
+BBAI,Purchase,Lisa C. McClain,R,House,"$1,001 - $15,000",2026-02-04,2026-03-04 00:00:00
+BABAF,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-02-03,2026-02-13 00:00:00
+SMPL,Purchase,Tim Moore,R,House,"$15,001 - $50,000",2026-02-03,2026-02-20 00:00:00
+MU,Purchase,Cleo Fields,D,House,"$100,001 - $250,000",2026-02-03,2026-02-24 00:00:00
+META,Purchase,Cleo Fields,D,House,"$100,001 - $250,000",2026-02-03,2026-02-24 00:00:00
+LRCX,Purchase,Cleo Fields,D,House,"$15,001 - $50,000",2026-02-03,2026-02-24 00:00:00
+GOOGL,Purchase,Cleo Fields,D,House,"$100,001 - $250,000",2026-02-03,2026-02-24 00:00:00
+AMD,Purchase,Cleo Fields,D,House,"$50,001 - $100,000",2026-02-03,2026-02-24 00:00:00
+AJINF,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-02-03,2026-02-13 00:00:00
+ASML,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-30,2026-02-13 00:00:00
+ANET,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-30,2026-02-13 00:00:00
+AMZN,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-30,2026-02-13 00:00:00
+AZO,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-30,2026-02-13 00:00:00
+COST,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-30,2026-02-13 00:00:00
+COIN,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-30,2026-02-13 00:00:00
+BE,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-30,2026-02-13 00:00:00
+BIIB,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-30,2026-02-13 00:00:00
+BSX,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-30,2026-02-13 00:00:00
+GEV,Purchase,Jonathan L. Jackson,D,House,"$15,001 - $50,000",2026-01-30,2026-02-23 00:00:00
+C,Purchase,Jonathan L. Jackson,D,House,"$15,001 - $50,000",2026-01-30,2026-02-23 00:00:00
+ETN,Purchase,John Boozman,R,Senate,"$1,001 - $15,000",2026-01-29,2026-02-15 14:32:00
+PYPL,Purchase,John Boozman,R,Senate,"$1,001 - $15,000",2026-01-29,2026-02-15 14:32:00
+ABT,Purchase,"Thomas H. Kean, Jr.",R,House,"$1,001 - $15,000",2026-01-29,2026-02-19 00:00:00
+CVS,Purchase,John Boozman,R,Senate,"$1,001 - $15,000",2026-01-29,2026-02-15 14:32:00
+CAT,Purchase,John Boozman,R,Senate,"$1,001 - $15,000",2026-01-29,2026-02-15 14:32:00
+CSGP,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-28,2026-02-13 00:00:00
+DASH,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-28,2026-02-13 00:00:00
+AVAV,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-27,2026-02-13 00:00:00
+GILD,Purchase,Josh Gottheimer,D,House,"$1,001 - $15,000",2026-01-27,2026-02-26 00:00:00
+EPAC,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-27,2026-02-13 00:00:00
+DXCM,Purchase,John Boozman,R,Senate,"$1,001 - $15,000",2026-01-26,2026-02-15 14:32:00
+ICE,Purchase,Josh Gottheimer,D,House,"$1,001 - $15,000",2026-01-26,2026-02-26 00:00:00
+91282CGH8,Purchase,Rick W. Allen,R,House,"$100,001 - $250,000",2026-01-26,2026-02-17 00:00:00
+TBLL,Purchase,John Boozman,R,Senate,"$1,001 - $15,000",2026-01-23,2026-02-15 14:32:00
+HOG,Purchase,Tim Moore,R,House,"$15,001 - $50,000",2026-01-23,2026-02-20 00:00:00
+VNQI,Purchase,John Boozman,R,Senate,"$1,001 - $15,000",2026-01-23,2026-02-15 14:32:00
+TPYP,Purchase,John Boozman,R,Senate,"$1,001 - $15,000",2026-01-23,2026-02-15 14:32:00
+RNWGX,Purchase,John Boozman,R,Senate,"$1,001 - $15,000",2026-01-23,2026-02-15 14:32:00
+CMBS,Purchase,John Boozman,R,Senate,"$1,001 - $15,000",2026-01-23,2026-02-15 14:32:00
+MBB,Purchase,John Boozman,R,Senate,"$1,001 - $15,000",2026-01-23,2026-02-15 14:32:00
+LITP,Purchase,John Boozman,R,Senate,"$1,001 - $15,000",2026-01-23,2026-02-15 14:32:00
+JMBS,Purchase,John Boozman,R,Senate,"$1,001 - $15,000",2026-01-23,2026-02-15 14:32:00
+IVV,Purchase,John Boozman,R,Senate,"$1,001 - $15,000",2026-01-23,2026-02-15 14:32:00
+GIGB,Purchase,John Boozman,R,Senate,"$1,001 - $15,000",2026-01-23,2026-02-15 14:32:00
+GEM,Purchase,John Boozman,R,Senate,"$1,001 - $15,000",2026-01-23,2026-02-15 14:32:00
+FTGC,Purchase,John Boozman,R,Senate,"$1,001 - $15,000",2026-01-23,2026-02-15 14:32:00
+EIPI,Purchase,John Boozman,R,Senate,"$1,001 - $15,000",2026-01-23,2026-02-15 14:32:00
+VSAT,Purchase,Jonathan L. Jackson,D,House,"$50,001 - $100,000",2026-01-22,2026-02-23 00:00:00
+DASH,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-20,2026-02-13 00:00:00
+JPM,Purchase,Jonathan L. Jackson,D,House,"$1,001 - $15,000",2026-01-20,2026-02-23 00:00:00
+CP,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-20,2026-02-13 00:00:00
+CRDO,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-20,2026-02-13 00:00:00
+AEIS,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-20,2026-02-13 00:00:00
+CSW,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-15,2026-02-13 00:00:00
+AZTA,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-15,2026-02-13 00:00:00
+FBK,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-15,2026-02-13 00:00:00
+AAPL,Purchase,John Boozman,R,Senate,"$1,001 - $15,000",2026-01-15,2026-02-15 14:32:00
+CATY,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-15,2026-02-13 00:00:00
+V,Purchase,John Boozman,R,Senate,"$1,001 - $15,000",2026-01-15,2026-02-15 14:32:00
+SPGI,Purchase,Rick W. Allen,R,House,"$15,001 - $50,000",2026-01-14,2026-02-17 00:00:00
+WMT,Purchase,Jonathan L. Jackson,D,House,"$50,001 - $100,000",2026-01-13,2026-02-23 00:00:00
+AME,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-09,2026-02-13 00:00:00
+EG,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-09,2026-02-13 00:00:00
+DOC,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-09,2026-02-13 00:00:00
+DIS,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-09,2026-02-13 00:00:00
+DD,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-09,2026-02-13 00:00:00
+CB,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-09,2026-02-13 00:00:00
+CF,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-09,2026-02-13 00:00:00
+CSCO,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-09,2026-02-13 00:00:00
+COF,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-09,2026-02-13 00:00:00
+CME,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-09,2026-02-13 00:00:00
+CMCSA,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-09,2026-02-13 00:00:00
+XOM,Purchase,John Boozman,R,Senate,"$1,001 - $15,000",2026-01-08,2026-02-15 14:32:00
+NFLX,Purchase,John Boozman,R,Senate,"$1,001 - $15,000",2026-01-08,2026-02-15 14:32:00
+DIS,Purchase,John Boozman,R,Senate,"$1,001 - $15,000",2026-01-08,2026-02-15 14:32:00
+DASH,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-06,2026-02-13 00:00:00
+KRSOX,Purchase,Sheri Biggs,R,House,"$1,001 - $15,000",2026-01-05,2026-02-17 00:00:00

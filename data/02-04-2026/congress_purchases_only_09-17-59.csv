@@ -1,0 +1,122 @@
+Stock,Transaction,Politician,Party,Chamber,Amount,Traded,Filed
+AVGO,Purchase,David Taylor,R,House,"$1,001 - $15,000",2026-01-29,2026-02-02 00:00:00
+AMZN,Purchase,David Taylor,R,House,"$1,001 - $15,000",2026-01-29,2026-02-02 00:00:00
+RPM,Purchase,David Taylor,R,House,"$1,001 - $15,000",2026-01-29,2026-02-02 00:00:00
+MEDP,Purchase,David Taylor,R,House,"$1,001 - $15,000",2026-01-29,2026-02-02 00:00:00
+T,Purchase,David Taylor,R,House,"$1,001 - $15,000",2026-01-29,2026-02-02 00:00:00
+JPM,Purchase,David Taylor,R,House,"$1,001 - $15,000",2026-01-29,2026-02-02 00:00:00
+JPM,Purchase,David Taylor,R,House,"$1,001 - $15,000",2026-01-29,2026-02-02 00:00:00
+IBP,Purchase,David Taylor,R,House,"$1,001 - $15,000",2026-01-29,2026-02-02 00:00:00
+CRM,Purchase,David Taylor,R,House,"$1,001 - $15,000",2026-01-29,2026-02-02 00:00:00
+PLD,Purchase,David Taylor,R,House,"$1,001 - $15,000",2026-01-29,2026-02-02 00:00:00
+MSFT,Purchase,David Taylor,R,House,"$1,001 - $15,000",2026-01-29,2026-02-02 00:00:00
+IREN,Purchase,Dale W. Strong,R,House,"$1,001 - $15,000",2026-01-28,2026-01-28 00:00:00
+LH,Purchase,April McClain Delaney,D,House,"$1,001 - $15,000",2026-01-28,2026-02-02 00:00:00
+GOOG,Purchase,Cleo Fields,D,House,"$100,001 - $250,000",2026-01-20,2026-02-03 00:00:00
+FMAO,Purchase,Robert E. Latta,R,House,"$1,001 - $15,000",2026-01-20,2026-01-23 00:00:00
+NFLX,Purchase,Cleo Fields,D,House,"$50,001 - $100,000",2026-01-20,2026-02-03 00:00:00
+META,Purchase,Cleo Fields,D,House,"$50,001 - $100,000",2026-01-20,2026-02-03 00:00:00
+IREN,Purchase,Cleo Fields,D,House,"$50,001 - $100,000",2026-01-20,2026-02-03 00:00:00
+V,Purchase,David Taylor,R,House,"$1,001 - $15,000",2026-01-16,2026-02-02 00:00:00
+NVDA,Purchase,Nancy Pelosi,D,House,"$250,001 - $500,000",2026-01-16,2026-01-23 00:00:00
+GOOGL,Purchase,Nancy Pelosi,D,House,"$500,001 - $1,000,000",2026-01-16,2026-01-23 00:00:00
+RPM,Purchase,David Taylor,R,House,"$1,001 - $15,000",2026-01-16,2026-02-02 00:00:00
+VST,Purchase,Nancy Pelosi,D,House,"$100,001 - $250,000",2026-01-16,2026-01-23 00:00:00
+KR,Purchase,David Taylor,R,House,"$1,001 - $15,000",2026-01-16,2026-02-02 00:00:00
+PGR,Purchase,David Taylor,R,House,"$1,001 - $15,000",2026-01-16,2026-02-02 00:00:00
+MSFT,Purchase,David Taylor,R,House,"$1,001 - $15,000",2026-01-16,2026-02-02 00:00:00
+AB,Purchase,Nancy Pelosi,D,House,"$1,000,001 - $5,000,000",2026-01-16,2026-01-23 00:00:00
+KR,Purchase,David Taylor,R,House,"$1,001 - $15,000",2026-01-16,2026-02-02 00:00:00
+ETN,Purchase,David Taylor,R,House,"$1,001 - $15,000",2026-01-16,2026-02-02 00:00:00
+AMGN,Purchase,David Taylor,R,House,"$1,001 - $15,000",2026-01-16,2026-02-02 00:00:00
+AEP,Purchase,David Taylor,R,House,"$1,001 - $15,000",2026-01-16,2026-02-02 00:00:00
+AAPL,Purchase,David Taylor,R,House,"$1,001 - $15,000",2026-01-16,2026-02-02 00:00:00
+AAPL,Purchase,David Taylor,R,House,"$1,001 - $15,000",2026-01-16,2026-02-02 00:00:00
+AMZN,Purchase,Nancy Pelosi,D,House,"$500,001 - $1,000,000",2026-01-16,2026-01-23 00:00:00
+SWK,Purchase,Gary C. Peters,D,Senate,"$15,001 - $50,000",2026-01-12,2026-01-20 10:45:00
+WPC,Purchase,Gary C. Peters,D,Senate,"$15,001 - $50,000",2026-01-12,2026-01-20 10:45:00
+GOOG,Purchase,Cleo Fields,D,House,"$1,001 - $15,000",2026-01-12,2026-02-03 00:00:00
+PG,Purchase,David Taylor,R,House,"$1,001 - $15,000",2026-01-09,2026-01-21 00:00:00
+T,Purchase,Tim Moore,R,House,"$15,001 - $50,000",2026-01-09,2026-01-24 00:00:00
+IBM,Purchase,David Taylor,R,House,"$1,001 - $15,000",2026-01-08,2026-01-21 00:00:00
+TSM,Purchase,Cleo Fields,D,House,"$1,001 - $15,000",2026-01-08,2026-02-03 00:00:00
+IBM,Purchase,David Taylor,R,House,"$15,001 - $50,000",2026-01-08,2026-01-21 00:00:00
+MSFT,Purchase,David Taylor,R,House,"$1,001 - $15,000",2026-01-08,2026-01-21 00:00:00
+MSFT,Purchase,David Taylor,R,House,"$1,001 - $15,000",2026-01-08,2026-01-21 00:00:00
+GLAS FUNDS,Purchase,Max L. Miller,R,House,"$1,001 - $15,000",2026-01-07,2026-01-29 00:00:00
+HY,Purchase,Tim Moore,R,House,"$15,001 - $50,000",2025-12-31,2026-01-24 00:00:00
+RCL,Purchase,Dan Newhouse,R,House,"$1,001 - $15,000",2025-12-31,2026-01-15 00:00:00
+SNPS,Purchase,Dan Newhouse,R,House,"$1,001 - $15,000",2025-12-31,2026-01-15 00:00:00
+BR,Purchase,Dan Newhouse,R,House,"$1,001 - $15,000",2025-12-31,2026-01-15 00:00:00
+AAPL,Purchase,Nancy Pelosi,D,House,"$250,001 - $500,000",2025-12-30,2026-01-23 00:00:00
+AMZN,Purchase,Nancy Pelosi,D,House,"$100,001 - $250,000",2025-12-30,2026-01-23 00:00:00
+GOOGL,Purchase,Nancy Pelosi,D,House,"$250,001 - $500,000",2025-12-30,2026-01-23 00:00:00
+NVDA,Purchase,Nancy Pelosi,D,House,"$100,001 - $250,000",2025-12-30,2026-01-23 00:00:00
+HD,Purchase,Markwayne Mullin,R,Senate,"$15,001 - $50,000",2025-12-29,2026-01-16 15:03:00
+HLT,Purchase,Markwayne Mullin,R,Senate,"$15,001 - $50,000",2025-12-29,2026-01-16 15:03:00
+GS,Purchase,Markwayne Mullin,R,Senate,"$15,001 - $50,000",2025-12-29,2026-01-16 15:03:00
+ICE,Purchase,Markwayne Mullin,R,Senate,"$15,001 - $50,000",2025-12-29,2026-01-16 15:03:00
+GOOGL,Purchase,Markwayne Mullin,R,Senate,"$100,001 - $250,000",2025-12-29,2026-01-16 15:03:00
+ELV,Purchase,Markwayne Mullin,R,Senate,"$15,001 - $50,000",2025-12-29,2026-01-16 15:03:00
+CVX,Purchase,Markwayne Mullin,R,Senate,"$15,001 - $50,000",2025-12-29,2026-01-16 15:03:00
+DE,Purchase,Markwayne Mullin,R,Senate,"$15,001 - $50,000",2025-12-29,2026-01-16 15:03:00
+INTU,Purchase,Markwayne Mullin,R,Senate,"$15,001 - $50,000",2025-12-29,2026-01-16 15:03:00
+COST,Purchase,Markwayne Mullin,R,Senate,"$15,001 - $50,000",2025-12-29,2026-01-16 15:03:00
+IQV,Purchase,Markwayne Mullin,R,Senate,"$15,001 - $50,000",2025-12-29,2026-01-16 15:03:00
+ISRG,Purchase,Markwayne Mullin,R,Senate,"$15,001 - $50,000",2025-12-29,2026-01-16 15:03:00
+JPM,Purchase,Markwayne Mullin,R,Senate,"$50,001 - $100,000",2025-12-29,2026-01-16 15:03:00
+KO,Purchase,Markwayne Mullin,R,Senate,"$15,001 - $50,000",2025-12-29,2026-01-16 15:03:00
+LLY,Purchase,Markwayne Mullin,R,Senate,"$15,001 - $50,000",2025-12-29,2026-01-16 15:03:00
+LRCX,Purchase,Markwayne Mullin,R,Senate,"$50,001 - $100,000",2025-12-29,2026-01-16 15:03:00
+MA,Purchase,Markwayne Mullin,R,Senate,"$50,001 - $100,000",2025-12-29,2026-01-16 15:03:00
+META,Purchase,Markwayne Mullin,R,Senate,"$50,001 - $100,000",2025-12-29,2026-01-16 15:03:00
+MSFT,Purchase,Markwayne Mullin,R,Senate,"$100,001 - $250,000",2025-12-29,2026-01-16 15:03:00
+NOW,Purchase,Markwayne Mullin,R,Senate,"$15,001 - $50,000",2025-12-29,2026-01-16 15:03:00
+NVDA,Purchase,Markwayne Mullin,R,Senate,"$100,001 - $250,000",2025-12-29,2026-01-16 15:03:00
+CRM,Purchase,Markwayne Mullin,R,Senate,"$15,001 - $50,000",2025-12-29,2026-01-16 15:03:00
+AAPL,Purchase,Markwayne Mullin,R,Senate,"$100,001 - $250,000",2025-12-29,2026-01-16 15:03:00
+COP,Purchase,Markwayne Mullin,R,Senate,"$15,001 - $50,000",2025-12-29,2026-01-16 15:03:00
+AMZN,Purchase,Markwayne Mullin,R,Senate,"$100,001 - $250,000",2025-12-29,2026-01-16 15:03:00
+HON,Purchase,Angus S. King Jr.,I,Senate,"$1,001 - $15,000",2025-12-29,2026-01-26 11:04:00
+LLY,Purchase,Angus S. King Jr.,I,Senate,"$1,001 - $15,000",2025-12-29,2026-01-26 11:04:00
+COF,Purchase,Markwayne Mullin,R,Senate,"$50,001 - $100,000",2025-12-29,2026-01-16 15:03:00
+AMAT,Purchase,Markwayne Mullin,R,Senate,"$15,001 - $50,000",2025-12-29,2026-01-16 15:03:00
+RTX,Purchase,Markwayne Mullin,R,Senate,"$15,001 - $50,000",2025-12-29,2026-01-16 15:03:00
+AXP,Purchase,Markwayne Mullin,R,Senate,"$1,001 - $15,000",2025-12-29,2026-01-16 15:03:00
+BSX,Purchase,Markwayne Mullin,R,Senate,"$15,001 - $50,000",2025-12-29,2026-01-16 15:03:00
+CAT,Purchase,Markwayne Mullin,R,Senate,"$15,001 - $50,000",2025-12-29,2026-01-16 15:03:00
+GOOGL,Purchase,Cleo Fields,D,House,"$50,001 - $100,000",2025-12-26,2026-01-16 00:00:00
+JPM,Purchase,Roger Williams,R,House,"$1,001 - $15,000",2025-12-22,2026-01-15 00:00:00
+RTX,Purchase,Roger Williams,R,House,"$1,001 - $15,000",2025-12-22,2026-01-15 00:00:00
+XLU,Purchase,Tommy Tuberville,R,Senate,"$15,001 - $50,000",2025-12-17,2026-01-15 09:53:00
+XLV,Purchase,Tommy Tuberville,R,Senate,"$15,001 - $50,000",2025-12-17,2026-01-15 09:53:00
+XLP,Purchase,Tommy Tuberville,R,Senate,"$15,001 - $50,000",2025-12-17,2026-01-15 09:53:00
+FERG,Purchase,Rick W. Allen,R,House,"$15,001 - $50,000",2025-12-12,2026-01-15 00:00:00
+LULU,Purchase,Dan Newhouse,R,House,"$1,001 - $15,000",2025-12-11,2026-01-15 00:00:00
+NXPI,Purchase,Dan Newhouse,R,House,"$1,001 - $15,000",2025-12-11,2026-01-15 00:00:00
+PANW,Purchase,Dan Newhouse,R,House,"$1,001 - $15,000",2025-12-11,2026-01-15 00:00:00
+SCHW,Purchase,Dan Newhouse,R,House,"$1,001 - $15,000",2025-12-11,2026-01-15 00:00:00
+TMUS,Purchase,Dan Newhouse,R,House,"$1,001 - $15,000",2025-12-11,2026-01-15 00:00:00
+BX,Purchase,Dan Newhouse,R,House,"$1,001 - $15,000",2025-12-11,2026-01-15 00:00:00
+TXT,Purchase,Dan Newhouse,R,House,"$1,001 - $15,000",2025-12-11,2026-01-15 00:00:00
+ATO,Purchase,Jared Moskowitz,D,House,"$1,001 - $15,000",2025-12-02,2026-01-16 00:00:00
+MCK,Purchase,Jared Moskowitz,D,House,"$1,001 - $15,000",2025-12-02,2026-01-16 00:00:00
+PEG,Purchase,Jared Moskowitz,D,House,"$1,001 - $15,000",2025-12-02,2026-01-16 00:00:00
+SO,Purchase,Jared Moskowitz,D,House,"$1,001 - $15,000",2025-12-02,2026-01-16 00:00:00
+MCK,Purchase,Jared Moskowitz,D,House,"$1,001 - $15,000",2025-12-02,2026-01-16 00:00:00
+V,Purchase,Katie Boyd Britt,R,Senate,"$1,001 - $15,000",2025-11-07,2026-01-26 17:46:00
+UPS,Purchase,Katie Boyd Britt,R,Senate,"$1,001 - $15,000",2025-11-07,2026-01-26 17:46:00
+NVDA,Purchase,Katie Boyd Britt,R,Senate,"$1,001 - $15,000",2025-04-30,2026-01-26 17:46:00
+AAPL,Purchase,Katie Boyd Britt,R,Senate,"$1,001 - $15,000",2025-04-30,2026-01-26 17:46:00
+AMZN,Purchase,Katie Boyd Britt,R,Senate,"$1,001 - $15,000",2025-04-30,2026-01-26 17:46:00
+NVDA,Purchase,Katie Boyd Britt,R,Senate,"$1,001 - $15,000",2025-04-14,2026-01-26 17:46:00
+UNH,Purchase,Katie Boyd Britt,R,Senate,"$1,001 - $15,000",2025-04-14,2026-01-26 17:46:00
+V,Purchase,Katie Boyd Britt,R,Senate,"$1,001 - $15,000",2025-04-14,2026-01-26 17:46:00
+EOG,Purchase,Katie Boyd Britt,R,Senate,"$1,001 - $15,000",2025-04-14,2026-01-26 17:46:00
+WMT,Purchase,Katie Boyd Britt,R,Senate,"$1,001 - $15,000",2025-04-14,2026-01-26 17:46:00
+XOM,Purchase,Katie Boyd Britt,R,Senate,"$1,001 - $15,000",2025-04-14,2026-01-26 17:46:00
+GOOG,Purchase,Katie Boyd Britt,R,Senate,"$1,001 - $15,000",2025-04-14,2026-01-26 17:46:00
+AMZN,Purchase,Katie Boyd Britt,R,Senate,"$1,001 - $15,000",2025-04-14,2026-01-26 17:46:00
+AAPL,Purchase,Katie Boyd Britt,R,Senate,"$1,001 - $15,000",2025-04-14,2026-01-26 17:46:00
+MSFT,Purchase,Katie Boyd Britt,R,Senate,"$1,001 - $15,000",2025-04-14,2026-01-26 17:46:00
+JPM,Purchase,Katie Boyd Britt,R,Senate,"$1,001 - $15,000",2025-04-14,2026-01-26 17:46:00

@@ -110,7 +110,8 @@ if __name__ == "__main__":
     if html_content:
         # Get current date and format as MM-DD-YYYY
         current_date = datetime.now().strftime("%m-%d-%Y")
-        
+        scraped_at = datetime.now()
+
         # Extract and display #1 Rank Additions
         extracted_tickers = extract_zacks_tickers(html_content)
         if extracted_tickers:
@@ -122,7 +123,7 @@ if __name__ == "__main__":
                 print(clickable_ticker)
         else:
             print("\nCould not find any tickers in the additions section.")
-        
+
         # Extract and display Top Movers
         top_movers_tickers = extract_top_movers(html_content)
         if top_movers_tickers:
@@ -134,5 +135,12 @@ if __name__ == "__main__":
                 print(clickable_ticker)
         else:
             print("\nCould not find any tickers in the top movers section.")
+
+        try:
+            import db
+            db.insert_zacks_tickers(extracted_tickers, "rank1_addition", scraped_at)
+            db.insert_zacks_tickers(top_movers_tickers, "top_mover", scraped_at)
+        except Exception as e:
+            print(f"Warning: zacks DB insert failed: {e}", file=sys.stderr)
     else:
         print("\nFailed to retrieve webpage. Cannot extract tickers.")

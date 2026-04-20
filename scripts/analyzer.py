@@ -199,9 +199,9 @@ def get_recent_insider_purchases(sort_by='trade', dedup=True):
     if dedup:
         df = df.drop_duplicates(subset=['issuerTradingSymbol'], keep='first')
 
-    # Get recent purchases (top 20)
+    # Get recent purchases 
     recent_purchases = []
-    for _, row in df.head(20).iterrows():
+    for _, row in df.head(25).iterrows():
         ticker = row['issuerTradingSymbol']
         if not ticker or ticker == '-':
             continue
@@ -299,9 +299,9 @@ def get_recent_congress_purchases(sort_by='trade', dedup=True):
     if dedup:
         df = df.drop_duplicates(subset=['Ticker'], keep='first')
 
-    # Get recent purchases (top 20)
+    # Get recent purchases 
     recent_purchases = []
-    for _, row in df.head(20).iterrows():
+    for _, row in df.head(25).iterrows():
         ticker = row['Ticker']
         if not ticker or ticker == '-':
             continue
@@ -432,10 +432,16 @@ def print_summary(analysis, cfg):
         print(purchase)
 
 def export_data(analysis, cfg):
-    """Export the analyzed data to a CSV file."""
+    """Export the analyzed data to a CSV file and the local DuckDB."""
     output_file = cfg['csv']
-    analysis['dataframe'].to_csv(output_file, index=False)
-    #print(f"\nData exported to {output_file}")
+    df = analysis['dataframe']
+    df.to_csv(output_file, index=False)
+    if cfg['title'] == 'insider':
+        try:
+            import db
+            db.insert_insider_trades(df)
+        except Exception as e:
+            print(f"Warning: insider DB insert failed: {e}", file=sys.stderr)
 
 def main():
     """Main function to run the analysis."""

@@ -1,0 +1,257 @@
+./data/12-03-2025/congress_purchases_only_14-59-41.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/12-03-2025/congress_purchases_only_14-59-41.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/12-03-2025/congress_purchases_only_14-59-41.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/12-03-2025/congress_purchases_only_23-45-51.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/12-03-2025/congress_purchases_only_23-45-51.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/12-03-2025/congress_purchases_only_23-45-51.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/03-30-2026/congress_purchases_only_01-14-57.csv:CSCO,Purchase,Julia Letlow,R,House,"$1,001 - $15,000",2026-02-02,2026-03-12 00:00:00
+./data/03-30-2026/congress_purchases_only_22-50-40.csv:CSCO,Purchase,Julia Letlow,R,House,"$1,001 - $15,000",2026-02-02,2026-03-12 00:00:00
+./data/03-30-2026/congress_purchases_only_10-34-50.csv:CSCO,Purchase,Julia Letlow,R,House,"$1,001 - $15,000",2026-02-02,2026-03-12 00:00:00
+./data/03-30-2026/congress_purchases_only_10-53-20.csv:CSCO,Purchase,Julia Letlow,R,House,"$1,001 - $15,000",2026-02-02,2026-03-12 00:00:00
+./data/03-26-2026/congress_purchases_only_12-38-23.csv:CSCO,Purchase,Julia Letlow,R,House,"$1,001 - $15,000",2026-02-02,2026-03-12 00:00:00
+./data/12-15-2025/congress_purchases_only_06-33-03.csv:CSCO,Purchase,Richard McCormickHouse / R,2025-11-05
+./data/12-15-2025/congress_purchases_only_08-34-04.csv:CSCO,Purchase,Richard McCormickHouse / R,2025-11-05
+./data/02-27-2026/congress_purchases_only_10-53-48.csv:CSCO,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-09,2026-02-13 00:00:00
+./data/09-28-2025/congress_purchases_only_10-04-39.csv:CSCO,Purchase,Richard McCormickHouse / R,2023-03-15
+./data/09-28-2025/congress_purchases_only_10-40-00.csv:CSCO,Purchase,Richard McCormickHouse / R,2023-03-15
+./data/09-28-2025/congress_purchases_only_11-16-40.csv:CSCO,Purchase,Richard McCormickHouse / R,2023-03-15
+./data/03-06-2026/congress_purchases_only_05-07-35.csv:CSCO,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-09,2026-02-13 00:00:00
+./data/03-06-2026/congress_purchases_only_15-56-58.csv:CSCO,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-09,2026-02-13 00:00:00
+./data/03-06-2026/congress_purchases_only_04-05-28.csv:CSCO,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-09,2026-02-13 00:00:00
+./data/03-06-2026/congress_purchases_only_07-30-05.csv:CSCO,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-09,2026-02-13 00:00:00
+./data/03-06-2026/congress_purchases_only_16-55-57.csv:CSCO,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-09,2026-02-13 00:00:00
+./data/04-02-2026/congress_purchases_only_12-23-29.csv:CSCO,Purchase,Julia Letlow,R,House,"$1,001 - $15,000",2026-02-02,2026-03-12 00:00:00
+./data/04-02-2026/congress_purchases_only_09-50-24.csv:CSCO,Purchase,Julia Letlow,R,House,"$1,001 - $15,000",2026-02-02,2026-03-12 00:00:00
+./data/11-25-2025/congress_purchases_only_08-29-44.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/11-25-2025/congress_purchases_only_08-29-44.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/11-25-2025/congress_purchases_only_08-29-44.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/11-25-2025/congress_purchases_only_13-11-13.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/11-25-2025/congress_purchases_only_13-11-13.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/11-25-2025/congress_purchases_only_13-11-13.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/11-25-2025/congress_purchases_only_08-30-38.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/11-25-2025/congress_purchases_only_08-30-38.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/11-25-2025/congress_purchases_only_08-30-38.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/03-10-2026/congress_purchases_only_05-43-06.csv:CSCO,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-09,2026-02-13 00:00:00
+./data/03-10-2026/congress_purchases_only_06-04-04.csv:CSCO,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-09,2026-02-13 00:00:00
+./data/03-10-2026/congress_purchases_only_04-20-32.csv:CSCO,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-09,2026-02-13 00:00:00
+./data/11-24-2025/congress_purchases_only_15-50-13.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/11-24-2025/congress_purchases_only_15-50-13.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/11-24-2025/congress_purchases_only_15-50-13.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/11-24-2025/congress_purchases_only_11-35-01.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/11-24-2025/congress_purchases_only_11-35-01.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/11-24-2025/congress_purchases_only_11-35-01.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/11-24-2025/congress_purchases_only_11-56-02.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/11-24-2025/congress_purchases_only_11-56-02.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/11-24-2025/congress_purchases_only_11-56-02.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/11-24-2025/congress_purchases_only_11-37-01.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/11-24-2025/congress_purchases_only_11-37-01.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/11-24-2025/congress_purchases_only_11-37-01.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/11-24-2025/congress_purchases_only_11-56-48.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/11-24-2025/congress_purchases_only_11-56-48.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/11-24-2025/congress_purchases_only_11-56-48.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/11-24-2025/congress_purchases_only_15-51-01.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/11-24-2025/congress_purchases_only_15-51-01.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/11-24-2025/congress_purchases_only_15-51-01.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/11-24-2025/congress_purchases_only_08-36-23.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/11-24-2025/congress_purchases_only_08-36-23.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/11-24-2025/congress_purchases_only_08-36-23.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/11-24-2025/congress_purchases_only_15-50-40.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/11-24-2025/congress_purchases_only_15-50-40.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/11-24-2025/congress_purchases_only_15-50-40.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/04-03-2026/congress_purchases_only_11-22-53.csv:CSCO,Purchase,Julia Letlow,R,House,"$1,001 - $15,000",2026-02-02,2026-03-12 00:00:00
+./data/11-28-2025/congress_purchases_only_23-27-47.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/11-28-2025/congress_purchases_only_23-27-47.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/11-28-2025/congress_purchases_only_23-27-47.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/02-26-2026/congress_purchases_only_09-38-31.csv:CSCO,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-09,2026-02-13 00:00:00
+./data/02-26-2026/congress_purchases_only_12-26-03.csv:CSCO,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-09,2026-02-13 00:00:00
+./data/03-27-2026/congress_purchases_only_13-38-31.csv:CSCO,Purchase,Julia Letlow,R,House,"$1,001 - $15,000",2026-02-02,2026-03-12 00:00:00
+./data/03-27-2026/congress_purchases_only_00-14-13.csv:CSCO,Purchase,Julia Letlow,R,House,"$1,001 - $15,000",2026-02-02,2026-03-12 00:00:00
+./data/12-02-2025/congress_purchases_only_11-55-14.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/12-02-2025/congress_purchases_only_11-55-14.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/12-02-2025/congress_purchases_only_11-55-14.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/12-02-2025/congress_purchases_only_10-05-14.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/12-02-2025/congress_purchases_only_10-05-14.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/12-02-2025/congress_purchases_only_10-05-14.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/12-09-2025/congress_purchases_only_07-37-14.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/12-09-2025/congress_purchases_only_07-37-14.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/12-09-2025/congress_purchases_only_07-37-14.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/02-17-2026/congress_purchases_only_04-11-55.csv:CSCO,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-09,2026-02-13 00:00:00
+./data/02-17-2026/congress_purchases_only_12-11-21.csv:CSCO,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-09,2026-02-13 00:00:00
+./data/02-17-2026/congress_purchases_only_04-06-18.csv:CSCO,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-09,2026-02-13 00:00:00
+./data/03-16-2026/congress_purchases_only_15-25-13.csv:CSCO,Purchase,Julia Letlow,R,House,"$1,001 - $15,000",2026-02-02,2026-03-12 00:00:00
+./data/03-16-2026/congress_purchases_only_10-13-46.csv:CSCO,Purchase,Julia Letlow,R,House,"$1,001 - $15,000",2026-02-02,2026-03-12 00:00:00
+./data/03-16-2026/congress_purchases_only_07-15-35.csv:CSCO,Purchase,Julia Letlow,R,House,"$1,001 - $15,000",2026-02-02,2026-03-12 00:00:00
+./data/03-16-2026/congress_purchases_only_07-39-47.csv:CSCO,Purchase,Julia Letlow,R,House,"$1,001 - $15,000",2026-02-02,2026-03-12 00:00:00
+./data/03-16-2026/congress_purchases_only_06-44-55.csv:CSCO,Purchase,Julia Letlow,R,House,"$1,001 - $15,000",2026-02-02,2026-03-12 00:00:00
+./data/12-05-2025/congress_purchases_only_13-11-21.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/12-05-2025/congress_purchases_only_13-11-21.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/12-05-2025/congress_purchases_only_13-11-21.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/03-20-2026/congress_purchases_only_12-58-25.csv:CSCO,Purchase,Julia Letlow,R,House,"$1,001 - $15,000",2026-02-02,2026-03-12 00:00:00
+./data/03-20-2026/congress_purchases_only_15-07-54.csv:CSCO,Purchase,Julia Letlow,R,House,"$1,001 - $15,000",2026-02-02,2026-03-12 00:00:00
+./data/09-18-2025/congress_purchases_only_09-35-54.csv:CSCO,Purchase,Richard McCormickHouse / R,2023-03-15
+./data/09-18-2025/congress_purchases_only_12-12-55.csv:CSCO,Purchase,Richard McCormickHouse / R,2023-03-15
+./data/09-18-2025/congress_purchases_only_09-35-06.csv:CSCO,Purchase,Richard McCormickHouse / R,2023-03-15
+./data/02-21-2026/congress_purchases_only_00-29-12.csv:CSCO,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-09,2026-02-13 00:00:00
+./data/04-08-2026/congress_purchases_only_00-08-51.csv:CSCO,Purchase,Julia Letlow,R,House,"$1,001 - $15,000",2026-02-02,2026-03-12 00:00:00
+./data/04-08-2026/congress_purchases_only_06-13-01.csv:CSCO,Purchase,Julia Letlow,R,House,"$1,001 - $15,000",2026-02-02,2026-03-12 00:00:00
+./data/02-20-2026/congress_purchases_only_13-21-43.csv:CSCO,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-09,2026-02-13 00:00:00
+./data/09-19-2025/congress_purchases_only_10-06-49.csv:CSCO,Purchase,Richard McCormickHouse / R,2023-03-15
+./data/03-21-2026/congress_purchases_only_20-38-26.csv:CSCO,Purchase,Julia Letlow,R,House,"$1,001 - $15,000",2026-02-02,2026-03-12 00:00:00
+./data/09-23-2025/congress_purchases_only_14-52-26.csv:CSCO,Purchase,Richard McCormickHouse / R,2023-03-15
+./data/12-04-2025/congress_purchases_only_11-41-58.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/12-04-2025/congress_purchases_only_11-41-58.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/12-04-2025/congress_purchases_only_11-41-58.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/12-04-2025/congress_purchases_only_13-13-37.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/12-04-2025/congress_purchases_only_13-13-37.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/12-04-2025/congress_purchases_only_13-13-37.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/03-17-2026/congress_purchases_only_20-17-05.csv:CSCO,Purchase,Julia Letlow,R,House,"$1,001 - $15,000",2026-02-02,2026-03-12 00:00:00
+./data/03-17-2026/congress_purchases_only_08-40-44.csv:CSCO,Purchase,Julia Letlow,R,House,"$1,001 - $15,000",2026-02-02,2026-03-12 00:00:00
+./data/03-01-2026/congress_purchases_only_00-23-43.csv:CSCO,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-09,2026-02-13 00:00:00
+./data/09-15-2025/congress_purchases_only_08-25-51.csv:CSCO,Purchase,Val T. HoyleHouse / D,2024-10-29
+./data/09-15-2025/congress_purchases_only_08-28-15.csv:CSCO,Purchase,Val T. HoyleHouse / D,2024-10-29
+./data/09-15-2025/congress_purchases_only_08-24-49.csv:CSCO,Purchase,Val T. HoyleHouse / D,2024-10-29
+./data/09-15-2025/congress_purchases_only_08-27-12.csv:CSCO,Purchase,Val T. HoyleHouse / D,2024-10-29
+./data/02-16-2026/congress_purchases_only_20-47-48.csv:CSCO,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-09,2026-02-13 00:00:00
+./data/12-08-2025/congress_purchases_only_23-45-10.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/12-08-2025/congress_purchases_only_23-45-10.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/12-08-2025/congress_purchases_only_23-45-10.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/12-08-2025/congress_purchases_only_23-50-38.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/12-08-2025/congress_purchases_only_23-50-38.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/12-08-2025/congress_purchases_only_23-50-38.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/12-08-2025/congress_purchases_only_23-49-27.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/12-08-2025/congress_purchases_only_23-49-27.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/12-08-2025/congress_purchases_only_23-49-27.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/12-08-2025/congress_purchases_only_23-50-01.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/12-08-2025/congress_purchases_only_23-50-01.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/12-08-2025/congress_purchases_only_23-50-01.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/12-08-2025/congress_purchases_only_23-50-58.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/12-08-2025/congress_purchases_only_23-50-58.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/12-08-2025/congress_purchases_only_23-50-58.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/12-08-2025/congress_purchases_only_23-51-20.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/12-08-2025/congress_purchases_only_23-51-20.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/12-08-2025/congress_purchases_only_23-51-20.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/03-14-2026/congress_purchases_only_23-53-41.csv:CSCO,Purchase,Julia Letlow,R,House,"$1,001 - $15,000",2026-02-02,2026-03-12 00:00:00
+./data/04-06-2026/congress_purchases_only_10-37-41.csv:CSCO,Purchase,Julia Letlow,R,House,"$1,001 - $15,000",2026-02-02,2026-03-12 00:00:00
+./data/04-06-2026/congress_purchases_only_11-08-21.csv:CSCO,Purchase,Julia Letlow,R,House,"$1,001 - $15,000",2026-02-02,2026-03-12 00:00:00
+./data/04-06-2026/congress_purchases_only_10-45-40.csv:CSCO,Purchase,Julia Letlow,R,House,"$1,001 - $15,000",2026-02-02,2026-03-12 00:00:00
+./data/09-16-2025/congress_purchases_only_11-06-14.csv:CSCO,Purchase,Val T. HoyleHouse / D,2024-10-29
+./data/03-02-2026/congress_purchases_only_14-04-36.csv:CSCO,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-09,2026-02-13 00:00:00
+./data/03-02-2026/congress_purchases_only_12-41-09.csv:CSCO,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-09,2026-02-13 00:00:00
+./data/03-02-2026/congress_purchases_only_09-15-35.csv:CSCO,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-09,2026-02-13 00:00:00
+./data/03-02-2026/congress_purchases_only_07-56-57.csv:CSCO,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-09,2026-02-13 00:00:00
+./data/03-02-2026/congress_purchases_only_10-52-28.csv:CSCO,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-09,2026-02-13 00:00:00
+./data/02-15-2026/congress_purchases_only_23-15-24.csv:CSCO,Purchase,Ro Khanna,D,House,"$15,001 - $50,000",2026-01-29,2026-02-06 00:00:00
+./data/03-18-2026/congress_purchases_only_09-32-16.csv:CSCO,Purchase,Julia Letlow,R,House,"$1,001 - $15,000",2026-02-02,2026-03-12 00:00:00
+./data/03-18-2026/congress_purchases_only_10-03-45.csv:CSCO,Purchase,Julia Letlow,R,House,"$1,001 - $15,000",2026-02-02,2026-03-12 00:00:00
+./data/03-18-2026/congress_purchases_only_10-07-13.csv:CSCO,Purchase,Julia Letlow,R,House,"$1,001 - $15,000",2026-02-02,2026-03-12 00:00:00
+./data/03-18-2026/congress_purchases_only_09-31-29.csv:CSCO,Purchase,Julia Letlow,R,House,"$1,001 - $15,000",2026-02-02,2026-03-12 00:00:00
+./data/02-23-2026/congress_purchases_only_18-19-00.csv:CSCO,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-09,2026-02-13 00:00:00
+./data/02-23-2026/congress_purchases_only_13-02-30.csv:CSCO,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-09,2026-02-13 00:00:00
+./data/02-23-2026/congress_purchases_only_07-42-08.csv:CSCO,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-09,2026-02-13 00:00:00
+./data/12-11-2025/congress_purchases_only_16-06-52.csv:CSCO,Purchase,Richard McCormickHouse / R,2025-11-05
+./data/03-22-2026/congress_purchases_only_13-59-14.csv:CSCO,Purchase,Julia Letlow,R,House,"$1,001 - $15,000",2026-02-02,2026-03-12 00:00:00
+./data/02-19-2026/congress_purchases_only_12-36-33.csv:CSCO,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-09,2026-02-13 00:00:00
+./data/02-19-2026/congress_purchases_only_17-36-06.csv:CSCO,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-09,2026-02-13 00:00:00
+./data/02-19-2026/congress_purchases_only_22-47-46.csv:CSCO,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-09,2026-02-13 00:00:00
+./data/02-19-2026/congress_purchases_only_01-39-08.csv:CSCO,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-09,2026-02-13 00:00:00
+./data/03-23-2026/congress_purchases_only_10-40-56.csv:CSCO,Purchase,Julia Letlow,R,House,"$1,001 - $15,000",2026-02-02,2026-03-12 00:00:00
+./data/03-23-2026/congress_purchases_only_11-23-52.csv:CSCO,Purchase,Julia Letlow,R,House,"$1,001 - $15,000",2026-02-02,2026-03-12 00:00:00
+./data/03-23-2026/congress_purchases_only_16-37-47.csv:CSCO,Purchase,Julia Letlow,R,House,"$1,001 - $15,000",2026-02-02,2026-03-12 00:00:00
+./data/12-10-2025/congress_trading_data_16-22-40.csv:CSCO,4
+./data/12-10-2025/congress_purchases_only_15-41-08.csv:CSCO,Purchase,Richard McCormickHouse / R,2025-11-05
+./data/12-10-2025/congress_purchases_only_15-41-08.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/12-10-2025/congress_purchases_only_15-41-08.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/12-10-2025/congress_purchases_only_15-41-08.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/12-10-2025/congress_purchases_only_16-22-40.csv:CSCO,Purchase,Richard McCormickHouse / R,2025-11-05
+./data/12-10-2025/congress_purchases_only_16-22-40.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/12-10-2025/congress_purchases_only_16-22-40.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/12-10-2025/congress_purchases_only_16-22-40.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/12-10-2025/congress_purchases_only_15-26-38.csv:CSCO,Purchase,Richard McCormickHouse / R,2025-11-05
+./data/12-10-2025/congress_purchases_only_15-26-38.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/12-10-2025/congress_purchases_only_15-26-38.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/12-10-2025/congress_purchases_only_15-26-38.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/12-10-2025/congress_purchases_only_15-44-35.csv:CSCO,Purchase,Richard McCormickHouse / R,2025-11-05
+./data/12-10-2025/congress_purchases_only_15-44-35.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/12-10-2025/congress_purchases_only_15-44-35.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/12-10-2025/congress_purchases_only_15-44-35.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/10-01-2025/congress_purchases_only_14-50-04.csv:CSCO,Purchase,Richard McCormickHouse / R,2023-03-15
+./data/10-01-2025/congress_purchases_only_11-29-33.csv:CSCO,Purchase,Richard McCormickHouse / R,2023-03-15
+./data/10-01-2025/congress_purchases_only_11-35-05.csv:CSCO,Purchase,Richard McCormickHouse / R,2023-03-15
+./data/03-19-2026/congress_purchases_only_17-05-22.csv:CSCO,Purchase,Julia Letlow,R,House,"$1,001 - $15,000",2026-02-02,2026-03-12 00:00:00
+./data/03-03-2026/congress_purchases_only_12-59-10.csv:CSCO,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-09,2026-02-13 00:00:00
+./data/03-03-2026/congress_purchases_only_22-55-25.csv:CSCO,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-09,2026-02-13 00:00:00
+./data/04-07-2026/congress_purchases_only_10-57-48.csv:CSCO,Purchase,Julia Letlow,R,House,"$1,001 - $15,000",2026-02-02,2026-03-12 00:00:00
+./data/04-07-2026/congress_purchases_only_22-35-22.csv:CSCO,Purchase,Julia Letlow,R,House,"$1,001 - $15,000",2026-02-02,2026-03-12 00:00:00
+./data/04-11-2026/congress_purchases_only_01-37-57.csv:CSCO,Purchase,Ro Khanna,D,House,"$50,001 - $100,000",2026-03-30,2026-04-07
+./data/04-11-2026/congress_purchases_only_01-37-21.csv:CSCO,Purchase,Ro Khanna,D,House,"$50,001 - $100,000",2026-03-30,2026-04-07
+./data/02-25-2026/congress_purchases_only_14-03-26.csv:CSCO,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-09,2026-02-13 00:00:00
+./data/02-25-2026/congress_purchases_only_07-07-23.csv:CSCO,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-09,2026-02-13 00:00:00
+./data/02-25-2026/congress_purchases_only_13-08-00.csv:CSCO,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-09,2026-02-13 00:00:00
+./data/02-25-2026/congress_purchases_only_07-19-47.csv:CSCO,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-09,2026-02-13 00:00:00
+./data/03-08-2026/congress_purchases_only_22-01-54.csv:CSCO,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-09,2026-02-13 00:00:00
+./data/03-08-2026/congress_purchases_only_16-50-20.csv:CSCO,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-09,2026-02-13 00:00:00
+./data/03-24-2026/congress_purchases_only_11-42-33.csv:CSCO,Purchase,Julia Letlow,R,House,"$1,001 - $15,000",2026-02-02,2026-03-12 00:00:00
+./data/03-24-2026/congress_purchases_only_10-45-05.csv:CSCO,Purchase,Julia Letlow,R,House,"$1,001 - $15,000",2026-02-02,2026-03-12 00:00:00
+./data/03-24-2026/congress_purchases_only_10-20-41.csv:CSCO,Purchase,Julia Letlow,R,House,"$1,001 - $15,000",2026-02-02,2026-03-12 00:00:00
+./data/03-24-2026/congress_purchases_only_10-42-05.csv:CSCO,Purchase,Julia Letlow,R,House,"$1,001 - $15,000",2026-02-02,2026-03-12 00:00:00
+./data/03-24-2026/congress_purchases_only_11-43-54.csv:CSCO,Purchase,Julia Letlow,R,House,"$1,001 - $15,000",2026-02-02,2026-03-12 00:00:00
+./data/03-24-2026/congress_purchases_only_10-34-42.csv:CSCO,Purchase,Julia Letlow,R,House,"$1,001 - $15,000",2026-02-02,2026-03-12 00:00:00
+./data/09-30-2025/congress_purchases_only_06-51-43.csv:CSCO,Purchase,Richard McCormickHouse / R,2023-03-15
+./data/09-30-2025/congress_purchases_only_06-43-40.csv:CSCO,Purchase,Richard McCormickHouse / R,2023-03-15
+./data/09-30-2025/congress_purchases_only_09-20-55.csv:CSCO,Purchase,Richard McCormickHouse / R,2023-03-15
+./data/09-30-2025/congress_purchases_only_06-58-52.csv:CSCO,Purchase,Richard McCormickHouse / R,2023-03-15
+./data/09-26-2025/congress_purchases_only_11-48-36.csv:CSCO,Purchase,Richard McCormickHouse / R,2023-03-15
+./data/12-01-2025/congress_purchases_only_16-32-28.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/12-01-2025/congress_purchases_only_16-32-28.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/12-01-2025/congress_purchases_only_16-32-28.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/12-01-2025/congress_purchases_only_10-28-07.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/12-01-2025/congress_purchases_only_10-28-07.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/12-01-2025/congress_purchases_only_10-28-07.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/12-01-2025/congress_purchases_only_09-20-18.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/12-01-2025/congress_purchases_only_09-20-18.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/12-01-2025/congress_purchases_only_09-20-18.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/11-27-2025/congress_purchases_only_19-05-21.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/11-27-2025/congress_purchases_only_19-05-21.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/11-27-2025/congress_purchases_only_19-05-21.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/03-04-2026/congress_purchases_only_15-33-26.csv:CSCO,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-09,2026-02-13 00:00:00
+./data/03-04-2026/congress_purchases_only_13-06-48.csv:CSCO,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-09,2026-02-13 00:00:00
+./data/01-15-2026/congress_purchases_only_11-50-34.csv:CSCO,Purchase,Julia LetlowHouse / R,2025-06-17
+./data/01-15-2026/congress_purchases_only_08-24-31.csv:CSCO,Purchase,Julia LetlowHouse / R,2025-06-17
+./data/02-13-2026/congress_purchases_only_16-04-44.csv:CSCO,Purchase,Ro Khanna,D,House,"$15,001 - $50,000",2026-01-29,2026-02-06 00:00:00
+./data/02-13-2026/congress_purchases_only_12-57-59.csv:CSCO,Purchase,Ro Khanna,D,House,"$15,001 - $50,000",2026-01-29,2026-02-06 00:00:00
+./data/02-12-2026/congress_purchases_only_12-26-52.csv:CSCO,Purchase,Ro Khanna,D,House,"$15,001 - $50,000",2026-01-29,2026-02-06 00:00:00
+./data/02-12-2026/congress_purchases_only_13-08-29.csv:CSCO,Purchase,Ro Khanna,D,House,"$15,001 - $50,000",2026-01-29,2026-02-06 00:00:00
+./data/02-12-2026/congress_purchases_only_13-05-42.csv:CSCO,Purchase,Ro Khanna,D,House,"$15,001 - $50,000",2026-01-29,2026-02-06 00:00:00
+./data/02-12-2026/congress_purchases_only_12-20-58.csv:CSCO,Purchase,Ro Khanna,D,House,"$15,001 - $50,000",2026-01-29,2026-02-06 00:00:00
+./data/03-29-2026/congress_purchases_only_14-30-35.csv:CSCO,Purchase,Julia Letlow,R,House,"$1,001 - $15,000",2026-02-02,2026-03-12 00:00:00
+./data/01-14-2026/congress_purchases_only_14-08-41.csv:CSCO,Purchase,Julia LetlowHouse / R,2025-06-17
+./data/01-14-2026/congress_purchases_only_09-14-49.csv:CSCO,Purchase,Julia LetlowHouse / R,2025-06-17
+./data/02-28-2026/congress_purchases_only_20-31-24.csv:CSCO,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-09,2026-02-13 00:00:00
+./data/03-05-2026/congress_purchases_only_22-11-10.csv:CSCO,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-09,2026-02-13 00:00:00
+./data/04-01-2026/congress_purchases_only_09-17-35.csv:CSCO,Purchase,Julia Letlow,R,House,"$1,001 - $15,000",2026-02-02,2026-03-12 00:00:00
+./data/04-01-2026/congress_purchases_only_00-38-14.csv:CSCO,Purchase,Julia Letlow,R,House,"$1,001 - $15,000",2026-02-02,2026-03-12 00:00:00
+./data/11-26-2025/congress_purchases_only_11-28-07.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/11-26-2025/congress_purchases_only_11-28-07.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/11-26-2025/congress_purchases_only_11-28-07.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/11-26-2025/congress_purchases_only_07-15-09.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/11-26-2025/congress_purchases_only_07-15-09.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/11-26-2025/congress_purchases_only_07-15-09.csv:CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+./data/03-13-2026/congress_purchases_only_08-31-39.csv:CSCO,Purchase,Julia Letlow,R,House,"$1,001 - $15,000",2026-02-02,2026-03-12 00:00:00
+./data/03-13-2026/congress_purchases_only_08-55-37.csv:CSCO,Purchase,Julia Letlow,R,House,"$1,001 - $15,000",2026-02-02,2026-03-12 00:00:00
+./data/09-27-2025/congress_purchases_only_02-12-14.csv:CSCO,Purchase,Richard McCormickHouse / R,2023-03-15
+./data/09-27-2025/congress_purchases_only_05-54-22.csv:CSCO,Purchase,Richard McCormickHouse / R,2023-03-15
+./data/09-27-2025/congress_purchases_only_02-07-26.csv:CSCO,Purchase,Richard McCormickHouse / R,2023-03-15
+./data/09-27-2025/congress_purchases_only_02-08-30.csv:CSCO,Purchase,Richard McCormickHouse / R,2023-03-15
+./data/09-27-2025/congress_purchases_only_06-05-18.csv:CSCO,Purchase,Richard McCormickHouse / R,2023-03-15
+./data/09-27-2025/congress_purchases_only_05-38-33.csv:CSCO,Purchase,Richard McCormickHouse / R,2023-03-15
+./data/03-25-2026/congress_purchases_only_09-54-31.csv:CSCO,Purchase,Julia Letlow,R,House,"$1,001 - $15,000",2026-02-02,2026-03-12 00:00:00
+./data/03-25-2026/congress_purchases_only_12-07-04.csv:CSCO,Purchase,Julia Letlow,R,House,"$1,001 - $15,000",2026-02-02,2026-03-12 00:00:00
+./data/03-25-2026/congress_purchases_only_11-34-51.csv:CSCO,Purchase,Julia Letlow,R,House,"$1,001 - $15,000",2026-02-02,2026-03-12 00:00:00
+./data/03-09-2026/congress_purchases_only_04-12-13.csv:CSCO,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-09,2026-02-13 00:00:00
+./data/03-09-2026/congress_purchases_only_05-00-48.csv:CSCO,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-09,2026-02-13 00:00:00
+./data/03-09-2026/congress_purchases_only_06-50-23.csv:CSCO,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-09,2026-02-13 00:00:00
+./data/03-09-2026/congress_purchases_only_07-11-21.csv:CSCO,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-09,2026-02-13 00:00:00
+./data/03-09-2026/congress_purchases_only_06-33-25.csv:CSCO,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-09,2026-02-13 00:00:00
+./data/02-24-2026/congress_purchases_only_17-55-04.csv:CSCO,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-09,2026-02-13 00:00:00
+./data/02-24-2026/congress_purchases_only_13-08-39.csv:CSCO,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-01-09,2026-02-13 00:00:00
+./institutional-data/vanguard_holdings_cleaned.csv:CSCO,398943293.0,30730601860.0,0.45,4049893.0,311963258.0,1.03

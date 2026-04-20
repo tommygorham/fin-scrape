@@ -1,0 +1,158 @@
+Stock,Transaction,Politician,Party,Chamber,Amount,Traded,Filed
+"3.MONTH, MATURE",Purchase,Rudy Yakym III,R,House,"$15,001 - $50,000",2026-04-06,2026-04-06 00:00:00
+ROL,Purchase,April McClain Delaney,D,House,"$1,001 - $15,000",2026-03-31,2026-04-06 00:00:00
+ENTG,Purchase,April McClain Delaney,D,House,"$1,001 - $15,000",2026-03-31,2026-04-06 00:00:00
+NDAQ,Purchase,April McClain Delaney,D,House,"$1,001 - $15,000",2026-03-31,2026-04-06 00:00:00
+SGI,Purchase,April McClain Delaney,D,House,"$1,001 - $15,000",2026-03-31,2026-04-06 00:00:00
+TSCO,Purchase,April McClain Delaney,D,House,"$1,001 - $15,000",2026-03-31,2026-04-06 00:00:00
+MU,Purchase,John Fetterman,D,Senate,"$1,001 - $15,000",2026-03-30,2026-04-03 15:29:00
+AMZN,Purchase,John Fetterman,D,Senate,"$1,001 - $15,000",2026-03-30,2026-04-03 15:29:00
+MSFT,Purchase,John Fetterman,D,Senate,"$1,001 - $15,000",2026-03-30,2026-04-03 15:29:00
+GOOG,Purchase,John Fetterman,D,Senate,"$1,001 - $15,000",2026-03-30,2026-04-03 15:29:00
+ERIE,Purchase,John Fetterman,D,Senate,"$1,001 - $15,000",2026-03-30,2026-04-03 15:29:00
+FSV,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-27,2026-04-07 00:00:00
+SARO,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-27,2026-04-07 00:00:00
+BABAF,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-27,2026-04-07 00:00:00
+LPLA,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-27,2026-04-07 00:00:00
+ERIE,Purchase,John Fetterman,D,Senate,"$1,001 - $15,000",2026-03-27,2026-04-03 15:29:00
+FN,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$15,001 - $50,000",2026-03-27,2026-04-07 00:00:00
+DASH,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-27,2026-04-07 00:00:00
+MSFT,Purchase,John Fetterman,D,Senate,"$1,001 - $15,000",2026-03-27,2026-04-03 15:29:00
+HD,Purchase,Lloyd Doggett,D,House,"$1,001 - $15,000",2026-03-26,2026-04-06 00:00:00
+GLW,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-25,2026-04-07 00:00:00
+MU,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-25,2026-04-07 00:00:00
+COHR,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-25,2026-04-07 00:00:00
+IBP,Purchase,David Taylor,R,House,"$1,001 - $15,000",2026-03-24,2026-04-02 00:00:00
+CBRL,Purchase,Tim Moore,R,House,"$15,001 - $50,000",2026-03-23,2026-03-24 00:00:00
+PKG,Purchase,April McClain Delaney,D,House,"$1,001 - $15,000",2026-03-20,2026-04-06 00:00:00
+MIAX,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$15,001 - $50,000",2026-03-20,2026-04-07 00:00:00
+LGIH,Purchase,Tim Moore,R,House,"$15,001 - $50,000",2026-03-20,2026-03-24 00:00:00
+UNH,Purchase,Richard McCormick,R,House,"$1,001 - $15,000",2026-03-19,2026-04-07 00:00:00
+HD,Purchase,Richard McCormick,R,House,"$1,001 - $15,000",2026-03-19,2026-04-07 00:00:00
+MGK,Purchase,Richard McCormick,R,House,"$1,001 - $15,000",2026-03-19,2026-04-07 00:00:00
+MGK,Purchase,Richard McCormick,R,House,"$1,001 - $15,000",2026-03-19,2026-04-07 00:00:00
+MSFT,Purchase,Richard McCormick,R,House,"$1,001 - $15,000",2026-03-19,2026-04-07 00:00:00
+MSFT,Purchase,Richard McCormick,R,House,"$1,001 - $15,000",2026-03-19,2026-04-07 00:00:00
+HD,Purchase,Richard McCormick,R,House,"$1,001 - $15,000",2026-03-19,2026-04-07 00:00:00
+ABT,Purchase,Richard McCormick,R,House,"$1,001 - $15,000",2026-03-19,2026-04-07 00:00:00
+BLK,Purchase,Richard McCormick,R,House,"$1,001 - $15,000",2026-03-19,2026-04-07 00:00:00
+ADP,Purchase,Richard McCormick,R,House,"$1,001 - $15,000",2026-03-19,2026-04-07 00:00:00
+LGIH,Purchase,Tim Moore,R,House,"$50,001 - $100,000",2026-03-19,2026-03-24 00:00:00
+BBIO,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-19,2026-04-07 00:00:00
+NDAQ,Purchase,April McClain Delaney,D,House,"$1,001 - $15,000",2026-03-18,2026-04-06 00:00:00
+LGIH,Purchase,Tim Moore,R,House,"$15,001 - $50,000",2026-03-18,2026-03-24 00:00:00
+DASH,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-18,2026-04-07 00:00:00
+BBIO,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-18,2026-04-07 00:00:00
+FSV,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-18,2026-04-07 00:00:00
+WAT,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-18,2026-04-07 00:00:00
+TEL,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-18,2026-04-07 00:00:00
+PKG,Purchase,April McClain Delaney,D,House,"$1,001 - $15,000",2026-03-17,2026-04-06 00:00:00
+AMZN,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-16,2026-04-07 00:00:00
+TDG,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-16,2026-04-07 00:00:00
+GOOG,Purchase,Cleo Fields,D,House,"$1,001 - $15,000",2026-03-16,2026-04-07 00:00:00
+CDRE,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-16,2026-04-07 00:00:00
+TSCO,Purchase,April McClain Delaney,D,House,"$1,001 - $15,000",2026-03-16,2026-04-06 00:00:00
+STE,Purchase,April McClain Delaney,D,House,"$1,001 - $15,000",2026-03-16,2026-04-06 00:00:00
+SGI,Purchase,April McClain Delaney,D,House,"$1,001 - $15,000",2026-03-16,2026-04-06 00:00:00
+PLTR,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-16,2026-04-07 00:00:00
+MELI,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-16,2026-04-07 00:00:00
+ACN,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-13,2026-04-07 00:00:00
+PSKY,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-13,2026-04-07 00:00:00
+SMPL,Purchase,Tim Moore,R,House,"$1,001 - $15,000",2026-03-13,2026-03-24 00:00:00
+GLAS FUNDS,Purchase,Max L. Miller,R,House,"$1,001 - $15,000",2026-03-13,2026-03-30 00:00:00
+TTD,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-13,2026-04-07 00:00:00
+GLAS FUNDS,Purchase,Max L. Miller,R,House,"$1,001 - $15,000",2026-03-13,2026-03-30 00:00:00
+SNDK,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-13,2026-04-07 00:00:00
+SQ,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-13,2026-04-07 00:00:00
+PANW,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-13,2026-04-07 00:00:00
+TYL,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-13,2026-04-07 00:00:00
+UNH,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-13,2026-04-07 00:00:00
+WDAY,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-13,2026-04-07 00:00:00
+SGI,Purchase,April McClain Delaney,D,House,"$1,001 - $15,000",2026-03-13,2026-04-06 00:00:00
+PAYC,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-13,2026-04-07 00:00:00
+PYPL,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-13,2026-04-07 00:00:00
+OMC,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-13,2026-04-07 00:00:00
+CSGP,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-13,2026-04-07 00:00:00
+FISV,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-13,2026-04-07 00:00:00
+FIS,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-13,2026-04-07 00:00:00
+FICO,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-13,2026-04-07 00:00:00
+FDS,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-13,2026-04-07 00:00:00
+EPAM,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-13,2026-04-07 00:00:00
+IT,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-13,2026-04-07 00:00:00
+EFX,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-13,2026-04-07 00:00:00
+DDOG,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-13,2026-04-07 00:00:00
+FOX,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-13,2026-04-07 00:00:00
+CTSH,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-13,2026-04-07 00:00:00
+CRWD,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-13,2026-04-07 00:00:00
+CHTR,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-13,2026-04-07 00:00:00
+BKNG,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-13,2026-04-07 00:00:00
+MSFT,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$15,001 - $50,000",2026-03-13,2026-04-07 00:00:00
+APP,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-13,2026-04-07 00:00:00
+NVDA,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-13,2026-04-07 00:00:00
+FTNT,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-13,2026-04-07 00:00:00
+PNC,Purchase,Shelley Moore Capito,R,Senate,"$1,001 - $15,000",2026-03-12,2026-04-04 16:33:00
+PPG,Purchase,Lloyd Doggett,D,House,"$1,001 - $15,000",2026-03-12,2026-04-06 00:00:00
+HOG,Purchase,Tim Moore,R,House,"$15,001 - $50,000",2026-03-12,2026-03-24 00:00:00
+LGIH,Purchase,Tim Moore,R,House,"$15,001 - $50,000",2026-03-12,2026-03-24 00:00:00
+AXP,Purchase,Shelley Moore Capito,R,Senate,"$1,001 - $15,000",2026-03-11,2026-04-04 16:33:00
+NDAQ,Purchase,April McClain Delaney,D,House,"$1,001 - $15,000",2026-03-10,2026-04-06 00:00:00
+IBM,Purchase,Lloyd Doggett,D,House,"$1,001 - $15,000",2026-03-10,2026-04-06 00:00:00
+EME,Purchase,April McClain Delaney,D,House,"$1,001 - $15,000",2026-03-10,2026-04-06 00:00:00
+JNJ,Purchase,Lloyd Doggett,D,House,"$1,001 - $15,000",2026-03-10,2026-04-06 00:00:00
+FSS,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-09,2026-04-07 00:00:00
+EME,Purchase,April McClain Delaney,D,House,"$1,001 - $15,000",2026-03-09,2026-04-06 00:00:00
+SGI,Purchase,April McClain Delaney,D,House,"$1,001 - $15,000",2026-03-09,2026-04-06 00:00:00
+HALO,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-09,2026-04-07 00:00:00
+NDAQ,Purchase,April McClain Delaney,D,House,"$1,001 - $15,000",2026-03-09,2026-04-06 00:00:00
+MLM,Purchase,April McClain Delaney,D,House,"$1,001 - $15,000",2026-03-09,2026-04-06 00:00:00
+TSCO,Purchase,April McClain Delaney,D,House,"$1,001 - $15,000",2026-03-04,2026-04-06 00:00:00
+NDAQ,Purchase,April McClain Delaney,D,House,"$1,001 - $15,000",2026-03-04,2026-04-06 00:00:00
+BBIO,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-03,2026-04-07 00:00:00
+CRNX,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-03,2026-04-07 00:00:00
+LGND,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-03,2026-04-07 00:00:00
+AEIS,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-03,2026-04-07 00:00:00
+RHP,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-03,2026-04-07 00:00:00
+COCO,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-03,2026-04-07 00:00:00
+RBC,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-03,2026-04-07 00:00:00
+CENTA,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-03,2026-04-07 00:00:00
+CATY,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-03,2026-04-07 00:00:00
+BOOT,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-03,2026-04-07 00:00:00
+RARE,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-03,2026-04-07 00:00:00
+ARQT,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-03,2026-04-07 00:00:00
+MTSI,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-03,2026-04-07 00:00:00
+NWE,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-03,2026-04-07 00:00:00
+SKY,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-03,2026-04-07 00:00:00
+AZTA,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-03,2026-04-07 00:00:00
+GLA,Purchase,Max L. Miller,R,House,$707.21 - $707.21,2026-03-03,2026-03-30 00:00:00
+GLA,Purchase,Max L. Miller,R,House,$584.22 - $584.22,2026-03-03,2026-03-30 00:00:00
+AVNT,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-03,2026-04-07 00:00:00
+AVAV,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-03,2026-04-07 00:00:00
+ATRC,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-03,2026-04-07 00:00:00
+PRIM,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-03,2026-04-07 00:00:00
+AGIO,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-03,2026-04-07 00:00:00
+LGN,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-03,2026-04-07 00:00:00
+SMTC,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-03,2026-04-07 00:00:00
+HLI,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-03,2026-04-07 00:00:00
+VCYT,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-03,2026-04-07 00:00:00
+EME,Purchase,April McClain Delaney,D,House,"$1,001 - $15,000",2026-03-03,2026-04-06 00:00:00
+GMED,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-03,2026-04-07 00:00:00
+GTES,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-03,2026-04-07 00:00:00
+CSW,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-03,2026-04-07 00:00:00
+PATK,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-03,2026-04-07 00:00:00
+TXRH,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-03,2026-04-07 00:00:00
+UFPI,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-03,2026-04-07 00:00:00
+NDAQ,Purchase,April McClain Delaney,D,House,"$1,001 - $15,000",2026-03-03,2026-04-06 00:00:00
+TNDM,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-03,2026-04-07 00:00:00
+EPAC,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-03,2026-04-07 00:00:00
+IDA,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-03,2026-04-07 00:00:00
+SUPN,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-03,2026-04-07 00:00:00
+ITT,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-03,2026-04-07 00:00:00
+GLAS FUNDS LP,Purchase,Max L. Miller,R,House,$318.74 - $318.74,2026-02-27,2026-03-30 00:00:00
+KRSOX,Purchase,Sheri Biggs,R,House,"$1,001 - $15,000",2026-02-04,2026-03-21 00:00:00
+AAPL,Purchase,Ed Case,D,House,"$1,001 - $15,000",2025-11-13,2026-04-06 00:00:00
+AAPL,Purchase,Ed Case,D,House,"$1,001 - $15,000",2025-08-14,2026-04-06 00:00:00
+AAPL,Purchase,Ed Case,D,House,"$1,001 - $15,000",2025-05-15,2026-04-06 00:00:00
+AAPL,Purchase,Ed Case,D,House,"$1,001 - $15,000",2025-02-13,2026-04-06 00:00:00
+AAPL,Purchase,Ed Case,D,House,"$1,001 - $15,000",2024-11-14,2026-04-06 00:00:00
+AAPL,Purchase,Ed Case,D,House,"$1,001 - $15,000",2024-08-15,2026-04-06 00:00:00
+AAPL,Purchase,Ed Case,D,House,"$1,001 - $15,000",2024-05-16,2026-04-06 00:00:00

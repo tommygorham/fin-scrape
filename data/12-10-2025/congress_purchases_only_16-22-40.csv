@@ -1,0 +1,81 @@
+Stock,Transaction,Politician,Traded
+V,Purchase,David TaylorHouse / R,2025-12-03
+BITB,Purchase,David McCormickSenate / R,2025-11-25
+BITB,Purchase,David McCormickSenate / R,2025-11-24
+HOG,Purchase,Tim MooreHouse / R,2025-11-21
+CMBS,Purchase,John BoozmanSenate / R,2025-11-21
+JMBS,Purchase,John BoozmanSenate / R,2025-11-21
+MBB,Purchase,John BoozmanSenate / R,2025-11-21
+MDY,Purchase,John BoozmanSenate / R,2025-11-21
+PYPL,Purchase,John BoozmanSenate / R,2025-11-21
+GIGB,Purchase,John BoozmanSenate / R,2025-11-21
+GH,Purchase,Sheldon WhitehouseSenate / D,2025-11-21
+HSY,Purchase,Sheldon WhitehouseSenate / D,2025-11-21
+KO,Purchase,Sheldon WhitehouseSenate / D,2025-11-21
+HY,Purchase,Tim MooreHouse / R,2025-11-20
+CBRL,Purchase,Tim MooreHouse / R,2025-11-20
+NFLX,Purchase,Cleo FieldsHouse / D,2025-11-20
+BRO,Purchase,April McClain DelaneyHouse / D,2025-11-20
+WWSYX,Purchase,John BoozmanSenate / R,2025-11-20
+NFLX,Purchase,Cleo FieldsHouse / D,2025-11-20
+HTGC,Purchase,Virginia FoxxHouse / R,2025-11-19
+ARLP,Purchase,Virginia FoxxHouse / R,2025-11-17
+LH,Purchase,April McClain DelaneyHouse / D,2025-11-17
+ARLP,Purchase,Virginia FoxxHouse / R,2025-11-14
+CAG,Purchase,Gary C. PetersSenate / D,2025-11-14
+AMZN,Purchase,John BoozmanSenate / R,2025-11-13
+ANET,Purchase,John BoozmanSenate / R,2025-11-13
+META,Purchase,Shelley Moore CapitoSenate / R,2025-11-13
+HY,Purchase,Tim MooreHouse / R,2025-11-12
+STT,Purchase,Jonathan L. JacksonHouse / D,2025-11-11
+PNR,Purchase,Markwayne MullinSenate / R,2025-11-10
+COF,Purchase,Markwayne MullinSenate / R,2025-11-10
+GNPX,Purchase,Tim MooreHouse / R,2025-11-07
+HOOD,Purchase,Jonathan L. JacksonHouse / D,2025-11-06
+VWUAX,Purchase,Lindsey GrahamSenate / R,2025-11-06
+VEA,Purchase,John BoozmanSenate / R,2025-11-06
+VWO,Purchase,John BoozmanSenate / R,2025-11-06
+HY,Purchase,Tim MooreHouse / R,2025-11-05
+PEP,Purchase,Richard McCormickHouse / R,2025-11-05
+BRK.B,Purchase,Richard McCormickHouse / R,2025-11-05
+O,Purchase,Richard McCormickHouse / R,2025-11-05
+CSCO,Purchase,Richard McCormickHouse / R,2025-11-05
+BLK,Purchase,Richard McCormickHouse / R,2025-11-05
+AWK,Purchase,Richard McCormickHouse / R,2025-11-05
+APD,Purchase,Richard McCormickHouse / R,2025-11-05
+ADP,Purchase,Richard McCormickHouse / R,2025-11-05
+ADI,Purchase,Richard McCormickHouse / R,2025-11-05
+ABT,Purchase,Richard McCormickHouse / R,2025-11-05
+AAPL,Purchase,Richard McCormickHouse / R,2025-11-05
+VZ,Purchase,Tim MooreHouse / R,2025-11-05
+COST,Purchase,Richard McCormickHouse / R,2025-11-05
+EMR,Purchase,Richard McCormickHouse / R,2025-11-05
+MCD,Purchase,Richard McCormickHouse / R,2025-11-05
+PG,Purchase,Richard McCormickHouse / R,2025-11-05
+V,Purchase,Richard McCormickHouse / R,2025-11-05
+WMT,Purchase,Richard McCormickHouse / R,2025-11-05
+NEE,Purchase,Richard McCormickHouse / R,2025-11-05
+MSFT,Purchase,Richard McCormickHouse / R,2025-11-05
+MDT,Purchase,Richard McCormickHouse / R,2025-11-05
+UNH,Purchase,Richard McCormickHouse / R,2025-11-05
+LHX,Purchase,Richard McCormickHouse / R,2025-11-05
+ITW,Purchase,Richard McCormickHouse / R,2025-11-05
+ICE,Purchase,Richard McCormickHouse / R,2025-11-05
+HD,Purchase,Richard McCormickHouse / R,2025-11-05
+JNJ,Purchase,Richard McCormickHouse / R,2025-11-05
+LGIH,Purchase,Tim MooreHouse / R,2025-11-04
+HY,Purchase,Tim MooreHouse / R,2025-11-03
+MKL,Purchase,April McClain DelaneyHouse / D,2025-11-03
+CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+DELL,Purchase,Jared MoskowitzHouse / D,2025-10-10
+DELL,Purchase,Jared MoskowitzHouse / D,2025-10-10
+DELL,Purchase,Jared MoskowitzHouse / D,2025-10-10
+CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+CSCO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+AVGO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+AXP,Purchase,Jared MoskowitzHouse / D,2025-10-10
+AXP,Purchase,Jared MoskowitzHouse / D,2025-10-10
+AXP,Purchase,Jared MoskowitzHouse / D,2025-10-10
+AVGO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+AVGO,Purchase,Jared MoskowitzHouse / D,2025-10-10
+GS,Purchase,Jared MoskowitzHouse / D,2025-10-10

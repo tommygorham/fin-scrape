@@ -1,0 +1,140 @@
+Stock,Transaction,Politician,Party,Chamber,Amount,Traded,Filed
+MSFT,Purchase,Cleo Fields,D,House,"$1,001 - $15,000",2026-03-12,2026-03-17 00:00:00
+MSFT,Purchase,Cleo Fields,D,House,"$1,001 - $15,000",2026-03-12,2026-03-17 00:00:00
+WFC,Purchase,Mitch McConnell,R,Senate,"$1,001 - $15,000",2026-03-01,2026-03-19 10:23:00
+ADSK,Purchase,Michael T. McCaul,R,House,"$1,001 - $15,000",2026-02-27,2026-03-10 00:00:00
+WDAY,Purchase,Michael T. McCaul,R,House,"$1,001 - $15,000",2026-02-27,2026-03-10 00:00:00
+SPOT,Purchase,Michael T. McCaul,R,House,"$1,001 - $15,000",2026-02-27,2026-03-10 00:00:00
+ORCL,Purchase,Michael T. McCaul,R,House,"$1,001 - $15,000",2026-02-27,2026-03-10 00:00:00
+NFLX,Purchase,Michael T. McCaul,R,House,"$1,001 - $15,000",2026-02-27,2026-03-10 00:00:00
+NDAQ,Purchase,April McClain Delaney,D,House,"$1,001 - $15,000",2026-02-27,2026-03-10 00:00:00
+MELI,Purchase,Michael T. McCaul,R,House,"$1,001 - $15,000",2026-02-27,2026-03-10 00:00:00
+HURN,Purchase,Michael T. McCaul,R,House,"$15,001 - $50,000",2026-02-27,2026-03-10 00:00:00
+FCN,Purchase,Michael T. McCaul,R,House,"$15,001 - $50,000",2026-02-27,2026-03-10 00:00:00
+EME,Purchase,April McClain Delaney,D,House,"$1,001 - $15,000",2026-02-27,2026-03-10 00:00:00
+LPX,Purchase,Michael T. McCaul,R,House,"$15,001 - $50,000",2026-02-27,2026-03-10 00:00:00
+IFNNY,Purchase,Josh Gottheimer,D,House,"$1,001 - $15,000",2026-02-27,2026-03-16 00:00:00
+FSS,Purchase,Josh Gottheimer,D,House,"$1,001 - $15,000",2026-02-26,2026-03-16 00:00:00
+ACI,Purchase,Ro Khanna,D,House,"$1,001 - $15,000",2026-02-26,2026-03-09 00:00:00
+HWAY,Purchase,Michael T. McCaul,R,House,"$100,001 - $250,000",2026-02-26,2026-03-10 00:00:00
+PSTG,Purchase,Michael T. McCaul,R,House,"$1,001 - $15,000",2026-02-26,2026-03-10 00:00:00
+UNH,Purchase,Markwayne Mullin,R,Senate,"$50,001 - $100,000",2026-02-25,2026-03-10 10:39:00
+ACI,Purchase,Ro Khanna,D,House,"$1,001 - $15,000",2026-02-25,2026-03-09 00:00:00
+ABNB,Purchase,Ro Khanna,D,House,"$1,001 - $15,000",2026-02-24,2026-03-09 00:00:00
+ABT,Purchase,Ro Khanna,D,House,"$15,001 - $50,000",2026-02-24,2026-03-09 00:00:00
+CLH,Purchase,April McClain Delaney,D,House,"$15,001 - $50,000",2026-02-23,2026-03-10 00:00:00
+ACI,Purchase,Ro Khanna,D,House,"$1,001 - $15,000",2026-02-23,2026-03-09 00:00:00
+META,Purchase,Michael T. McCaul,R,House,"$1,001 - $15,000",2026-02-20,2026-03-10 00:00:00
+GPC,Purchase,Michael T. McCaul,R,House,"$15,001 - $50,000",2026-02-20,2026-03-10 00:00:00
+CVS,Purchase,Michael T. McCaul,R,House,"$15,001 - $50,000",2026-02-20,2026-03-10 00:00:00
+TRV,Purchase,Julia Letlow,R,House,"$1,001 - $15,000",2026-02-20,2026-03-12 00:00:00
+ROL,Purchase,April McClain Delaney,D,House,"$1,001 - $15,000",2026-02-20,2026-03-10 00:00:00
+KMI,Purchase,Rick W. Allen,R,House,"$1,001 - $15,000",2026-02-19,2026-03-11 00:00:00
+TSM,Purchase,Rick W. Allen,R,House,"$1,001 - $15,000",2026-02-19,2026-03-11 00:00:00
+NTK,Purchase,Michael T. McCaul,R,House,-,2026-02-19,2026-03-10 00:00:00
+LIN,Purchase,"Thomas H. Kean, Jr.",R,House,"$1,001 - $15,000",2026-02-18,2026-03-18 00:00:00
+PRI,Purchase,Michael T. McCaul,R,House,"$15,001 - $50,000",2026-02-18,2026-03-10 00:00:00
+ACI,Purchase,Ro Khanna,D,House,"$1,001 - $15,000",2026-02-18,2026-03-09 00:00:00
+91282CLC3,Purchase,Rick W. Allen,R,House,"$50,001 - $100,000",2026-02-18,2026-03-11 00:00:00
+ROL,Purchase,April McClain Delaney,D,House,"$1,001 - $15,000",2026-02-18,2026-03-10 00:00:00
+BAX,Purchase,Michael T. McCaul,R,House,"$100,001 - $250,000",2026-02-17,2026-03-10 00:00:00
+VST,Purchase,Julia Letlow,R,House,"$1,001 - $15,000",2026-02-17,2026-03-12 00:00:00
+INTU,Purchase,Michael T. McCaul,R,House,"$1,001 - $15,000",2026-02-17,2026-03-10 00:00:00
+SLND,Purchase,Michael T. McCaul,R,House,"$1,001 - $15,000",2026-02-17,2026-03-10 00:00:00
+ABNB,Purchase,Ro Khanna,D,House,"$1,001 - $15,000",2026-02-17,2026-03-09 00:00:00
+BK,Purchase,Jonathan L. Jackson,D,House,"$1,001 - $15,000",2026-02-17,2026-03-12 00:00:00
+BK,Purchase,Jonathan L. Jackson,D,House,"$50,001 - $100,000",2026-02-17,2026-03-12 00:00:00
+ACI,Purchase,Ro Khanna,D,House,"$1,001 - $15,000",2026-02-17,2026-03-09 00:00:00
+NFLX,Purchase,Michael T. McCaul,R,House,"$1,001 - $15,000",2026-02-17,2026-03-10 00:00:00
+HPWR,Purchase,Michael T. McCaul,R,House,"$15,001 - $50,000",2026-02-13,2026-03-10 00:00:00
+HLI,Purchase,Michael T. McCaul,R,House,"$15,001 - $50,000",2026-02-13,2026-03-10 00:00:00
+CHRW,Purchase,April McClain Delaney,D,House,"$15,001 - $50,000",2026-02-13,2026-03-10 00:00:00
+PSTG,Purchase,Michael T. McCaul,R,House,"$15,001 - $50,000",2026-02-13,2026-03-10 00:00:00
+ROL,Purchase,April McClain Delaney,D,House,"$15,001 - $50,000",2026-02-13,2026-03-10 00:00:00
+SAP,Purchase,Michael T. McCaul,R,House,"$1,001 - $15,000",2026-02-13,2026-03-10 00:00:00
+ACI,Purchase,Ro Khanna,D,House,"$1,001 - $15,000",2026-02-13,2026-03-09 00:00:00
+ACI,Purchase,Ro Khanna,D,House,"$1,001 - $15,000",2026-02-12,2026-03-09 00:00:00
+HURN,Purchase,Michael T. McCaul,R,House,"$15,001 - $50,000",2026-02-12,2026-03-10 00:00:00
+AAPL,Purchase,Ed Case,D,House,"$1,001 - $15,000",2026-02-12,2026-03-14 00:00:00
+ACI,Purchase,Ro Khanna,D,House,"$1,001 - $15,000",2026-02-12,2026-03-09 00:00:00
+FCN,Purchase,Michael T. McCaul,R,House,"$15,001 - $50,000",2026-02-12,2026-03-10 00:00:00
+EXR,Purchase,Julia Letlow,R,House,"$1,001 - $15,000",2026-02-12,2026-03-12 00:00:00
+META,Purchase,Julia Letlow,R,House,"$1,001 - $15,000",2026-02-12,2026-03-12 00:00:00
+REGN,Purchase,Julia Letlow,R,House,"$1,001 - $15,000",2026-02-12,2026-03-12 00:00:00
+NTK,Purchase,Michael T. McCaul,R,House,"$50,001 - $100,000",2026-02-11,2026-03-10 00:00:00
+MTCH1,Purchase,Michael T. McCaul,R,House,"$250,001 - $500,000",2026-02-11,2026-03-10 00:00:00
+NTK,Purchase,Michael T. McCaul,R,House,"$50,001 - $100,000",2026-02-11,2026-03-10 00:00:00
+NTK,Purchase,Michael T. McCaul,R,House,"$50,001 - $100,000",2026-02-11,2026-03-10 00:00:00
+NTK,Purchase,Michael T. McCaul,R,House,"$15,001 - $50,000",2026-02-11,2026-03-10 00:00:00
+NTK,Purchase,Michael T. McCaul,R,House,"$50,001 - $100,000",2026-02-11,2026-03-10 00:00:00
+NTK,Purchase,Michael T. McCaul,R,House,"$100,001 - $250,000",2026-02-11,2026-03-10 00:00:00
+NTK,Purchase,Michael T. McCaul,R,House,"$500,001 - $1,000,000",2026-02-11,2026-03-10 00:00:00
+NTK,Purchase,Michael T. McCaul,R,House,"$15,001 - $50,000",2026-02-11,2026-03-10 00:00:00
+NTK,Purchase,Michael T. McCaul,R,House,"$100,001 - $250,000",2026-02-11,2026-03-10 00:00:00
+MTCH1,Purchase,Michael T. McCaul,R,House,"$500,001 - $1,000,000",2026-02-11,2026-03-10 00:00:00
+NTK,Purchase,Michael T. McCaul,R,House,"$250,001 - $500,000",2026-02-11,2026-03-10 00:00:00
+NTK,Purchase,Michael T. McCaul,R,House,"$50,001 - $100,000",2026-02-11,2026-03-10 00:00:00
+ORCL,Purchase,Michael T. McCaul,R,House,"$1,001 - $15,000",2026-02-11,2026-03-10 00:00:00
+WELL,Purchase,Jonathan L. Jackson,D,House,"$1,001 - $15,000",2026-02-11,2026-03-12 00:00:00
+RED,Purchase,Michael T. McCaul,R,House,"$1,001 - $15,000",2026-02-11,2026-03-10 00:00:00
+C,Purchase,Jonathan L. Jackson,D,House,"$1,001 - $15,000",2026-02-11,2026-03-12 00:00:00
+MTCH1,Purchase,Michael T. McCaul,R,House,"$100,001 - $250,000",2026-02-11,2026-03-10 00:00:00
+MTCH1,Purchase,Michael T. McCaul,R,House,"$100,001 - $250,000",2026-02-11,2026-03-10 00:00:00
+MTCH1,Purchase,Michael T. McCaul,R,House,"$50,001 - $100,000",2026-02-11,2026-03-10 00:00:00
+MTCH1,Purchase,Michael T. McCaul,R,House,"$250,001 - $500,000",2026-02-11,2026-03-10 00:00:00
+META,Purchase,Michael T. McCaul,R,House,"$1,001 - $15,000",2026-02-11,2026-03-10 00:00:00
+MTCH1,Purchase,Michael T. McCaul,R,House,"$100,001 - $250,000",2026-02-11,2026-03-10 00:00:00
+MTCH1,Purchase,Michael T. McCaul,R,House,"$15,001 - $50,000",2026-02-11,2026-03-10 00:00:00
+MTCH1,Purchase,Michael T. McCaul,R,House,"$100,001 - $250,000",2026-02-11,2026-03-10 00:00:00
+LH,Purchase,April McClain Delaney,D,House,"$1,001 - $15,000",2026-02-11,2026-03-10 00:00:00
+MTCH1,Purchase,Michael T. McCaul,R,House,-,2026-02-11,2026-03-10 00:00:00
+MTCH1,Purchase,Michael T. McCaul,R,House,"$100,001 - $250,000",2026-02-11,2026-03-10 00:00:00
+TSCO,Purchase,April McClain Delaney,D,House,"$1,001 - $15,000",2026-02-10,2026-03-10 00:00:00
+ENTG,Purchase,Michael T. McCaul,R,House,"$1,001 - $15,000",2026-02-10,2026-03-10 00:00:00
+SAP,Purchase,Michael T. McCaul,R,House,"$1,001 - $15,000",2026-02-10,2026-03-10 00:00:00
+SLND,Purchase,Michael T. McCaul,R,House,"$1,001 - $15,000",2026-02-10,2026-03-10 00:00:00
+SPOT,Purchase,Michael T. McCaul,R,House,"$1,001 - $15,000",2026-02-10,2026-03-10 00:00:00
+CHRW,Purchase,April McClain Delaney,D,House,"$1,001 - $15,000",2026-02-09,2026-03-10 00:00:00
+PEAK,Purchase,Michael T. McCaul,R,House,"$100,001 - $250,000",2026-02-06,2026-03-10 00:00:00
+BRO,Purchase,April McClain Delaney,D,House,"$1,001 - $15,000",2026-02-06,2026-03-10 00:00:00
+STE,Purchase,April McClain Delaney,D,House,"$1,001 - $15,000",2026-02-06,2026-03-10 00:00:00
+CHRW,Purchase,April McClain Delaney,D,House,"$1,001 - $15,000",2026-02-06,2026-03-10 00:00:00
+FCNCA,Purchase,"Thomas H. Kean, Jr.",R,House,"$1,001 - $15,000",2026-02-05,2026-03-18 00:00:00
+CHRW,Purchase,April McClain Delaney,D,House,"$1,001 - $15,000",2026-02-05,2026-03-10 00:00:00
+C,Purchase,Jonathan L. Jackson,D,House,"$50,001 - $100,000",2026-02-05,2026-03-12 00:00:00
+INTU,Purchase,Michael T. McCaul,R,House,"$1,001 - $15,000",2026-02-05,2026-03-10 00:00:00
+UNH,Purchase,Josh Gottheimer,D,House,"$1,001 - $15,000",2026-02-05,2026-03-16 00:00:00
+AMZN,Purchase,Jonathan L. Jackson,D,House,"$1,001 - $15,000",2026-02-05,2026-03-12 00:00:00
+ABT,Purchase,Michael T. McCaul,R,House,"$15,001 - $50,000",2026-02-05,2026-03-10 00:00:00
+ABBV,Purchase,Ro Khanna,D,House,"$15,001 - $50,000",2026-02-05,2026-03-09 00:00:00
+AAPL,Purchase,Ro Khanna,D,House,"$15,001 - $50,000",2026-02-05,2026-03-09 00:00:00
+WDAY,Purchase,Michael T. McCaul,R,House,"$1,001 - $15,000",2026-02-05,2026-03-10 00:00:00
+CMI,Purchase,Josh Gottheimer,D,House,"$1,001 - $15,000",2026-02-05,2026-03-16 00:00:00
+NFLX,Purchase,Michael T. McCaul,R,House,"$1,001 - $15,000",2026-02-05,2026-03-10 00:00:00
+PEP,Purchase,Julia Letlow,R,House,"$1,001 - $15,000",2026-02-05,2026-03-12 00:00:00
+GEV,Purchase,Josh Gottheimer,D,House,"$1,001 - $15,000",2026-02-05,2026-03-16 00:00:00
+SAP,Purchase,Michael T. McCaul,R,House,"$1,001 - $15,000",2026-02-05,2026-03-10 00:00:00
+UPHN,Purchase,Michael T. McCaul,R,House,"$100,001 - $250,000",2026-02-04,2026-03-10 00:00:00
+TER,Purchase,Michael T. McCaul,R,House,"$1,001 - $15,000",2026-02-04,2026-03-10 00:00:00
+C,Purchase,Jonathan L. Jackson,D,House,"$1,001 - $15,000",2026-02-04,2026-03-12 00:00:00
+CMI,Purchase,Julia Letlow,R,House,"$1,001 - $15,000",2026-02-04,2026-03-12 00:00:00
+FICO,Purchase,Michael T. McCaul,R,House,"$15,001 - $50,000",2026-02-04,2026-03-10 00:00:00
+SPOT,Purchase,Michael T. McCaul,R,House,"$1,001 - $15,000",2026-02-04,2026-03-10 00:00:00
+CVCO,Purchase,Michael T. McCaul,R,House,"$50,001 - $100,000",2026-02-04,2026-03-10 00:00:00
+MRK,Purchase,Josh Gottheimer,D,House,"$1,001 - $15,000",2026-02-04,2026-03-16 00:00:00
+XOM,Purchase,Josh Gottheimer,D,House,"$1,001 - $15,000",2026-02-04,2026-03-16 00:00:00
+EME,Purchase,April McClain Delaney,D,House,"$1,001 - $15,000",2026-02-04,2026-03-10 00:00:00
+ENTG,Purchase,Michael T. McCaul,R,House,"$1,001 - $15,000",2026-02-04,2026-03-10 00:00:00
+LH,Purchase,April McClain Delaney,D,House,"$1,001 - $15,000",2026-02-04,2026-03-10 00:00:00
+SAP,Purchase,Michael T. McCaul,R,House,"$1,001 - $15,000",2026-02-03,2026-03-10 00:00:00
+MWA,Purchase,Michael T. McCaul,R,House,"$15,001 - $50,000",2026-02-03,2026-03-10 00:00:00
+AMD,Purchase,Julia Letlow,R,House,"$1,001 - $15,000",2026-02-02,2026-03-12 00:00:00
+BA,Purchase,Julia Letlow,R,House,"$1,001 - $15,000",2026-02-02,2026-03-12 00:00:00
+AAPL,Purchase,Julia Letlow,R,House,"$1,001 - $15,000",2026-02-02,2026-03-12 00:00:00
+DRS,Purchase,Julia Letlow,R,House,"$1,001 - $15,000",2026-02-02,2026-03-12 00:00:00
+MNST,Purchase,Josh Gottheimer,D,House,"$1,001 - $15,000",2026-02-02,2026-03-16 00:00:00
+CSCO,Purchase,Julia Letlow,R,House,"$1,001 - $15,000",2026-02-02,2026-03-12 00:00:00
+XOM,Purchase,Josh Gottheimer,D,House,"$1,001 - $15,000",2026-02-02,2026-03-16 00:00:00
+IBM,Purchase,Julia Letlow,R,House,"$1,001 - $15,000",2026-02-02,2026-03-12 00:00:00
+TSM,Purchase,Julia Letlow,R,House,"$1,001 - $15,000",2026-02-02,2026-03-12 00:00:00
+PG,Purchase,Julia Letlow,R,House,"$1,001 - $15,000",2026-02-02,2026-03-12 00:00:00

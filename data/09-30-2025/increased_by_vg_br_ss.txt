@@ -1,0 +1,18 @@
+AAPL — Apple Inc.
+NVDA — NVIDIA Corporation
+GOOGL — Alphabet Inc. (Class A)
+GOOG — Alphabet Inc. (Class C)
+TSLA — Tesla Inc.
+AVGO — Broadcom Inc.
+APP — AppLovin Corporation
+PLTR — Palantir Technologies Inc.
+ORCL — Oracle Corporation
+HOOD — Robinhood Markets Inc.
+ABBV — AbbVie Inc.
+JNJ — Johnson & Johnson
+CVX — Chevron Corporation
+INTC — Intel Corporation
+MU — Micron Technology Inc.
+LRCX — Lam Research Corporation
+ANET — Arista Networks Inc.
+CAT — Caterpillar Inc.

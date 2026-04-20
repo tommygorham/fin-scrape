@@ -1,0 +1,84 @@
+Stock,Transaction,Politician,Traded
+INTU,Purchase,Markwayne MullinSenate / R,2025-09-24
+UNH,Purchase,Markwayne MullinSenate / R,2025-09-24
+ISRG,Purchase,Markwayne MullinSenate / R,2025-09-24
+NOW,Purchase,Markwayne MullinSenate / R,2025-09-24
+ORCL,Purchase,Cleo FieldsHouse / D,2025-09-23
+OPEN,Purchase,Cleo FieldsHouse / D,2025-09-19
+ORCL,Purchase,Cleo FieldsHouse / D,2025-09-18
+AMZN,Purchase,Cleo FieldsHouse / D,2025-09-17
+GOOG,Purchase,Cleo FieldsHouse / D,2025-09-17
+GOOG,Purchase,Cleo FieldsHouse / D,2025-09-17
+GOOG,Purchase,Cleo FieldsHouse / D,2025-09-17
+ORCL,Purchase,Cleo FieldsHouse / D,2025-09-17
+META,Purchase,Cleo FieldsHouse / D,2025-09-17
+AVGO,Purchase,Cleo FieldsHouse / D,2025-09-17
+DLR,Purchase,Marjorie Taylor GreeneHouse / R,2025-09-11
+CRWD,Purchase,Marjorie Taylor GreeneHouse / R,2025-09-11
+ASML,Purchase,Marjorie Taylor GreeneHouse / R,2025-09-11
+AMGN,Purchase,Marjorie Taylor GreeneHouse / R,2025-09-11
+ADBE,Purchase,Marjorie Taylor GreeneHouse / R,2025-09-11
+DUK,Purchase,Marjorie Taylor GreeneHouse / R,2025-09-11
+GOOG,Purchase,Marjorie Taylor GreeneHouse / R,2025-09-11
+GS,Purchase,Marjorie Taylor GreeneHouse / R,2025-09-11
+IBIT,Purchase,Marjorie Taylor GreeneHouse / R,2025-09-11
+MS,Purchase,Marjorie Taylor GreeneHouse / R,2025-09-11
+META,Purchase,Cleo FieldsHouse / D,2025-09-10
+QCOM,Purchase,Cleo FieldsHouse / D,2025-09-10
+UBER,Purchase,Cleo FieldsHouse / D,2025-09-10
+FIG,Purchase,Cleo FieldsHouse / D,2025-09-10
+AMZN,Purchase,Cleo FieldsHouse / D,2025-09-10
+AAPL,Purchase,Cleo FieldsHouse / D,2025-09-10
+MCD,Purchase,Cleo FieldsHouse / D,2025-09-10
+NVDA,Purchase,Cleo FieldsHouse / D,2025-09-03
+GOOG,Purchase,Cleo FieldsHouse / D,2025-09-03
+AMZN,Purchase,Cleo FieldsHouse / D,2025-09-03
+AAPL,Purchase,Cleo FieldsHouse / D,2025-09-03
+DOCS,Purchase,Jonathan L. JacksonHouse / D,2025-08-25
+CP,Purchase,"Thomas H. Kean, Jr.House / R",2025-08-22
+AMCR,Purchase,"Thomas H. Kean, Jr.House / R",2025-08-15
+LRCX,Purchase,Jonathan L. JacksonHouse / D,2025-08-13
+CHKP,Purchase,"Thomas H. Kean, Jr.House / R",2025-08-04
+PRAI,Purchase,Michael T. McCaulHouse / R,2025-06-30
+AIC1,Purchase,Michael T. McCaulHouse / R,2025-06-27
+UAN,Purchase,Michael T. McCaulHouse / R,2025-04-11
+PRAI,Purchase,Michael T. McCaulHouse / R,2025-03-31
+VRNG,Purchase,Michael T. McCaulHouse / R,2025-03-31
+VRNG,Purchase,Michael T. McCaulHouse / R,2025-03-28
+VRNG,Purchase,Michael T. McCaulHouse / R,2025-03-28
+VRNG,Purchase,Michael T. McCaulHouse / R,2025-03-28
+AIC1,Purchase,Michael T. McCaulHouse / R,2025-03-27
+ASBA,Purchase,Michael T. McCaulHouse / R,2025-01-31
+VRNG,Purchase,Michael T. McCaulHouse / R,2024-12-26
+VRNG,Purchase,Michael T. McCaulHouse / R,2024-12-24
+VRNG,Purchase,Michael T. McCaulHouse / R,2024-12-24
+VRNG,Purchase,Michael T. McCaulHouse / R,2024-12-24
+HDNG,Purchase,Michael T. McCaulHouse / R,2024-12-20
+NAIT,Purchase,Michael T. McCaulHouse / R,2024-12-20
+HDNG,Purchase,Michael T. McCaulHouse / R,2024-12-20
+HDNG,Purchase,Michael T. McCaulHouse / R,2024-12-20
+HDNG,Purchase,Michael T. McCaulHouse / R,2024-12-20
+HDNG,Purchase,Michael T. McCaulHouse / R,2024-12-20
+UAN,Purchase,Michael T. McCaulHouse / R,2024-12-19
+PRAI,Purchase,Michael T. McCaulHouse / R,2024-12-11
+ASBA,Purchase,Michael T. McCaulHouse / R,2024-10-23
+UAN,Purchase,Michael T. McCaulHouse / R,2024-09-30
+VRNG,Purchase,Michael T. McCaulHouse / R,2024-09-30
+PRAI,Purchase,Michael T. McCaulHouse / R,2024-09-30
+VRNG,Purchase,Michael T. McCaulHouse / R,2024-09-30
+VRNG,Purchase,Michael T. McCaulHouse / R,2024-09-30
+AIC1,Purchase,Michael T. McCaulHouse / R,2024-09-27
+VRNG,Purchase,Michael T. McCaulHouse / R,2024-07-02
+VRNG,Purchase,Michael T. McCaulHouse / R,2024-07-01
+VRNG,Purchase,Michael T. McCaulHouse / R,2024-07-01
+VRNG,Purchase,Michael T. McCaulHouse / R,2024-07-01
+UAN,Purchase,Michael T. McCaulHouse / R,2024-06-30
+PRAI,Purchase,Michael T. McCaulHouse / R,2024-06-28
+AIC1,Purchase,Michael T. McCaulHouse / R,2024-06-27
+AIC1,Purchase,Michael T. McCaulHouse / R,2024-06-05
+VRNG,Purchase,Michael T. McCaulHouse / R,2024-03-28
+AIC1,Purchase,Michael T. McCaulHouse / R,2024-03-28
+PRAI,Purchase,Michael T. McCaulHouse / R,2024-03-28
+VRNG,Purchase,Michael T. McCaulHouse / R,2024-03-25
+VRNG,Purchase,Michael T. McCaulHouse / R,2024-03-25
+BKDT,Purchase,Michael T. McCaulHouse / R,2024-01-02

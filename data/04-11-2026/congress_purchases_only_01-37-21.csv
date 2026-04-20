@@ -1,0 +1,155 @@
+Stock,Transaction,Politician,Party,Chamber,Amount,Traded,Filed
+AJG,Purchase,Ro Khanna,D,House,"$1,001 - $15,000",2026-03-30,2026-04-07
+AXP,Purchase,Ro Khanna,D,House,"$15,001 - $50,000",2026-03-30,2026-04-07
+BX,Purchase,Ro Khanna,D,House,"$15,001 - $50,000",2026-03-30,2026-04-07
+CSCO,Purchase,Ro Khanna,D,House,"$50,001 - $100,000",2026-03-30,2026-04-07
+CRM,Purchase,Ro Khanna,D,House,"$15,001 - $50,000",2026-03-30,2026-04-07
+HOOD,Purchase,Ro Khanna,D,House,"$1,001 - $15,000",2026-03-30,2026-04-07
+CRL,Purchase,Ro Khanna,D,House,"$1,001 - $15,000",2026-03-30,2026-04-07
+HSIC,Purchase,Ro Khanna,D,House,"$1,001 - $15,000",2026-03-30,2026-04-07
+ADSK,Purchase,Ro Khanna,D,House,"$15,001 - $50,000",2026-03-30,2026-04-07
+ADP,Purchase,Ro Khanna,D,House,"$15,001 - $50,000",2026-03-30,2026-04-07
+GOOGL,Purchase,Ro Khanna,D,House,"$15,001 - $50,000",2026-03-30,2026-04-07
+HLT,Purchase,Ro Khanna,D,House,"$1,001 - $15,000",2026-03-30,2026-04-07
+ACN,Purchase,Ro Khanna,D,House,"$15,001 - $50,000",2026-03-30,2026-04-07
+AMZN,Purchase,Ro Khanna,D,House,"$15,001 - $50,000",2026-03-30,2026-04-07
+COF,Purchase,Ro Khanna,D,House,"$15,001 - $50,000",2026-03-30,2026-04-07
+DIS,Purchase,Ro Khanna,D,House,"$15,001 - $50,000",2026-03-30,2026-04-07
+GPC,Purchase,Ro Khanna,D,House,"$1,001 - $15,000",2026-03-30,2026-04-07
+BSX,Purchase,Ro Khanna,D,House,"$15,001 - $50,000",2026-03-30,2026-04-07
+CIEN,Purchase,Ro Khanna,D,House,"$1,001 - $15,000",2026-03-30,2026-04-07
+FN,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$15,001 - $50,000",2026-03-27,2026-04-07
+CRBG,Purchase,Ro Khanna,D,House,"$1,001 - $15,000",2026-03-27,2026-04-07
+BABAF,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-27,2026-04-07
+FSV,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-27,2026-04-07
+DASH,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-27,2026-04-07
+MSFT,Purchase,Josh Gottheimer,D,House,"$500,001 - $1,000,000",2026-03-25,2026-04-08
+COHR,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-25,2026-04-07
+GLW,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-25,2026-04-07
+MSFT,Purchase,Josh Gottheimer,D,House,"$50,001 - $100,000",2026-03-25,2026-04-08
+FN,Purchase,Josh Gottheimer,D,House,"$1,001 - $15,000",2026-03-24,2026-04-08
+APO,Purchase,Ro Khanna,D,House,"$1,001 - $15,000",2026-03-23,2026-04-07
+APD,Purchase,Ro Khanna,D,House,"$1,001 - $15,000",2026-03-23,2026-04-07
+CRM,Purchase,Ro Khanna,D,House,"$15,001 - $50,000",2026-03-23,2026-04-07
+AZO,Purchase,Ro Khanna,D,House,"$1,001 - $15,000",2026-03-23,2026-04-07
+APP,Purchase,Ro Khanna,D,House,"$1,001 - $15,000",2026-03-23,2026-04-07
+GPC,Purchase,Ro Khanna,D,House,"$1,001 - $15,000",2026-03-23,2026-04-07
+CCI,Purchase,Ro Khanna,D,House,"$1,001 - $15,000",2026-03-23,2026-04-07
+COF,Purchase,Ro Khanna,D,House,"$1,001 - $15,000",2026-03-23,2026-04-07
+CPAY,Purchase,Ro Khanna,D,House,"$1,001 - $15,000",2026-03-23,2026-04-07
+CPRT,Purchase,Ro Khanna,D,House,"$1,001 - $15,000",2026-03-23,2026-04-07
+AMP,Purchase,Ro Khanna,D,House,"$1,001 - $15,000",2026-03-23,2026-04-07
+AMT,Purchase,Ro Khanna,D,House,"$1,001 - $15,000",2026-03-23,2026-04-07
+HUM,Purchase,Ro Khanna,D,House,"$1,001 - $15,000",2026-03-23,2026-04-07
+FDS,Purchase,Ro Khanna,D,House,"$1,001 - $15,000",2026-03-23,2026-04-07
+EW,Purchase,Ro Khanna,D,House,"$1,001 - $15,000",2026-03-23,2026-04-07
+ESS,Purchase,Ro Khanna,D,House,"$1,001 - $15,000",2026-03-23,2026-04-07
+ECL,Purchase,Ro Khanna,D,House,"$1,001 - $15,000",2026-03-23,2026-04-07
+DHI,Purchase,Ro Khanna,D,House,"$1,001 - $15,000",2026-03-23,2026-04-07
+ABT,Purchase,Ro Khanna,D,House,"$15,001 - $50,000",2026-03-23,2026-04-07
+BR,Purchase,Ro Khanna,D,House,"$1,001 - $15,000",2026-03-23,2026-04-07
+CSGP,Purchase,Ro Khanna,D,House,"$1,001 - $15,000",2026-03-23,2026-04-07
+BX,Purchase,Ro Khanna,D,House,"$15,001 - $50,000",2026-03-23,2026-04-07
+ACN,Purchase,Ro Khanna,D,House,"$15,001 - $50,000",2026-03-23,2026-04-07
+CVNA,Purchase,Ro Khanna,D,House,"$1,001 - $15,000",2026-03-23,2026-04-07
+ADP,Purchase,Ro Khanna,D,House,"$15,001 - $50,000",2026-03-23,2026-04-07
+ADSK,Purchase,Ro Khanna,D,House,"$1,001 - $15,000",2026-03-23,2026-04-07
+AFG,Purchase,Ro Khanna,D,House,"$15,001 - $50,000",2026-03-23,2026-04-07
+AFL,Purchase,Ro Khanna,D,House,"$1,001 - $15,000",2026-03-23,2026-04-07
+BKNG,Purchase,Ro Khanna,D,House,"$15,001 - $50,000",2026-03-23,2026-04-07
+AJG,Purchase,Ro Khanna,D,House,"$15,001 - $50,000",2026-03-23,2026-04-07
+BDX,Purchase,Ro Khanna,D,House,"$1,001 - $15,000",2026-03-23,2026-04-07
+BP,Purchase,Jonathan L. Jackson,D,House,"$1,001 - $15,000",2026-03-20,2026-04-08
+NFLX,Purchase,Byron Donalds,R,House,"$1,001 - $15,000",2026-03-20,2026-04-08
+NFLX,Purchase,Byron Donalds,R,House,"$1,001 - $15,000",2026-03-20,2026-04-08
+CEG,Purchase,Ro Khanna,D,House,"$1,001 - $15,000",2026-03-19,2026-04-07
+BLK,Purchase,Richard McCormick,R,House,"$1,001 - $15,000",2026-03-19,2026-04-07
+BBIO,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-19,2026-04-07
+HD,Purchase,Richard McCormick,R,House,"$1,001 - $15,000",2026-03-19,2026-04-07
+HD,Purchase,Richard McCormick,R,House,"$1,001 - $15,000",2026-03-19,2026-04-07
+ADP,Purchase,Richard McCormick,R,House,"$1,001 - $15,000",2026-03-19,2026-04-07
+ABT,Purchase,Richard McCormick,R,House,"$1,001 - $15,000",2026-03-19,2026-04-07
+BP,Purchase,Jonathan L. Jackson,D,House,"$15,001 - $50,000",2026-03-19,2026-04-08
+BWXT,Purchase,Ro Khanna,D,House,"$15,001 - $50,000",2026-03-19,2026-04-07
+GENI,Purchase,Ro Khanna,D,House,"$1,001 - $15,000",2026-03-18,2026-04-07
+DASH,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-18,2026-04-07
+FSV,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-18,2026-04-07
+BBIO,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-18,2026-04-07
+EMA,Purchase,Ro Khanna,D,House,"$1,001 - $15,000",2026-03-17,2026-04-07
+EMA,Purchase,Ro Khanna,D,House,"$1,001 - $15,000",2026-03-17,2026-04-07
+BMO,Purchase,Ro Khanna,D,House,"$100,001 - $250,000",2026-03-16,2026-04-07
+BMO,Purchase,Ro Khanna,D,House,"$100,001 - $250,000",2026-03-16,2026-04-07
+CDRE,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-16,2026-04-07
+AMZN,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-16,2026-04-07
+GOOG,Purchase,Cleo Fields,D,House,"$1,001 - $15,000",2026-03-16,2026-04-07
+PYPL,Purchase,Byron Donalds,R,House,"$1,001 - $15,000",2026-03-13,2026-04-08
+EPAM,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-13,2026-04-07
+CRWD,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-13,2026-04-07
+CTSH,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-13,2026-04-07
+APP,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-13,2026-04-07
+EFX,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-13,2026-04-07
+CSGP,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-13,2026-04-07
+DDOG,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-13,2026-04-07
+PYPL,Purchase,Byron Donalds,R,House,"$1,001 - $15,000",2026-03-13,2026-04-08
+FICO,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-13,2026-04-07
+FDS,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-13,2026-04-07
+FTNT,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-13,2026-04-07
+ACN,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-13,2026-04-07
+AZN,Purchase,Ro Khanna,D,House,"$1,001 - $15,000",2026-03-13,2026-04-07
+FIS,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-13,2026-04-07
+FISV,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-13,2026-04-07
+CHTR,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-13,2026-04-07
+FOX,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-13,2026-04-07
+BKNG,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-13,2026-04-07
+CCE,Purchase,Ro Khanna,D,House,"$1,001 - $15,000",2026-03-13,2026-04-07
+ACI,Purchase,Ro Khanna,D,House,"$1,001 - $15,000",2026-03-12,2026-04-07
+BOTA,Purchase,Ro Khanna,D,House,"$50,001 - $100,000",2026-03-12,2026-04-07
+ACI,Purchase,Ro Khanna,D,House,"$1,001 - $15,000",2026-03-10,2026-04-07
+CSGP,Purchase,Ro Khanna,D,House,"$1,001 - $15,000",2026-03-10,2026-04-07
+BAC,Purchase,Ro Khanna,D,House,"$15,001 - $50,000",2026-03-10,2026-04-07
+GPN,Purchase,Ro Khanna,D,House,"$1,001 - $15,000",2026-03-10,2026-04-07
+FI,Purchase,Ro Khanna,D,House,"$1,001 - $15,000",2026-03-10,2026-04-07
+ARE,Purchase,Ro Khanna,D,House,"$1,001 - $15,000",2026-03-10,2026-04-07
+APO,Purchase,Ro Khanna,D,House,"$1,001 - $15,000",2026-03-10,2026-04-07
+CRM,Purchase,Ro Khanna,D,House,"$1,001 - $15,000",2026-03-10,2026-04-07
+SE,Purchase,Josh Gottheimer,D,House,"$1,001 - $15,000",2026-03-10,2026-04-08
+AMCR,Purchase,Ro Khanna,D,House,"$1,001 - $15,000",2026-03-10,2026-04-07
+AMZN,Purchase,Ro Khanna,D,House,"$1,001 - $15,000",2026-03-10,2026-04-07
+EFX,Purchase,Ro Khanna,D,House,"$1,001 - $15,000",2026-03-10,2026-04-07
+AMAT,Purchase,Ro Khanna,D,House,"$15,001 - $50,000",2026-03-10,2026-04-07
+A,Purchase,Ro Khanna,D,House,"$1,001 - $15,000",2026-03-10,2026-04-07
+DOW,Purchase,Ro Khanna,D,House,"$1,001 - $15,000",2026-03-10,2026-04-07
+ABNB,Purchase,Ro Khanna,D,House,"$1,001 - $15,000",2026-03-10,2026-04-07
+DHR,Purchase,Ro Khanna,D,House,"$1,001 - $15,000",2026-03-10,2026-04-07
+ABT,Purchase,Ro Khanna,D,House,"$1,001 - $15,000",2026-03-10,2026-04-07
+AJG,Purchase,Ro Khanna,D,House,"$1,001 - $15,000",2026-03-10,2026-04-07
+IBM,Purchase,Ro Khanna,D,House,"$1,001 - $15,000",2026-03-10,2026-04-07
+GENI,Purchase,Ro Khanna,D,House,"$1,001 - $15,000",2026-03-09,2026-04-07
+HALO,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-09,2026-04-07
+FSS,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-09,2026-04-07
+CART,Purchase,Ro Khanna,D,House,"$1,001 - $15,000",2026-03-06,2026-04-07
+AVGO,Purchase,Ro Khanna,D,House,"$1,001 - $15,000",2026-03-06,2026-04-07
+NOW,Purchase,Josh Gottheimer,D,House,"$1,001 - $15,000",2026-03-06,2026-04-08
+GOOG,Purchase,Ro Khanna,D,House,"$1,001 - $15,000",2026-03-06,2026-04-07
+APD,Purchase,Josh Gottheimer,D,House,"$1,001 - $15,000",2026-03-05,2026-04-08
+FHN,Purchase,Ro Khanna,D,House,"$1,001 - $15,000",2026-03-05,2026-04-07
+ACI,Purchase,Ro Khanna,D,House,"$1,001 - $15,000",2026-03-04,2026-04-07
+GTES,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-03,2026-04-07
+AEIS,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-03,2026-04-07
+AGIO,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-03,2026-04-07
+ARQT,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-03,2026-04-07
+HLI,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-03,2026-04-07
+ATRC,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-03,2026-04-07
+AVAV,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-03,2026-04-07
+AVNT,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-03,2026-04-07
+AZTA,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-03,2026-04-07
+EPAC,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-03,2026-04-07
+BBIO,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-03,2026-04-07
+BOOT,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-03,2026-04-07
+CENTA,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-03,2026-04-07
+COCO,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-03,2026-04-07
+GMED,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-03,2026-04-07
+CRNX,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-03,2026-04-07
+CSW,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-03,2026-04-07
+CATY,Purchase,"Gilbert Ray Cisneros, Jr.",D,House,"$1,001 - $15,000",2026-03-03,2026-04-07
+BCS,Purchase,Ro Khanna,D,House,"$50,001 - $100,000",2026-03-02,2026-04-07

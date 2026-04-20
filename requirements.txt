@@ -3,4 +3,5 @@ matplotlib>=3.5.0
 seaborn>=0.11.0
 requests>=2.25.0
 beautifulsoup4>=4.9.0
+duckdb>=1.0.0
 discord.py>=2.0.0  # Discord bot functionality

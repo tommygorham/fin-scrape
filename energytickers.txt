@@ -1,0 +1,59 @@
+# --- 1. The Data ---
+
+# Simple List
+nuclear_ai_tickers = [
+    "CEG", "VST", "TLN", "OKLO", "SMR", 
+    "BWXT", "CCJ", "NXE", "URA", "NLR"
+]
+
+# Detailed Dictionary
+nuclear_stocks_data = {
+    "Utilities": {
+        "CEG": "Constellation Energy",
+        "VST": "Vistra Corp",
+        "TLN": "Talen Energy"
+    },
+    "Technology_SMRs": {
+        "OKLO": "Oklo Inc.",
+        "SMR": "NuScale Power",
+        "BWXT": "BWX Technologies"
+    },
+    "Miners": {
+        "CCJ": "Cameco Corp",
+        "NXE": "NexGen Energy"
+    },
+    "ETFs": {
+        "URA": "Global X Uranium ETF",
+        "NLR": "VanEck Uranium+Nuclear Energy ETF"
+    }
+}
+
+# --- 2. The Functions ---
+
+def print_simple_list(ticker_list):
+    """Loops over a simple list and prints each ticker."""
+    print("--- Ticker List ---")
+    for ticker in ticker_list:
+        print(ticker)
+
+def print_detailed_portfolio(stock_dict):
+    """Loops over the dictionary to print categories and company names."""
+    print("\n--- Detailed Portfolio Breakdown ---")
+    
+    # Outer loop: Iterates through the Categories (keys) and Inner Dictionaries (values)
+    for category, companies in stock_dict.items():
+        
+        # Print the category name (e.g., "Utilities") with some formatting
+        print(f"\n[{category.replace('_', ' ')}]")
+        
+        # Inner loop: Iterates through the Ticker and Company Name
+        for ticker, name in companies.items():
+            print(f"  {ticker:<5} | {name}")
+
+# --- 3. Execution ---
+
+# Run the simple list function
+print_simple_list(nuclear_ai_tickers)
+
+# Run the detailed function
+print_detailed_portfolio(nuclear_stocks_data)

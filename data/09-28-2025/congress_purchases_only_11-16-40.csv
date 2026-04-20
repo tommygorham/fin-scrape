@@ -1,0 +1,97 @@
+Stock,Transaction,Politician,Traded
+CRM,Purchase,David TaylorHouse / R,2025-09-03
+DOCS,Purchase,Jonathan L. JacksonHouse / D,2025-08-25
+CP,Purchase,"Thomas H. Kean, Jr.House / R",2025-08-22
+UPS,Purchase,Dan NewhouseHouse / R,2025-08-18
+ROST,Purchase,Dan NewhouseHouse / R,2025-08-18
+XOM,Purchase,Dan NewhouseHouse / R,2025-08-18
+ADP,Purchase,Dan NewhouseHouse / R,2025-08-18
+AMAT,Purchase,Dan NewhouseHouse / R,2025-08-18
+AMD,Purchase,Dan NewhouseHouse / R,2025-08-18
+AME,Purchase,Dan NewhouseHouse / R,2025-08-18
+BRO,Purchase,Dan NewhouseHouse / R,2025-08-18
+COP,Purchase,Dan NewhouseHouse / R,2025-08-18
+GIS,Purchase,Dan NewhouseHouse / R,2025-08-18
+PLD,Purchase,Dan NewhouseHouse / R,2025-08-18
+OKE,Purchase,Dan NewhouseHouse / R,2025-08-18
+TGT,Purchase,Dan NewhouseHouse / R,2025-08-18
+SPGI,Purchase,Dan NewhouseHouse / R,2025-08-18
+AMCR,Purchase,"Thomas H. Kean, Jr.House / R",2025-08-15
+LRCX,Purchase,Jonathan L. JacksonHouse / D,2025-08-13
+CHKP,Purchase,"Thomas H. Kean, Jr.House / R",2025-08-04
+PRAI,Purchase,Michael T. McCaulHouse / R,2025-06-30
+AIC1,Purchase,Michael T. McCaulHouse / R,2025-06-27
+UAN,Purchase,Michael T. McCaulHouse / R,2025-04-11
+VRNG,Purchase,Michael T. McCaulHouse / R,2025-03-31
+PRAI,Purchase,Michael T. McCaulHouse / R,2025-03-31
+VRNG,Purchase,Michael T. McCaulHouse / R,2025-03-28
+VRNG,Purchase,Michael T. McCaulHouse / R,2025-03-28
+VRNG,Purchase,Michael T. McCaulHouse / R,2025-03-28
+AIC1,Purchase,Michael T. McCaulHouse / R,2025-03-27
+ASBA,Purchase,Michael T. McCaulHouse / R,2025-01-31
+VRNG,Purchase,Michael T. McCaulHouse / R,2024-12-26
+VRNG,Purchase,Michael T. McCaulHouse / R,2024-12-24
+VRNG,Purchase,Michael T. McCaulHouse / R,2024-12-24
+VRNG,Purchase,Michael T. McCaulHouse / R,2024-12-24
+HDNG,Purchase,Michael T. McCaulHouse / R,2024-12-20
+HDNG,Purchase,Michael T. McCaulHouse / R,2024-12-20
+HDNG,Purchase,Michael T. McCaulHouse / R,2024-12-20
+HDNG,Purchase,Michael T. McCaulHouse / R,2024-12-20
+HDNG,Purchase,Michael T. McCaulHouse / R,2024-12-20
+NAIT,Purchase,Michael T. McCaulHouse / R,2024-12-20
+UAN,Purchase,Michael T. McCaulHouse / R,2024-12-19
+PRAI,Purchase,Michael T. McCaulHouse / R,2024-12-11
+ASBA,Purchase,Michael T. McCaulHouse / R,2024-10-23
+VRNG,Purchase,Michael T. McCaulHouse / R,2024-09-30
+PRAI,Purchase,Michael T. McCaulHouse / R,2024-09-30
+VRNG,Purchase,Michael T. McCaulHouse / R,2024-09-30
+VRNG,Purchase,Michael T. McCaulHouse / R,2024-09-30
+UAN,Purchase,Michael T. McCaulHouse / R,2024-09-30
+AIC1,Purchase,Michael T. McCaulHouse / R,2024-09-27
+VRNG,Purchase,Michael T. McCaulHouse / R,2024-07-02
+VRNG,Purchase,Michael T. McCaulHouse / R,2024-07-01
+VRNG,Purchase,Michael T. McCaulHouse / R,2024-07-01
+VRNG,Purchase,Michael T. McCaulHouse / R,2024-07-01
+UAN,Purchase,Michael T. McCaulHouse / R,2024-06-30
+PRAI,Purchase,Michael T. McCaulHouse / R,2024-06-28
+AIC1,Purchase,Michael T. McCaulHouse / R,2024-06-27
+AIC1,Purchase,Michael T. McCaulHouse / R,2024-06-05
+VRNG,Purchase,Michael T. McCaulHouse / R,2024-03-28
+AIC1,Purchase,Michael T. McCaulHouse / R,2024-03-28
+PRAI,Purchase,Michael T. McCaulHouse / R,2024-03-28
+VRNG,Purchase,Michael T. McCaulHouse / R,2024-03-25
+VRNG,Purchase,Michael T. McCaulHouse / R,2024-03-25
+BKDT,Purchase,Michael T. McCaulHouse / R,2024-01-02
+MDT,Purchase,Richard McCormickHouse / R,2023-03-15
+NEE,Purchase,Richard McCormickHouse / R,2023-03-15
+MSFT,Purchase,Richard McCormickHouse / R,2023-03-15
+NBGIX,Purchase,Richard McCormickHouse / R,2023-03-15
+MGK,Purchase,Richard McCormickHouse / R,2023-03-15
+ABT,Purchase,Richard McCormickHouse / R,2023-03-15
+O,Purchase,Richard McCormickHouse / R,2023-03-15
+PEP,Purchase,Richard McCormickHouse / R,2023-03-15
+LHX,Purchase,Richard McCormickHouse / R,2023-03-15
+TSIIX,Purchase,Richard McCormickHouse / R,2023-03-15
+UNH,Purchase,Richard McCormickHouse / R,2023-03-15
+WMT,Purchase,Richard McCormickHouse / R,2023-03-15
+MCD,Purchase,Richard McCormickHouse / R,2023-03-15
+ICE,Purchase,Richard McCormickHouse / R,2023-03-15
+JNJ,Purchase,Richard McCormickHouse / R,2023-03-15
+COST,Purchase,Richard McCormickHouse / R,2023-03-15
+ADP,Purchase,Richard McCormickHouse / R,2023-03-15
+AMT,Purchase,Richard McCormickHouse / R,2023-03-15
+APD,Purchase,Richard McCormickHouse / R,2023-03-15
+AWK,Purchase,Richard McCormickHouse / R,2023-03-15
+BARIX,Purchase,Richard McCormickHouse / R,2023-03-15
+BEXIX,Purchase,Richard McCormickHouse / R,2023-03-15
+BLK,Purchase,Richard McCormickHouse / R,2023-03-15
+CSCO,Purchase,Richard McCormickHouse / R,2023-03-15
+JFLEX,Purchase,Richard McCormickHouse / R,2023-03-15
+EMR,Purchase,Richard McCormickHouse / R,2023-03-15
+FARCX,Purchase,Richard McCormickHouse / R,2023-03-15
+FCPIX,Purchase,Richard McCormickHouse / R,2023-03-15
+FEPIX,Purchase,Richard McCormickHouse / R,2023-03-15
+HD,Purchase,Richard McCormickHouse / R,2023-03-15
+ADI,Purchase,Richard McCormickHouse / R,2023-03-15
+ITW,Purchase,Richard McCormickHouse / R,2023-03-15
+AAPL,Purchase,Richard McCormickHouse / R,2023-03-15
