@@ -5,10 +5,40 @@ This script fetches the congress trading table from QuiverQuant and converts it
 to a pandas DataFrame with key information about each transaction
 """
 import argparse
+import os
 import pandas as pd
 import requests
 import re
 import ast
+
+
+def write_congress_tickers(df):
+    """
+    Write all scraped congressional purchase tickers to data/congresstickers.txt.
+
+    Tickers are written on a single line, separated by one space, ordered by
+    trade date (most recent first, matching the DataFrame order) and
+    deduplicated. Overwrites the file if it already exists.
+
+    Args:
+        df (pandas.DataFrame): Purchases DataFrame with a 'Stock' column.
+    """
+    if df is None or df.empty:
+        return
+
+    # Preserve order, drop duplicate tickers.
+    tickers = list(dict.fromkeys(df['Stock'].tolist()))
+
+    # data/ lives one level up from this script's scripts/ directory,
+    # so the path is correct regardless of the caller's working directory.
+    data_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'data')
+    os.makedirs(data_dir, exist_ok=True)
+    out_path = os.path.join(data_dir, 'congresstickers.txt')
+
+    with open(out_path, 'w') as f:
+        f.write(' '.join(tickers) + '\n')
+
+    print(f"Wrote {len(tickers)} congress tickers to {out_path}")
 
 
 def fetch_congress_json():
@@ -128,6 +158,9 @@ def main():
         print(f"Data saved to {args.output}")
 
     if args.purchases_only:
+        # Emit data/congresstickers.txt for the scraped purchase tickers.
+        write_congress_tickers(df)
+
         try:
             import db
             db.insert_congress_purchases(df)
