@@ -1,4 +1,5 @@
 import sys
+import os
 import pandas as pd
 from collections import defaultdict
 import argparse
@@ -141,16 +142,17 @@ def extract_congress_data(table):
             
     return data
 
-def get_recent_insider_purchases(sort_by='trade', dedup=True):
+def fetch_insider_purchases_df(sort_by='trade', dedup=True):
     """
-    Fetch recent insider purchases sorted by transaction or file date.
+    Fetch recent insider purchases as a DataFrame, sorted by date (most recent
+    first) and optionally deduplicated by ticker.
 
     Args:
         sort_by: 'trade' for transaction date, 'file' for filing date
-        dedup: If True, show only the most recent transaction per ticker
+        dedup: If True, keep only the most recent transaction per ticker
 
     Returns:
-        List of formatted strings for recent insider purchases
+        pandas.DataFrame: Insider purchase rows (empty if fetch/parse failed)
     """
     url = 'https://www.quiverquant.com/insiders/'
     headers = {
@@ -162,25 +164,25 @@ def get_recent_insider_purchases(sort_by='trade', dedup=True):
         resp.raise_for_status()
     except Exception as e:
         print(f"Error fetching insider data: {e}", file=sys.stderr)
-        return []
+        return pd.DataFrame()
 
     # Extract JSON data from page
     match = re.search(r'let recentInsiderTransactionsData = (\[.*?\]);', resp.text, re.DOTALL)
     if not match:
         print("Could not find insider transactions data", file=sys.stderr)
-        return []
+        return pd.DataFrame()
 
     try:
         data = ast.literal_eval(match.group(1))
     except (ValueError, SyntaxError) as e:
         print(f"Parse error: {e}", file=sys.stderr)
-        return []
+        return pd.DataFrame()
 
     # Filter for purchases only
     purchases = [item for item in data if item.get('transactionCode', '').lower() == 'purchase']
 
     if not purchases:
-        return []
+        return pd.DataFrame()
 
     # Convert to DataFrame
     df = pd.DataFrame(purchases)
@@ -198,6 +200,22 @@ def get_recent_insider_purchases(sort_by='trade', dedup=True):
     # Deduplicate by ticker if requested (keep most recent)
     if dedup:
         df = df.drop_duplicates(subset=['issuerTradingSymbol'], keep='first')
+
+    return df
+
+
+def format_insider_purchases(df):
+    """
+    Format the top insider purchases into clickable terminal display lines.
+
+    Args:
+        df: DataFrame returned by fetch_insider_purchases_df()
+
+    Returns:
+        List of formatted strings for recent insider purchases
+    """
+    if df is None or df.empty:
+        return []
 
     # Get recent purchases (top 20)
     recent_purchases = []
@@ -232,6 +250,52 @@ def get_recent_insider_purchases(sort_by='trade', dedup=True):
         recent_purchases.append(formatted_line)
 
     return recent_purchases
+
+
+def get_recent_insider_purchases(sort_by='trade', dedup=True):
+    """
+    Fetch recent insider purchases sorted by transaction or file date.
+
+    Args:
+        sort_by: 'trade' for transaction date, 'file' for filing date
+        dedup: If True, show only the most recent transaction per ticker
+
+    Returns:
+        List of formatted strings for recent insider purchases
+    """
+    return format_insider_purchases(fetch_insider_purchases_df(sort_by=sort_by, dedup=dedup))
+
+
+def write_insider_tickers(df):
+    """
+    Write all scraped insider purchase tickers to data/insidertickers.txt.
+
+    Tickers are written on a single line, separated by one space, ordered by
+    trade date (most recent first, matching the DataFrame order) and
+    deduplicated. Overwrites the file if it already exists. Does nothing when
+    the DataFrame is empty so a failed scrape never wipes a good file.
+
+    Args:
+        df (pandas.DataFrame): Insider purchases DataFrame with an
+            'issuerTradingSymbol' column.
+    """
+    if df is None or df.empty:
+        return
+
+    # Drop blank/placeholder tickers, then dedup while preserving order.
+    tickers = [t for t in df['issuerTradingSymbol'].tolist() if t and t != '-']
+    tickers = list(dict.fromkeys(tickers))
+
+    # data/ lives one level up from this script's scripts/ directory,
+    # so the path is correct regardless of the caller's working directory.
+    data_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'data')
+    os.makedirs(data_dir, exist_ok=True)
+    out_path = os.path.join(data_dir, 'insidertickers.txt')
+
+    with open(out_path, 'w') as f:
+        f.write(' '.join(tickers) + '\n')
+
+    print(f"Wrote {len(tickers)} insider tickers to {out_path}", file=sys.stderr)
 
 
 def get_recent_congress_purchases(sort_by='trade', dedup=True):
@@ -426,7 +490,10 @@ def print_summary(analysis, cfg):
     if cfg['title'] == 'congress':
         recent_purchases = get_recent_congress_purchases(sort_by=sort_by, dedup=dedup)
     else:
-        recent_purchases = get_recent_insider_purchases(sort_by=sort_by, dedup=dedup)
+        # Fetch once: persist all scraped insider tickers, then display the top rows.
+        insider_df = fetch_insider_purchases_df(sort_by=sort_by, dedup=dedup)
+        write_insider_tickers(insider_df)
+        recent_purchases = format_insider_purchases(insider_df)
 
     for purchase in recent_purchases:
         print(purchase)

@@ -1,5 +1,6 @@
 import requests
 import bs4
+import os
 import sys
 from datetime import datetime
 from typing import List, Optional
@@ -104,6 +105,33 @@ def extract_top_movers(html_content: str) -> List[str]:
     
     return tickers
 
+def write_zacks_tickers(tickers: List[str]) -> None:
+    """
+    Write all scraped Zacks tickers to data/zackstickers.txt.
+
+    The tickers (5 from #1 Rank Additions + 5 from #1 Rank Top Movers) are
+    written on a single line, separated by one space, in that order. The list
+    is NOT deduplicated, so the file holds all 10 even if a ticker appears in
+    both groups. Overwrites the file if it already exists. Skips writing when
+    no tickers were scraped so a failed scrape never wipes a good file.
+
+    Args:
+        tickers: List of ticker symbols to write.
+    """
+    if not tickers:
+        return
+
+    # data/ lives one level up from this script's scripts/ directory,
+    # so the path is correct regardless of the caller's working directory.
+    data_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'data')
+    os.makedirs(data_dir, exist_ok=True)
+    out_path = os.path.join(data_dir, 'zackstickers.txt')
+
+    with open(out_path, 'w') as f:
+        f.write(' '.join(tickers) + '\n')
+
+    print(f"Wrote {len(tickers)} zacks tickers to {out_path}", file=sys.stderr)
+
 if __name__ == "__main__":
     ZACKS_URL = "https://www.zacks.com/"
     html_content = fetch_page_content(ZACKS_URL)
@@ -134,5 +162,9 @@ if __name__ == "__main__":
                 print(clickable_ticker)
         else:
             print("\nCould not find any tickers in the top movers section.")
+
+        # Persist all 10 scraped tickers (additions then top movers) for downstream use.
+        all_zacks_tickers = sorted(extracted_tickers) + sorted(top_movers_tickers)
+        write_zacks_tickers(all_zacks_tickers)
     else:
         print("\nFailed to retrieve webpage. Cannot extract tickers.")
